@@ -8,4 +8,5 @@ description: This is just another page
 
 _yay_
 
-[back](./home)
+
+[back](/md_files/home)

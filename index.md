@@ -1,11 +1,8 @@
 ---
 layout: redirect
-title: Ke-Jun (Tom) Sung's Website
-description: Redirecting
+title: Redirecting
+# description: Redirecting
 ---
 
-<!-- ## Welcome to another page -->
 
-Redirecting In Progress.
-
-<!-- [back](./home) -->
+Redirecting In Progress. If you are not redirected automatically, follow this [link](/md_files/home) to the home page.
