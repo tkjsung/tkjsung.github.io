@@ -1,11 +1,15 @@
 ---
 layout: default
+title: Home
 ---
 
-# <div align="center">Home Page</div>
+<!-- <div align="center">Home Page</div> -->
 
+# Home
 
-Welcome to my website. Here you can find my past academic works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories.
+* * *
+
+Welcome to my website. Here you can find my past academic software-related works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories.
 
 Any course material and other side projects that I post on GitHub are copyrighted by their respective authors, and should be used for reference purposes only. **Do not use or copy without permission**. In addition, current and future students of the courses listed below may not directly use code from this repository to fulfill course assessment requirements. This most certainly violates Academic Integrity Policy Statement outlined by the respective academic institution.
 
@@ -28,6 +32,9 @@ If any of the copyright owners would like content to be taken down from this web
 
 * [Food Compatibility GUI (Using Python Tkinter)](/md_files/side_foodcompat)
 
+## Publications
+
+* IEEE Xplore: <a href="https://doi.org/10.1109/MeditCom49071.2021.9647504" target="_blank">Comparison of Emerging Video Compression Schemes for Efficient Transmission of 4K and 8K HDR Video</a>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
