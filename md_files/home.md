@@ -1,8 +1,35 @@
 ---
 layout: default
-# description: Home
 ---
 
+# <div align="center">Home Page</div>
+
+
+Welcome to my website. Here you can find my past academic works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories.
+
+Any course material and other side projects that I post on GitHub are copyrighted by their respective authors, and should be used for reference purposes only. **Do not use or copy without permission**. In addition, current and future students of the courses listed below may not directly use code from this repository to fulfill course assessment requirements. This most certainly violates Academic Integrity Policy Statement outlined by the respective academic institution.
+
+If any of the copyright owners would like content to be taken down from this website, they must open an issue in this website's GitHub repository. Please note that due to the nature of version control, erasure of all content will probably not be possible.
+
+* * *
+
+## The University of British Columbia
+
+* [CPEN 502: Architecture for Learning Systems](/md_files/cpen502)
+* [CPEN 311: Digital Systems Design](/md_files/cpen311)
+
+## Queen's University
+
+* [ELEC 371: Microprocessor Interfacing and Embedded Systems](/md_files/elec371)
+* [ELEC 474: Machine Vision](/md_files/elec474)
+* [ELEC 49X: Electrical and Computer Engineering Capstone Project](/md_files/elec49x)
+
+## Side Project
+
+* [Food Compatibility GUI (Using Python Tkinter)](/md_files/side_foodcompat)
+
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -122,3 +149,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
