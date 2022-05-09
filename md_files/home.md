@@ -9,21 +9,22 @@ title: Home
 
 * * *
 
-Welcome to my website. Here you can find my past academic software-related works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories.
+For background information about this website, please click on the "About" button or click [here](/md_files/about).
 
-Any course material and other side projects that I post on GitHub are copyrighted by their respective authors, and should be used for reference purposes only. **Do not use or copy without permission**. In addition, current and future students of the courses listed below may not directly use code from this repository to fulfill course assessment requirements. This most certainly violates Academic Integrity Policy Statement outlined by the respective academic institution.
-
-If any of the copyright owners would like content to be taken down from this website, they must open an issue in this website's GitHub repository.
+<!-- Welcome to my website. Here you can find my past academic software-related works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories. -->
 
 * * *
 
-## The University of British Columbia
+## Past Academic Works
+
+### The University of British Columbia
 
 * [CPEN 311: Digital Systems Design](/md_files/cpen311)
 * [CPEN 502: Architecture for Learning Systems](/md_files/cpen502)
+* [EECE 571T: Advanced Machine Learning Tools](/md_files/eece571t)
 
 
-## Queen's University
+### Queen's University
 
 * [ELEC 371: Microprocessor Interfacing and Embedded Systems](/md_files/elec371)
 * [ELEC 474: Machine Vision](/md_files/elec474)
