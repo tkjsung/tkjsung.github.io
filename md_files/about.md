@@ -17,7 +17,7 @@ Please note that any course material and other side projects that I post on GitH
 
 If any of the copyright owners would like content to be taken down from this website, they must open an issue in this website's GitHub repository.
 
-Lastly, all written content on this website belongs to the GitHub repository author. Any other content, including but limited to, website Javascript code, website CSS code, and favicon, are not created by the author.
+Lastly, all written content on this website belongs to the GitHub repository author. Any other content, including but not limited to, website Javascript code, website CSS code, and favicon, are not created by the author.
 
 ## Google Analytics
 
