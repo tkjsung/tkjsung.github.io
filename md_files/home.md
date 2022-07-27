@@ -9,7 +9,7 @@ title: Home
 
 * * *
 
-For background information about this website, please click on the "About" button or click [here](/md_files/about).
+For background and privacy information about this website, please click on the "About" button or click [here](/md_files/about).
 
 <!-- Welcome to my website. Here you can find my past academic software-related works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories. -->
 
