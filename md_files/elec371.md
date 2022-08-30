@@ -11,7 +11,7 @@ title: ELEC 371 Microprocessor Interfacing and Embedded Systems
 
 Mixture of NIOS-II assembly code and C code.
 
-<a href="https://github.com/tkjsung/ELEC371-Lab" target="_blank">https://github.com/tkjsung/ELEC371-Lab</a>
+Link: <a href="https://github.com/tkjsung/ELEC371-Lab" target="_blank">https://github.com/tkjsung/ELEC371-Lab</a>
 
 ## Course Info
 
