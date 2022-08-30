@@ -11,7 +11,9 @@ title: CPEN 311 Digital Systems Design
 
 Hardware Description Language used is SystemVerilog.
 
-<a href="https://github.com/tkjsung/CPEN311" target="_blank">https://github.com/tkjsung/CPEN311</a>
+Please note that the repository may be privated during certain times of the year (usually September to December) so current students cannot use this to fulfill laboratory assessments.
+
+Link: <a href="https://github.com/tkjsung/CPEN311" target="_blank">https://github.com/tkjsung/CPEN311</a>
 
 ## Course Info
 

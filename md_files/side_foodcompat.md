@@ -11,7 +11,7 @@ title: Food Compatibility GUI Side Project
 
 Written in Python. Uses the pandas and tkinter python libraries.
 
-<a href="https://github.com/tkjsung/FoodCompatibility" target="_blank">https://github.com/tkjsung/FoodCompatibility</a>
+Link: <a href="https://github.com/tkjsung/FoodCompatibility" target="_blank">https://github.com/tkjsung/FoodCompatibility</a>
 
 ## About the Side Project
 
