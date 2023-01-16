@@ -18,7 +18,7 @@ The flexible sensor, made from household materials, measures the change in capac
 The Android application was built in Java using Android Studio. It implemented BLE to communicate with the sensor system. The app scans for nearby devices and, upon connection, reads live sensor data to show to the user. This data is also stored to track a users’ motion throughout each at-home physiotherapy session. The tracked data is displayed to the user in a graph which can be viewed again at any time.
 
 
-## Capstone Project Work Repositories
+## Capstone Project Work GitHub Repositories
 
 For testing purposes, sensor data is transmitted to the Android app using an Arduino Nano 33 BLE Board.
 
@@ -27,6 +27,8 @@ For testing purposes, sensor data is transmitted to the Android app using an Ard
 
 
 ## Course Info
+
+_Text in this section is taken from the website of the Department of Electrical and Computer Engineering at Queen's University (<a href="https://ece.queensu.ca" target="_blank">https://ece.queensu.ca</a>). Text was extracted in 2022._
 
 The main objectives of the ELEC 49X project courses are either: (a) to propose, design, build, test, and present a project that deals with hardware and/or software and that produces a tangible result; or (b) to propose and study a thesis topic and then prepare a detailed thesis on the application or suitability of a particular device, technique, software artefact, or system to solve a significant, well-defined industrial or research problem.
 

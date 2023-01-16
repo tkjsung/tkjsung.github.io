@@ -31,7 +31,7 @@ Click <a href="https://github.com/tkjsung/tkjsung.github.io" target="_blank">her
 
 ## Broken Links
 
-Any broken links can be reported in this website's issue tracker <a href="https://github.com/tkjsung/tkjsung.github.io/issues" target="_blank">here</a>.
+Any broken links can be reported in this website's issue tracker <a href="https://github.com/tkjsung/tkjsung.github.io/issues" target="_blank">here</a>. Please note that some broken links may be related to GitHub repositories being set to private.
 
 * * *
 
