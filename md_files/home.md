@@ -20,24 +20,25 @@ For background and privacy information about this website, please click on the "
 
 ### The University of British Columbia
 
-* [CPEN 311: Digital Systems Design](/md_files/cpen311)
-* [CPEN 502: Architecture for Learning Systems](/md_files/cpen502)
-* [EECE 571T: Advanced Machine Learning Tools](/md_files/eece571t)
+* [CPEN 311: Digital Systems Design](/md_files/cpen311) [Sept.-Dec. 2021]
+* [CPEN 502: Architecture for Learning Systems](/md_files/cpen502) [Sept.-Dec. 2020]
+* [EECE 571T: Advanced Machine Learning Tools](/md_files/eece571t) [Jan.-Apr. 2022]
 
 
 ### Queen's University
 
-* [ELEC 371: Microprocessor Interfacing and Embedded Systems](/md_files/elec371)
-* [ELEC 474: Machine Vision](/md_files/elec474)
-* [ELEC 49X: Electrical and Computer Engineering Capstone Project](/md_files/elec49x)
+* [ELEC 371: Microprocessor Interfacing and Embedded Systems](/md_files/elec371) [Sept.-Dec. 2018]
+* [ELEC 474: Machine Vision](/md_files/elec474) [Sept.-Dec.2019]
+* [ELEC 49X: Electrical and Computer Engineering Capstone Project](/md_files/elec49x) [Jan. 2019 - Apr. 2020]
 
-## Side Project
+## Side Projects
 
-* [Food Compatibility GUI (Using Python Tkinter)](/md_files/side_foodcompat)
+* [iCloud Control Script Project (Using Swift)](/md_files/side_icloudctrlscript) [2023]
+* [Food Compatibility GUI (Using Python Tkinter)](/md_files/side_foodcompat) [2021]
 
 ## Publications
 
-* IEEE Xplore: <a href="https://doi.org/10.1109/MeditCom49071.2021.9647504" target="_blank">Comparison of Emerging Video Compression Schemes for Efficient Transmission of 4K and 8K HDR Video</a>
+* IEEE Xplore: <a href="https://doi.org/10.1109/MeditCom49071.2021.9647504" target="_blank">Comparison of Emerging Video Compression Schemes for Efficient Transmission of 4K and 8K HDR Video</a> [Dec. 2021]
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
