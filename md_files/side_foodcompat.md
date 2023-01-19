@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Food Compatibility GUI Side Project
+title: Side Project - Food Compatibility GUI
 ---
 
 # Side Project: Food Compatibility GUI using Python Tkinter
