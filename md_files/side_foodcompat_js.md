@@ -9,7 +9,7 @@ title: Side Project - iCloud Control Script
 
 **THIS PROJECT IS ONGOING. PAGE UNDER CONSTRUCTION.**
 
-This project is similar to [the Python project here](/md_files/side_foodcompat/). It is not yet known if this project is do-able. As such, this page may be deleted as necessary.
+This project is similar to [the Python project here](/md_files/side_foodcompat). It is not yet known if this project is do-able. As such, this page may be deleted as necessary.
 
 <!-- ## Side Project Work Repository -->
 
