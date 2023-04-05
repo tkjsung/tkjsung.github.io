@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <title>Testing - Filter Function in HTML</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    #myInput {
+      background-image: url('/css/searchicon.png');
+      background-position: 10px 12px;
+      background-repeat: no-repeat;
+      width: 100%;
+      font-size: 16px;
+      padding: 12px 20px 12px 40px;
+      border: 1px solid #ddd;
+      margin-bottom: 12px;
+    }
+
+    #myUL {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    #myUL li a {
+      border: 1px solid #ddd;
+      margin-top: -1px;
+      /* Prevent double borders */
+      background-color: #f6f6f6;
+      padding: 0px;
+      text-decoration: none;
+      font-size: 18px;
+      color: black;
+      display: block
+    }
+
+    #myUL li a:hover:not(.header) {
+      background-color: #eee;
+    }
+
+    /* Style the button that is used to open and close the collapsible content */
+    .collapsible {
+      background-color: #eee;
+      text-decoration: none;
+      color: #444;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 18px;
+    }
+
+    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+    .active,
+    .collapsible:hover {
+      background-color: #ccc;
+    }
+
+    /* Style the collapsible content. Note: hidden by default */
+    .content {
+      padding: 0 18px;
+      display: none;
+      overflow: hidden;
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>My Phonebook</h2>
+
+  <a href='#9' id='collAll'>Collapse All<br></a><br><br>
+
+  <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+
+  <ul id="myUL">
+
+    <!--
+  <button type="button" class="collapsible">
+  A
+  </button>
+  <div class="content"><p>
+  Placeholder text here.
+  </p></div>
+  <button type="button" class="collapsible">
+  B
+  </button>
+  <div class="content"><p>
+  Placeholder text here.
+  </p></div>
+  <button type="button" class="collapsible">
+  C
+  </button>
+  <div class="content"><p>
+  Placeholder text here.
+  </p></div>
+-->
+
+
+    <li><a href="#">Adele</a></li>
+
+    <!--<li><button type="button" class="collapsible">Testing123</button><div class="content"><p>Lorem ipsum...</p></div></li>-->
+
+    <li><a href="#">
+        Mindy
+      </a>
+    </li>
+
+    <li><a href="#">
+        <button type="button" class="collapsible">
+          Testing123
+        </button>
+        <div class="content">
+          <p>
+            Placeholder text here.
+          </p>
+        </div>
+      </a></li>
+
+    <li><a href="#">
+        <button type="button" class="collapsible">
+          Testing Button 2
+        </button>
+        <div class="content">
+          <p>
+            Placeholder text here.
+          </p>
+        </div>
+      </a></li>
+
+    <li><a href="#">Agnes</a></li>
+
+    <li><a href="#">Billy</a></li>
+    <li><a href="#">Bob</a></li>
+
+    <li><a href="#">Calvin</a></li>
+    <li><a href="#">Christina</a></li>
+    <li><a href="#">Cindy</a></li>
+  </ul>
+
+  <script>
+    function myFunction() {
+      var input, filter, ul, li, a, i, txtValue;
+      input = document.getElementById("myInput");
+      filter = input.value.toUpperCase();
+      ul = document.getElementById("myUL");
+      li = ul.getElementsByTagName("li");
+      for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+          li[i].style.display = "";
+        } else {
+          li[i].style.display = "none";
+        }
+      }
+    }
+
+
+    <!-- Collapsible JS code here -->
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    // var j = 0;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function () {
+        /*
+        coll[j].classList.toggle("active");
+        this.ElementSibling.style.display = "none";
+        j = i;
+        coll[j].classList.toggle("inactive");
+        */
+
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+
+        }
+      });
+    }
+
+
+    //https://stackoverflow.com/questions/50393204/expand-all-collapse-all-button-js
+
+    var collA = document.getElementById('collAll');
+    collA.addEventListener('click', function () {
+      expandFunction(false);
+    }, false);
+
+    function expandFunction(x) {
+      Array.from(coll).forEach(span => {
+        let content = span.nextElementSibling;
+        let condition;
+        let result;
+        switch (x) {
+          case false:
+            condition = "none";
+            //			result = null;
+            break;
+          case true:
+            condition = "block";
+            //			result = null;
+            break;
+          default:
+
+        }
+
+        if (condition) {
+          span.classList.toggle("active")
+          content.style.display = condition;
+        }
+
+      });
+
+    }
+
+  </script>
+
+</body>
+
+</html>
