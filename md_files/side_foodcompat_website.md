@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Side Project - iCloud Control Script
+title: Side Project - Food Compatibility Website
 ---
 
-# Side Project: Food Compatibility GUI using JavaScript
+# Side Project: Food Compatibility Website
 
 * * *
 
 **THIS PROJECT IS ONGOING. PAGE UNDER CONSTRUCTION.**
 
-This project is similar to [the Python project here](/md_files/side_foodcompat). It is not yet known if this project is do-able. As such, this page may be deleted as necessary.
+This project is similar to [the Python project here](/md_files/side_foodcompat_gui). Python apps cannot run in a browser, which is inconvenient for this particular project where searching is necessary to see which foods are compatible with one another.
 
 <!-- ## Side Project Work Repository -->
 
