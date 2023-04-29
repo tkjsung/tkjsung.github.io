@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Side Project - Food Compatibility GUI
+title: Side Project - Food Compatibility Python GUI
 ---
 
 # Side Project: Food Compatibility GUI using Python Tkinter
@@ -21,6 +21,6 @@ The code works by converting XLSX file (with my food compatibility database) int
 
 <!-- I compiled the compatibility data into an Excel document, used Python to convert the file into a CSV, then developed a GUI in Python that can read the CSV "database". I was thinking of deploying this on GitHub pages, but found that I chose the wrong programming language to do so. However, I learned a lot about how GUI is put together and how intricate it is to program it. Although this project didn't go as I have planned, I enjoyed exploring the different aspects of Python (as I am a beginner to Python at the time I started this project). -->
 
-
+<br><br>
 
 [Back to Home Page](/md_files/home)

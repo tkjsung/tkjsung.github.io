@@ -9,7 +9,7 @@ title: Side Project - iCloud Control Script
 
 ## Side Project Work Repository
 
-Written in Swift in Xcode 14.2 for macOS 13.1.
+Written in Swift 5 using Xcode 14 for macOS 13.
 
 Link: <a href="https://github.com/tkjsung/iCloud-Control-Script" target="_blank">https://github.com/tkjsung/iCloud-Control-Script</a>
 
