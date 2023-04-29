@@ -34,8 +34,9 @@ For background and privacy information about this website, please click on the "
 ## Side Projects
 
 * [iCloud Control Script Project (w/ Swift)](/md_files/side_icloudctrlscript) [2023]
-* [Food Compatibility GUI (w/ Python Tkinter)](/md_files/side_foodcompat) [2021]
-* [Food Compatibility Website (w/ JavaScript)](/md_files/side_foodcompat_js) [Ongoing in 2023]
+* Food Compatibility
+  * [Graphical User Interface (w/ Python Tkinter)](/md_files/side_foodcompat_gui) [2021]
+  * [Website](/md_files/side_foodcompat_website) [Ongoing in 2023]
 
 ## Publications
 
