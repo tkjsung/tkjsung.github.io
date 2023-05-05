@@ -1,0 +1,93 @@
+/* food_compat.css */
+/* Side Note: This file is used for Food Compatibility Project */
+
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    display: "";
+}
+
+.active,
+.collapsible:hover {
+    background-color: #555;
+}
+
+.collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.collapseAll{
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+    outline: none;
+    font-size: 15px;
+    /* width: 100%; */
+    padding: 10px;
+}
+
+.collapseAll:hover{
+    background-color: #00f5ef;
+}
+
+.content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+    font-size: 18px;
+    display: "";
+}
+
+.footnote{
+    text-align:center;
+}
+
+#compat_searchbox {
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 18px;
+    padding: 18px;
+    /* padding: 12px 20px 12px 40px; */
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    /* display: block; */
+}
+
+#compat_searchbutton{
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+    outline: none;
+    font-size: 15px;
+    /* width: 100%; */
+    padding: 10px;
+}
+
+#compat_searchbutton:hover{
+    background-color: #00f5ef;
+}
+
+#text_results{
+    font-size: 18px;
+    font-weight: bold;
+}
+
