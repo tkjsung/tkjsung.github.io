@@ -12,8 +12,6 @@ title: Home
 
 For background and privacy information about this website, please click on the "About" button or click [here](/md_files/about).
 
-<!-- Welcome to my website. Here you can find my past academic software-related works and side projects that I decide to post on GitHub. Click on the links in the bullet lists to visit their respective pages and repositories. -->
-
 * * *
 
 ## Past Academic Works
@@ -35,8 +33,9 @@ For background and privacy information about this website, please click on the "
 
 * [iCloud Control Script Project (w/ Swift)](/md_files/side_icloudctrlscript) [2023]
 * Food Compatibility
-  * [Graphical User Interface (w/ Python Tkinter)](/md_files/side_foodcompat_gui) [2021]
-  * [Website](/md_files/side_foodcompat_website) [Ongoing in 2023]
+  * [Graphical User Interface Project (w/ Python Tkinter)](/md_files/side_foodcompat_gui) [2021]
+  * [Website Project](/md_files/side_foodcompat_website) [2023]
+    * <a href="/side_foodcompat/html/food_compat_prod.html" target="_blank">Direct Link to Website</a>
 
 ## Publications
 
