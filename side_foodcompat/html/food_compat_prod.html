@@ -1,0 +1,2383 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"
+><title>食物相剋 / Food Compatibility | Ke-Jun (Tom) Sung's Website</title>
+<link rel="stylesheet" href="/side_foodcompat/css/food_compat.css">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon_io/favicon.ico">
+<link rel="apple-touch-icon" type="image/png" href="/favicon_io/apple-touch-icon.png">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', '{{ site.google_analytics }}', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PH3B1H4D6B"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-PH3B1H4D6B');
+</script>
+</head>
+<body onload="page_loaded()">
+<h1>食物相剋 / Food Compatibility</h1>
+<p>Note: Currently only supports Chinese (Traditional) food items. English support to come in a future update.</p>
+<p><button class="collapseAll" id="collAll">Collapse All</button></p>
+<div>
+<input type="text" id="compat_searchbox" placeholder="Search for food items ..." title="Type in a food item" onkeypress="check_enter_key(event)">
+<input type="button" id="compat_searchbutton" value="Search" name="Search" onclick="compat_search()">
+</div><br>
+<p id="text_results">Results:</p><button class="collapsible">麵包 & 核桃 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防心臟病
+</div>
+<button class="collapsible">麵包 & 萵苣 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進吸收鐵質
+</div>
+<button class="collapsible">麵包 & 奶酥 &#10062</button>
+<div class="content">
+BAD &#10062: 熱量過高易發胖
+</div>
+<button class="collapsible">麵包 & 巧克力 &#10062</button>
+<div class="content">
+BAD &#10062: 糖分含量過高
+</div>
+<button class="collapsible">麵條 & 牡蠣 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防感冒、促進發育
+</div>
+<button class="collapsible">麵條 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 調節蛋白質代謝
+</div>
+<button class="collapsible">麵條 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、提高免疫力
+</div>
+<button class="collapsible">麵條 & 鮮蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">麵條 & 蘋果 &#10062</button>
+<div class="content">
+BAD &#10062: 噁心、腹痛
+</div>
+<button class="collapsible">腰果 & 大蒜 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、集中注意力
+</div>
+<button class="collapsible">腰果 & 蝦仁 &#9989</button>
+<div class="content">
+GOOD &#9989: 豐潤毛髮、減輕關節炎疼痛
+</div>
+<button class="collapsible">腰果 & 鮮蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">腰果 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 容易形成脂肪肝
+</div>
+<button class="collapsible">杏仁 & 枇杷 &#9989</button>
+<div class="content">
+GOOD &#9989: 防癌、抗老
+</div>
+<button class="collapsible">杏仁 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 提高免疫力
+</div>
+<button class="collapsible">杏仁 & 麥片 &#10062</button>
+<div class="content">
+BAD &#10062: 干擾鈣質吸收
+</div>
+<button class="collapsible">杏仁 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 營養價值流失
+</div>
+<button class="collapsible">薏仁 & 龍眼 &#9989</button>
+<div class="content">
+GOOD &#9989: 改善皮膚乾燥與粗燥
+</div>
+<button class="collapsible">薏仁 & 紅豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、刺激食慾
+</div>
+<button class="collapsible">薏仁 & 海帶 &#10062</button>
+<div class="content">
+BAD &#10062: 靜脈曲張、瘀血
+</div>
+<button class="collapsible">燕麥 & 黃豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助成長發育
+</div>
+<button class="collapsible">燕麥 & 香菇 &#9989</button>
+<div class="content">
+GOOD &#9989: 防癌、抗老
+</div>
+<button class="collapsible">燕麥 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 阻礙鈣質的攝取
+</div>
+<button class="collapsible">芝麻 & 蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、集中注意力
+</div>
+<button class="collapsible">芝麻 & 檸檬 &#9989</button>
+<div class="content">
+GOOD &#9989: 紅潤臉色、預防貧血
+</div>
+<button class="collapsible">芝麻 & 巧克力 &#10062</button>
+<div class="content">
+BAD &#10062: 影響吸收、消化
+</div>
+<button class="collapsible">芝麻 & 豬肉 &#10062</button>
+<div class="content">
+BAD &#10062: 影響蛋白質的消化
+</div>
+<button class="collapsible">蓮子 & 花生 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助骨骼成長
+</div>
+<button class="collapsible">蓮子 & 白木耳 &#9989</button>
+<div class="content">
+GOOD &#9989: 強健骨骼、牙齒
+</div>
+<button class="collapsible">蓮子 & 麥片 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">蓮子 & 黃豆 &#10062</button>
+<div class="content">
+BAD &#10062: 腹瀉、腹脹
+</div>
+<button class="collapsible">糙米 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持皮膚健康、預防動脈硬化
+</div>
+<button class="collapsible">糙米 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、疲勞
+</div>
+<button class="collapsible">糙米 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 使蛋白質的消化困難
+</div>
+<button class="collapsible">糙米 & 牛肝 &#10062</button>
+<div class="content">
+BAD &#10062: 阻礙對礦物質的攝取
+</div>
+<button class="collapsible">小米 & 黃豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 保健眼睛與皮膚
+</div>
+<button class="collapsible">小米 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 延遲老化
+</div>
+<button class="collapsible">小米 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 營養價值流失
+</div>
+<button class="collapsible">小米 & 蛋 &#10062</button>
+<div class="content">
+BAD &#10062: 引起腸胃病
+</div>
+<button class="collapsible">粳米 & 山藥 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、消除疲勞
+</div>
+<button class="collapsible">粳米 & 香菇 &#9989</button>
+<div class="content">
+GOOD &#9989: 對骨骼與牙齒有益
+</div>
+<button class="collapsible">粳米 & 青菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進成長發育
+</div>
+<button class="collapsible">粳米 & 牛肉 &#10062</button>
+<div class="content">
+BAD &#10062: 不利消化
+</div>
+<button class="collapsible">粳米 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 阻礙人體吸收鐵質
+</div>
+<button class="collapsible">糯米 & 蓮子 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助骨骼發育
+</div>
+<button class="collapsible">糯米 & 百合 &#9989</button>
+<div class="content">
+GOOD &#9989: 改善氣色、消除疲勞
+</div>
+<button class="collapsible">黑糯米 & 葵瓜子 &#9989</button>
+<div class="content">
+GOOD &#9989: 刺激食慾、幫助成長
+</div>
+<button class="collapsible">糯米 & 蘋果 &#10062</button>
+<div class="content">
+BAD &#10062: 產生不易消化的物質
+</div>
+<button class="collapsible">糯米 & 生蛋白 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">花生 & 蝦仁 &#9989</button>
+<div class="content">
+GOOD &#9989: 強健骨骼、牙齒
+</div>
+<button class="collapsible">花生 & 魩仔魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化對鈣質的吸收
+</div>
+<button class="collapsible">花生 & 瘦豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 使皮膚恢復血色
+</div>
+<button class="collapsible">花生 & 粳米 &#10062</button>
+<div class="content">
+BAD &#10062: 誘發腸胃疾病
+</div>
+<button class="collapsible">花生 & 牛油 &#10062</button>
+<div class="content">
+BAD &#10062: 容易消化不良
+</div>
+<button class="collapsible">栗子 & 柚子 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防感冒、幫助傷口癒合
+</div>
+<button class="collapsible">栗子 & 玉米 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進腸胃蠕動
+</div>
+<button class="collapsible">栗子 & 牛肉 &#10062</button>
+<div class="content">
+BAD &#10062: 使維生素C氧化、失去營養價值
+</div>
+<button class="collapsible">栗子 & 黃豆 &#10062</button>
+<div class="content">
+BAD &#10062: 腹瀉、腹脹
+</div>
+<button class="collapsible">松子 & 牛肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 防止動脈硬化
+</div>
+<button class="collapsible">松子 & 芒果 &#9989</button>
+<div class="content">
+GOOD &#9989: 防老、抗癌
+</div>
+<button class="collapsible">松子 & 黃豆 &#10062</button>
+<div class="content">
+BAD &#10062: 阻礙蛋白質吸收
+</div>
+<button class="collapsible">松子 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 形成脂肪肝
+</div>
+<button class="collapsible">蕎麥 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持皮膚、神經系統健康
+</div>
+<button class="collapsible">蕎麥 & 蟹 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持骨骼、牙齒的健康
+</div>
+<button class="collapsible">蕎麥 & 海帶 &#10062</button>
+<div class="content">
+BAD &#10062: 易靜脈曲張、瘀血
+</div>
+<button class="collapsible">蕎麥 & 鮮蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 失去營養價值
+</div>
+<button class="collapsible">高麗菜 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 恢復肌膚彈性、預防斑點
+</div>
+<button class="collapsible">高麗菜 & 竹筍 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進血液循環
+</div>
+<button class="collapsible">高麗菜 & 美乃滋 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、防老、抗癌
+</div>
+<button class="collapsible">高麗菜 & 小黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">高麗菜 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 營養價值降低
+</div>
+<button class="collapsible">大白菜 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防感冒、舒緩情緒
+</div>
+<button class="collapsible">大白菜 & 乳酪 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防骨骼疏鬆
+</div>
+<button class="collapsible">大白菜 & 美乃滋 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚美顏、防癌抗老
+</div>
+<button class="collapsible">大白菜 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 美白肌膚、消除疲勞
+</div>
+<button class="collapsible">大白菜 & 蛋 &#10062</button>
+<div class="content">
+BAD &#10062: 加速維生素C氧化
+</div>
+<button class="collapsible">大白菜 & 小黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 營養價值降低
+</div>
+<button class="collapsible">大白菜 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 維生素C被氧化
+</div>
+<button class="collapsible">青江菜 & 芥花油 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、抗癌、降膽固醇
+</div>
+<button class="collapsible">青江菜 & 芝麻油 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、防癌
+</div>
+<button class="collapsible">青江菜 & 竹筍 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">青江菜 & 豆腐 &#10062</button>
+<div class="content">
+BAD &#10062: 影響人體吸收鈣質
+</div>
+<button class="collapsible">空心菜 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 護眼、防癌、抗老
+</div>
+<button class="collapsible">空心菜 & 橄欖油 &#9989</button>
+<div class="content">
+GOOD &#9989: 防止老化
+</div>
+<button class="collapsible">空心菜 & 雞肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低對膽固醇的吸收
+</div>
+<button class="collapsible">空心菜 & 乳酪 &#10062</button>
+<div class="content">
+BAD &#10062: 阻礙鈣質吸收
+</div>
+<button class="collapsible">空心菜 & 枸杞 &#10062</button>
+<div class="content">
+BAD &#10062: 鉀含量過高
+</div>
+<button class="collapsible">地瓜葉 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低對膽固醇的吸收
+</div>
+<button class="collapsible">地瓜葉 & 大蒜 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、護膚
+</div>
+<button class="collapsible">地瓜葉 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 干擾人體吸收礦物質
+</div>
+<button class="collapsible">地瓜葉 & 鮮蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">芹菜 & 章魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 強心肝、降膽固醇
+</div>
+<button class="collapsible">芹菜 & 橄欖油 &#9989</button>
+<div class="content">
+GOOD &#9989: 護眼、抗癌
+</div>
+<button class="collapsible">芹菜 & 生蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">芹菜 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 容易腹瀉
+</div>
+<button class="collapsible">菠菜 & 大蒜 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞
+</div>
+<button class="collapsible">菠菜 & 海帶 &#9989</button>
+<div class="content">
+GOOD &#9989: 有益於骨骼牙齒
+</div>
+<button class="collapsible">菠菜 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持鈣與磷的平衡
+</div>
+<button class="collapsible">菠菜 & 核桃 &#10062</button>
+<div class="content">
+BAD &#10062: 易引起結石
+</div>
+<button class="collapsible">菠菜 & 乳酪 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">韭菜 & 葵花油 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防癌症、心臟病
+</div>
+<button class="collapsible">韭菜 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、養顏美容
+</div>
+<button class="collapsible">韭菜 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 引起腹瀉
+</div>
+<button class="collapsible">韭菜 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">豆芽菜 & 青橄欖油 &#9989</button>
+<div class="content">
+GOOD &#9989: 改善肌膚粗燥
+</div>
+<button class="collapsible">豆芽菜 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、提高免疫力
+</div>
+<button class="collapsible">豆芽菜 & 蘋果 &#10062</button>
+<div class="content">
+BAD &#10062: 造成消化不良
+</div>
+<button class="collapsible">豆芽菜 & 低鈉鹽 &#10062</button>
+<div class="content">
+BAD &#10062: 鉀攝取過量
+</div>
+<button class="collapsible">紅蘿蔔 & 芝麻油 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、預防感冒
+</div>
+<button class="collapsible">紅蘿蔔 青花魚 &  鯖魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防動脈硬化、痴呆症
+</div>
+<button class="collapsible">紅蘿蔔 & 乾香菇 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、抗老
+</div>
+<button class="collapsible">紅蘿蔔 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞類胡蘿蔔素
+</div>
+<button class="collapsible">紅蘿蔔 & 玉米 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">白蘿蔔 & 高麗菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 保健肌膚
+</div>
+<button class="collapsible">白蘿蔔 & 大豆油 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助人體吸收鈣質
+</div>
+<button class="collapsible">白蘿蔔 & 蛤蜊 &#9989</button>
+<div class="content">
+GOOD &#9989: 強心、護肝
+</div>
+<button class="collapsible">白蘿蔔 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">白蘿蔔 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 易引起腹瀉
+</div>
+<button class="collapsible">山藥 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 肌膚光澤、消除疲勞
+</div>
+<button class="collapsible">山藥 & 鮑魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 加強人體對鈣的吸收
+</div>
+<button class="collapsible">山藥 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持體內酸鹼平衡
+</div>
+<button class="collapsible">山藥 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">山藥 & 鳳梨 &#10062</button>
+<div class="content">
+BAD &#10062: 有礙腸胃健康
+</div>
+<button class="collapsible">地瓜 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 護肝、強心
+</div>
+<button class="collapsible">地瓜 & 乳酪 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防癌症、心臟病
+</div>
+<button class="collapsible">地瓜 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 容易拉肚子
+</div>
+<button class="collapsible">地瓜 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 對胃不利
+</div>
+<button class="collapsible">芋頭 & 洋蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 養顏美容
+</div>
+<button class="collapsible">芋頭 & 鴨 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血
+</div>
+<button class="collapsible">芋頭 & 生鮮蟹肉 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">芋頭 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 干擾澱粉分解
+</div>
+<button class="collapsible">馬鈴薯 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 光澤肌膚、消除疲勞
+</div>
+<button class="collapsible">馬鈴薯 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞
+</div>
+<button class="collapsible">馬鈴薯 & 芋頭 &#10062</button>
+<div class="content">
+BAD &#10062: 澱粉攝取過量
+</div>
+<button class="collapsible">馬鈴薯 & 食用醋 &#10062</button>
+<div class="content">
+BAD &#10062: 干擾體內澱粉分解
+</div>
+<button class="collapsible">南瓜 & 蝦 &#9989</button>
+<div class="content">
+GOOD &#9989: 美膚、消除疲勞
+</div>
+<button class="collapsible">南瓜 & 糙米 &#9989</button>
+<div class="content">
+GOOD &#9989: 防治貧血
+</div>
+<button class="collapsible">南瓜 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 影響澱粉分解消化
+</div>
+<button class="collapsible">南瓜 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 影響人體吸收銅
+</div>
+<button class="collapsible">小黃瓜 & 千島醬 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、防老、抗癌
+</div>
+<button class="collapsible">小黃瓜 & 魷魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低膽固醇、強化心肝功能
+</div>
+<button class="collapsible">小黃瓜 & 海帶 &#10062</button>
+<div class="content">
+BAD &#10062: 妨礙維生素C的吸收
+</div>
+<button class="collapsible">生小黃瓜 & 香菜 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">大黃瓜 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持體內鹽分平衡
+</div>
+<button class="collapsible">大黃瓜 & 蘋果 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進腸胃蠕動
+</div>
+<button class="collapsible">大黃瓜 & 蔥 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">大黃瓜 & 枸杞 &#10062</button>
+<div class="content">
+BAD &#10062: 鉀含量容易過高
+</div>
+<button class="collapsible">絲瓜 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 加速傷口癒合
+</div>
+<button class="collapsible">絲瓜 & 蝦 &#9989</button>
+<div class="content">
+GOOD &#9989: 防治甲狀腺腫大
+</div>
+<button class="collapsible">絲瓜 香菜 & 芥花油 &#9989</button>
+<div class="content">
+GOOD &#9989: 防老、降低致癌率
+</div>
+<button class="collapsible">絲瓜 & 竹筍 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞類胡蘿蔔素
+</div>
+<button class="collapsible">絲瓜 & 泥鰍 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">苦瓜 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強體力、促進發育
+</div>
+<button class="collapsible">苦瓜 & 蘆筍 &#9989</button>
+<div class="content">
+GOOD &#9989: 使皮膚恢復血色
+</div>
+<button class="collapsible">苦瓜 & 低鈉鹽 &#10062</button>
+<div class="content">
+BAD &#10062: 易腹脹、腹瀉
+</div>
+<button class="collapsible">苦瓜 & 蚵仔 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">冬瓜 & 蝦 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助人體吸收鈣質
+</div>
+<button class="collapsible">冬瓜 & 鴨 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、促進食慾
+</div>
+<button class="collapsible">冬瓜 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 使維生素C氧化
+</div>
+<button class="collapsible">茄子 & 辣椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 抗壓、美白肌膚
+</div>
+<button class="collapsible">茄子 & 乳酪 &#9989</button>
+<div class="content">
+GOOD &#9989: 加強人體對鈣質的吸收
+</div>
+<button class="collapsible">茄子 & 扁豆 &#10062</button>
+<div class="content">
+BAD &#10062: 影響人體吸收鈣質
+</div>
+<button class="collapsible">茄子 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">茭白筍 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 使皮膚恢復血色
+</div>
+<button class="collapsible">茭白筍 & 髮菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助人體吸收鈣質
+</div>
+<button class="collapsible">茭白筍 & 無鹽醬油 &#10062</button>
+<div class="content">
+BAD &#10062: 鉀含量過高
+</div>
+<button class="collapsible">茭白筍 & 鮮蟹肉 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">竹筍 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持皮膚、消化系統健康
+</div>
+<button class="collapsible">竹筍 & 牡蠣 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助傷口癒合、預防感冒
+</div>
+<button class="collapsible">竹筍 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 使皮膚恢復血色
+</div>
+<button class="collapsible">竹筍 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞類胡蘿蔔素
+</div>
+<button class="collapsible">竹筍 & 花枝羹 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鈣質吸收
+</div>
+<button class="collapsible">蘆筍 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 使皮膚恢復血色
+</div>
+<button class="collapsible">蘆筍 蝦 & 海苔 &#9989</button>
+<div class="content">
+GOOD &#9989: 防治甲狀腺功能失調
+</div>
+<button class="collapsible">蘆筍 & 蟹肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 減輕關節炎疼痛
+</div>
+<button class="collapsible">蘆筍 & 甜椒 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">蘆筍 & 香蕉 &#10062</button>
+<div class="content">
+BAD &#10062: 刺激腸胃產生不適
+</div>
+<button class="collapsible">四季豆 & 乾香菇 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、抗老
+</div>
+<button class="collapsible">四季豆 & 花椒粉 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化人體對鈣質的吸收
+</div>
+<button class="collapsible">四季豆 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞類胡蘿蔔素
+</div>
+<button class="collapsible">四季豆 & 小魚乾 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">豌豆 & 紅辣椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 美白肌膚、防斑
+</div>
+<button class="collapsible">豌豆 & 糙米 &#9989</button>
+<div class="content">
+GOOD &#9989: 防老、抗癌
+</div>
+<button class="collapsible">豌豆 & 食用醋 &#10062</button>
+<div class="content">
+BAD &#10062: 引起消化不良
+</div>
+<button class="collapsible">豌豆 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">青椒 & 雞肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 護髮、護膚
+</div>
+<button class="collapsible">青椒 & 牛肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、提高免疫力
+</div>
+<button class="collapsible">甜椒 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚
+</div>
+<button class="collapsible">甜椒 & 葵瓜子 &#10062</button>
+<div class="content">
+BAD &#10062: 妨礙維生素E的吸收
+</div>
+<button class="collapsible">甜椒 & 香菜 &#10062</button>
+<div class="content">
+BAD &#10062: 使維生素C氧化
+</div>
+<button class="collapsible">洋蔥 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞
+</div>
+<button class="collapsible">洋蔥 & 松子 &#9989</button>
+<div class="content">
+GOOD &#9989: 抗癌防老、預防心臟病
+</div>
+<button class="collapsible">洋蔥 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、促進血液循環
+</div>
+<button class="collapsible">洋蔥 & 甜椒 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">洋蔥 & 蘋果 &#10062</button>
+<div class="content">
+BAD &#10062: 誘發甲狀腺腫大
+</div>
+<button class="collapsible">花椰菜 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 美白肌膚、提高免疫力
+</div>
+<button class="collapsible">白花椰菜 & 蝦 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充甲狀腺激素的不足
+</div>
+<button class="collapsible">花椰菜 & 糙米 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、防癌、抗老
+</div>
+<button class="collapsible">花椰菜 & 牛肝 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">花椰菜 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 降低礦物質的吸收率
+</div>
+<button class="collapsible">玉米 & 草莓 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防黑斑、雀斑
+</div>
+<button class="collapsible">玉米 & 馬鈴薯 &#10062</button>
+<div class="content">
+BAD &#10062: 澱粉含量過高
+</div>
+<button class="collapsible">玉米 & 可樂 &#10062</button>
+<div class="content">
+BAD &#10062: 干擾鈣質吸收
+</div>
+<button class="collapsible">木耳 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 強健骨骼、牙齒
+</div>
+<button class="collapsible">木耳 & 蝦 &#9989</button>
+<div class="content">
+GOOD &#9989: 豐潤血色、毛髮
+</div>
+<button class="collapsible">木耳 & 甘藍菜 &#10062</button>
+<div class="content">
+BAD &#10062: 誘發甲狀腺腫大
+</div>
+<button class="collapsible">木耳 & 鳳梨 &#10062</button>
+<div class="content">
+BAD &#10062: 消化不良、反胃
+</div>
+<button class="collapsible">香菇 & 荷蘭芹 &#9989</button>
+<div class="content">
+GOOD &#9989: 護眼、抗老、防癌
+</div>
+<button class="collapsible">香菇 & 鯛魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞
+</div>
+<button class="collapsible">香菇 & 瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持皮膚、消化系統健康
+</div>
+<button class="collapsible">香菇 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 減少維生素D的吸收
+</div>
+<button class="collapsible">香菇 & 紅蕃茄 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞類胡蘿蔔素
+</div>
+<button class="collapsible">金針菇 & 蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 有助於消除疲勞
+</div>
+<button class="collapsible">金針菇 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持體內鹽分的平衡
+</div>
+<button class="collapsible">金針菇 & 生蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1
+</div>
+<button class="collapsible">金針菇 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 影響消化能力
+</div>
+<button class="collapsible">枇杷 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助類胡蘿蔔素作用
+</div>
+<button class="collapsible">枇杷 & 蘋果 &#9989</button>
+<div class="content">
+GOOD &#9989: 防癌、抗老
+</div>
+<button class="collapsible">枇杷 & 牛奶 &#10062</button>
+<div class="content">
+BAD &#10062: 牛奶變性沈澱
+</div>
+<button class="collapsible">枇杷 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 可能產生毒性物質
+</div>
+<button class="collapsible">奇異果 & 松子 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進人體吸收鐵質
+</div>
+<button class="collapsible">奇異果 & 美乃滋 &#9989</button>
+<div class="content">
+GOOD &#9989: 養顏美容
+</div>
+<button class="collapsible">奇異果 & 豬肉 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">奇異果 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 易引起腹瀉
+</div>
+<button class="collapsible">鳳梨 & 洋菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進血液循環
+</div>
+<button class="collapsible">鳳梨 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 美白肌膚、消除疲勞
+</div>
+<button class="collapsible">鳳梨 & 蝦 &#10062</button>
+<div class="content">
+BAD &#10062: 刺激胃、引起嘔吐
+</div>
+<button class="collapsible">鳳梨 & 香蕉 &#10062</button>
+<div class="content">
+BAD &#10062: 鉀含量過高
+</div>
+<button class="collapsible">香蕉 & 乳酪 &#9989</button>
+<div class="content">
+GOOD &#9989: 防止骨質疏鬆
+</div>
+<button class="collapsible">香蕉 & 花生 &#9989</button>
+<div class="content">
+GOOD &#9989: 提高菸酸鹼含量
+</div>
+<button class="collapsible">香蕉 & 牛奶 &#10062</button>
+<div class="content">
+BAD &#10062: 不利蛋白質吸收、引起消化不良
+</div>
+<button class="collapsible">番茄 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、抗老、防癌
+</div>
+<button class="collapsible">番茄 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 養顏美容、提高免疫力
+</div>
+<button class="collapsible">番茄 & 馬鈴薯 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進血液循環
+</div>
+<button class="collapsible">番茄 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">番茄 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 使維生素C氧化
+</div>
+<button class="collapsible">桃子 & 蘋果 &#9989</button>
+<div class="content">
+GOOD &#9989: 刺激腸蠕動、通便
+</div>
+<button class="collapsible">桃子 & 葡萄柚 &#9989</button>
+<div class="content">
+GOOD &#9989: 紅潤膚色、預防貧血
+</div>
+<button class="collapsible">桃子 & 火腿 &#10062</button>
+<div class="content">
+BAD &#10062: 腹瀉、腹脹
+</div>
+<button class="collapsible">桃子 & 枸杞 &#10062</button>
+<div class="content">
+BAD &#10062: 腹瀉、腹脹
+</div>
+<button class="collapsible">李子 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持酸鹼平衡
+</div>
+<button class="collapsible">李子 & 堅果 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進兒童成長
+</div>
+<button class="collapsible">李子 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 營養成分流失
+</div>
+<button class="collapsible">李子 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">芒果 玉米 & 蝦仁 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持甲狀腺功能正常
+</div>
+<button class="collapsible">芒果 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、防癌
+</div>
+<button class="collapsible">芒果 & 乳酪 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助鈣質吸收、抗壓
+</div>
+<button class="collapsible">芒果 & 牛肝 &#10062</button>
+<div class="content">
+BAD &#10062: 失去營養價值
+</div>
+<button class="collapsible">芒果 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 營養流失
+</div>
+<button class="collapsible">哈密瓜 & 芹菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 養顏美容
+</div>
+<button class="collapsible">哈密瓜 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防癌症、心臟病
+</div>
+<button class="collapsible">哈密瓜 & 可樂 &#10062</button>
+<div class="content">
+BAD &#10062: 鈣會被消耗掉
+</div>
+<button class="collapsible">哈密瓜 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 流失營養成分
+</div>
+<button class="collapsible">香瓜 & 白木耳 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強體力、促進發育
+</div>
+<button class="collapsible">香瓜 & 豬肉 &#10062</button>
+<div class="content">
+BAD &#10062: 減低礦物質吸收
+</div>
+<button class="collapsible">香瓜 & 黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 使營養流失
+</div>
+<button class="collapsible">櫻桃 & 哈密瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、增加體力
+</div>
+<button class="collapsible">櫻桃 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持酸鹼平衡
+</div>
+<button class="collapsible">櫻桃 & 堅果 &#10062</button>
+<div class="content">
+BAD &#10062: 容易靜脈曲張、瘀血
+</div>
+<button class="collapsible">櫻桃 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 失去營養價值
+</div>
+<button class="collapsible">荔枝 & 榛果 &#9989</button>
+<div class="content">
+GOOD &#9989: 可消除疲勞
+</div>
+<button class="collapsible">荔枝 & 燕麥 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助醣類代謝
+</div>
+<button class="collapsible">荔枝 & 黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 營養成分流失
+</div>
+<button class="collapsible">荔枝 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">西瓜 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 平衡酸鹼度
+</div>
+<button class="collapsible">西瓜 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持皮膚健康
+</div>
+<button class="collapsible">西瓜 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞泛酸造成營養流失
+</div>
+<button class="collapsible">西瓜 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 加速維生素C氧化
+</div>
+<button class="collapsible">木瓜 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 有助於吸收蛋白質
+</div>
+<button class="collapsible">木瓜 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 有助於吸收蛋白質
+</div>
+<button class="collapsible">木瓜 & 南瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">木瓜 & 牛肝 &#10062</button>
+<div class="content">
+BAD &#10062: 失去營養價值
+</div>
+<button class="collapsible">芭樂 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持人體酸鹼平衡
+</div>
+<button class="collapsible">芭樂 & 瘦豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進人體吸收鐵質
+</div>
+<button class="collapsible">芭樂 & 枇杷 &#9989</button>
+<div class="content">
+GOOD &#9989: 增加食慾、幫助消化
+</div>
+<button class="collapsible">芭樂 & 龍眼乾 &#10062</button>
+<div class="content">
+BAD &#10062: 肌肉無力、心律不整
+</div>
+<button class="collapsible">芭樂 & 鮭魚鬆 &#10062</button>
+<div class="content">
+BAD &#10062: 腹痛、腹脹、腹瀉
+</div>
+<button class="collapsible">葡萄 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強抗氧化力
+</div>
+<button class="collapsible">葡萄 & 糯米 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、消除疲勞
+</div>
+<button class="collapsible">葡萄 & 蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 抑制人體對碘的吸收力
+</div>
+<button class="collapsible">葡萄 & 蝦 &#10062</button>
+<div class="content">
+BAD &#10062: 引起胃部不適
+</div>
+<button class="collapsible">梨子 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 調節蛋白質代謝
+</div>
+<button class="collapsible">梨子 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持酸鹼平衡
+</div>
+<button class="collapsible">梨子 & 地瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 使腸胃不適
+</div>
+<button class="collapsible">柿子 & 葡萄 &#9989</button>
+<div class="content">
+GOOD &#9989: 有助於攝取維生素C
+</div>
+<button class="collapsible">柿子 & 乳酪 &#9989</button>
+<div class="content">
+GOOD &#9989: 有助於鈣的吸收
+</div>
+<button class="collapsible">柿子 & 螃蟹 &#10062</button>
+<div class="content">
+BAD &#10062: 凝固成不易消化的物質
+</div>
+<button class="collapsible">柿子 & 紫菜 &#10062</button>
+<div class="content">
+BAD &#10062: 妨礙鐵質的吸收
+</div>
+<button class="collapsible">楊桃 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 平衡人體酸鹼值
+</div>
+<button class="collapsible">楊桃 & 菠菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 養顏美容、抗老
+</div>
+<button class="collapsible">楊桃 & 黃豆 &#10062</button>
+<div class="content">
+BAD &#10062: 導致消化不良
+</div>
+<button class="collapsible">楊桃 & 牛奶 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">蘋果 & 鮑魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、養顏美容
+</div>
+<button class="collapsible">蘋果 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞
+</div>
+<button class="collapsible">蘋果 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 保健肌膚、增加抵抗力
+</div>
+<button class="collapsible">蘋果 & 洋蔥 &#10062</button>
+<div class="content">
+BAD &#10062: 誘發甲狀腺腫
+</div>
+<button class="collapsible">蘋果 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 可能引起腹瀉
+</div>
+<button class="collapsible">橘子 & 核桃 &#9989</button>
+<div class="content">
+GOOD &#9989: 臉色紅潤好氣色、增強體力
+</div>
+<button class="collapsible">橘子 & 柳丁 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強免疫力、預防感冒
+</div>
+<button class="collapsible">橘子 & 白蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 抑制對碘的吸收力
+</div>
+<button class="collapsible">橘子 & 牛奶 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">柳丁 & 美乃滋 &#9989</button>
+<div class="content">
+GOOD &#9989: 護膚、防癌、抗老
+</div>
+<button class="collapsible">柳丁 & 奶油 &#9989</button>
+<div class="content">
+GOOD &#9989: 減少膽固醇吸收
+</div>
+<button class="collapsible">柳丁 & 蝦 &#10062</button>
+<div class="content">
+BAD &#10062: 生成不易消化物質
+</div>
+<button class="collapsible">柳丁 & 豬肉 &#10062</button>
+<div class="content">
+BAD &#10062: 生成不利消化物質
+</div>
+<button class="collapsible">草莓 & 食鹽 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持人體酸鹼平衡
+</div>
+<button class="collapsible">草莓 & 美乃滋 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進血液循環
+</div>
+<button class="collapsible">草莓 & 榛果 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、增強體力
+</div>
+<button class="collapsible">草莓 & 燕麥 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">草莓 & 地瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 腸胃不適
+</div>
+<button class="collapsible">蓮霧 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 恢復血氣、消除疲勞
+</div>
+<button class="collapsible">蓮霧 & 優酪乳 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充鈣質
+</div>
+<button class="collapsible">蓮霧 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C
+</div>
+<button class="collapsible">蓮霧 & 蘋果 &#10062</button>
+<div class="content">
+BAD &#10062: 產生不易消化物質
+</div>
+<button class="collapsible">豬肉 & 大蒜 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、提高注意力
+</div>
+<button class="collapsible">豬肉 & 青椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 強健脊椎、消除疲勞疼痛
+</div>
+<button class="collapsible">豬肉 & 紅椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 強健脊椎、消除疲勞疼痛
+</div>
+<button class="collapsible">豬肉 & 白菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充營養、幫助消化
+</div>
+<button class="collapsible">豬肉 & 蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強體力、幫助排泄
+</div>
+<button class="collapsible">豬肉 & 茶 &#10062</button>
+<div class="content">
+BAD &#10062: 使腸蠕動減慢、吸收有害物質、容易便秘
+</div>
+<button class="collapsible">豬肚 & 白胡椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 治療胃寒，因受寒而虛寒性的胃、十二指腸潰瘍等
+</div>
+<button class="collapsible">豬肚 & 啤酒 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成痛風
+</div>
+<button class="collapsible">豬腸 & 啤酒 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成痛風
+</div>
+<button class="collapsible">牛肚 & 啤酒 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成痛風
+</div>
+<button class="collapsible">豬肝 & 深色葉菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、促進生長
+</div>
+<button class="collapsible">豬肝 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、增強體力
+</div>
+<button class="collapsible">豬肝 & 花椰菜 &#10062</button>
+<div class="content">
+BAD &#10062: 影響維生素C和礦物質銅、鐵的吸收
+</div>
+<button class="collapsible">豬心 & 蘋果 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、美麗肌膚
+</div>
+<button class="collapsible">豬心 & 金針菇 &#9989</button>
+<div class="content">
+GOOD &#9989: 安眠好入睡
+</div>
+<button class="collapsible">豬心 & 花生 &#10062</button>
+<div class="content">
+BAD &#10062: 妨礙鋅的吸收
+</div>
+<button class="collapsible">豬心 & 茶葉 &#10062</button>
+<div class="content">
+BAD &#10062: 便秘、影響鐵的吸收
+</div>
+<button class="collapsible">豬血 & 柳橙汁 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助鐵質吸收
+</div>
+<button class="collapsible">豬血 豆腐 & 深色葉菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血
+</div>
+<button class="collapsible">豬血 & 牛奶 &#10062</button>
+<div class="content">
+BAD &#10062: 抑制鐵的吸收
+</div>
+<button class="collapsible">豬血 & 咖啡 &#10062</button>
+<div class="content">
+BAD &#10062: 抑制鐵的吸收
+</div>
+<button class="collapsible">豬腳 & 花生 &#9989</button>
+<div class="content">
+GOOD &#9989: 健胸豐乳
+</div>
+<button class="collapsible">豬皮 豬腳筋 & 紅棗 &#9989</button>
+<div class="content">
+GOOD &#9989: 養血安神
+</div>
+<button class="collapsible">豬腳 & 黃豆 &#10062</button>
+<div class="content">
+BAD &#10062: 降低蛋白質和鈣的吸收
+</div>
+<button class="collapsible">火腿 & 芥花油 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞
+</div>
+<button class="collapsible">火腿 & 優酪乳 &#10062</button>
+<div class="content">
+BAD &#10062: 增加致癌的危險
+</div>
+<button class="collapsible">火腿 & 香蕉 &#10062</button>
+<div class="content">
+BAD &#10062: 增加體內致癌物
+</div>
+<button class="collapsible">香腸 & 青蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 可抑制亞硝胺產生
+</div>
+<button class="collapsible">香腸 & 綠茶 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低亞硝酸鹽含量
+</div>
+<button class="collapsible">香腸 & 秋刀魚 &#10062</button>
+<div class="content">
+BAD &#10062: 容易在體內產生亞硝胺
+</div>
+<button class="collapsible">田雞 & 大蒜 &#9989</button>
+<div class="content">
+GOOD &#9989: 提高免疫力
+</div>
+<button class="collapsible">田雞 & 檸檬 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成消化不良
+</div>
+<button class="collapsible">田雞 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鈣的吸收率
+</div>
+<button class="collapsible">羊肉 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低膽固醇、預防上火
+</div>
+<button class="collapsible">羊肉 & 醋 &#10062</button>
+<div class="content">
+BAD &#10062: 可能造成腹瀉
+</div>
+<button class="collapsible">羊肉 & 西瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 易使脾胃功能失調
+</div>
+<button class="collapsible">羊肉 & 茶 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成便秘
+</div>
+<button class="collapsible">牛肉 & 洋蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 美膚、消除疲勞、健體提神
+</div>
+<button class="collapsible">牛肉 & 青椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 防止動脈硬化、消除疲勞
+</div>
+<button class="collapsible">牛肉 & 芥蘭菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血與頭痛、促進生長發育
+</div>
+<button class="collapsible">牛肉 & 豬肉 &#10062</button>
+<div class="content">
+BAD &#10062: 容易消化不良
+</div>
+<button class="collapsible">牛肉 & 栗子 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成腸胃不適
+</div>
+<button class="collapsible">牛肉 & 白酒 &#10062</button>
+<div class="content">
+BAD &#10062: 容易形成脂肪肝、上火
+</div>
+<button class="collapsible">烏骨雞 & 竹笙 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低膽固醇的吸收
+</div>
+<button class="collapsible">烏骨雞 & 蘋果 &#9989</button>
+<div class="content">
+GOOD &#9989: 除疲勞、肌膚健康
+</div>
+<button class="collapsible">烏骨雞 & 莧菜 &#10062</button>
+<div class="content">
+BAD &#10062: 影響維生素C吸收
+</div>
+<button class="collapsible">烏骨雞 & 大豆 &#10062</button>
+<div class="content">
+BAD &#10062: 降低食物營養價值
+</div>
+<button class="collapsible">老母鴨 & 薑 &#9989</button>
+<div class="content">
+GOOD &#9989: 溫暖身體、促進血液循環
+</div>
+<button class="collapsible">鴨肉 & 山藥 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除油膩、健脾止渴、固腎益精
+</div>
+<button class="collapsible">鴨肉 & 胡桃 &#10062</button>
+<div class="content">
+BAD &#10062: 營養相互抵銷
+</div>
+<button class="collapsible">鴨肉 & 鯊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 水腫腹瀉、消化不良
+</div>
+<button class="collapsible">鵝肉 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 減少飲食中膽固醇的吸收
+</div>
+<button class="collapsible">鵝肉 & 紅蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防癌症、心臟病、維持眼睛與皮膚健康
+</div>
+<button class="collapsible">煙燻鵝肉 & 啤酒 &#10062</button>
+<div class="content">
+BAD &#10062: 加重肝臟負擔
+</div>
+<button class="collapsible">雞肉 & 青蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持健康髮膚、提神醒腦
+</div>
+<button class="collapsible">雞肉 & 青椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 防止動脈硬化、保持肌膚健康
+</div>
+<button class="collapsible">雞肉 & 高麗菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、促進發育
+</div>
+<button class="collapsible">雞肉 & 香菇 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防中風及大腸癌
+</div>
+<button class="collapsible">雞肉 & 大蒜 &#10062</button>
+<div class="content">
+BAD &#10062: 滯氣、造成身體不適
+</div>
+<button class="collapsible">雞肉 & 芥末 &#10062</button>
+<div class="content">
+BAD &#10062: 容易上火、傷元氣
+</div>
+<button class="collapsible">鮭魚 & 洋蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、養顏美容
+</div>
+<button class="collapsible">鮭魚 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強腦功能、強化骨骼
+</div>
+<button class="collapsible">鮭魚 & 菠菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 均衡營養、提高免疫力
+</div>
+<button class="collapsible">鮭魚 & 柿子 &#10062</button>
+<div class="content">
+BAD &#10062: 不利蛋白質吸收
+</div>
+<button class="collapsible">鮭魚 & 生小黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞蛋白質吸收
+</div>
+<button class="collapsible">鱸魚 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 可預防感冒
+</div>
+<button class="collapsible">鱸魚 & 紅辣椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛
+</div>
+<button class="collapsible">鱸魚 & 海帶 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化骨骼及牙齒
+</div>
+<button class="collapsible">鱸魚 & 蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞銅元素的吸收
+</div>
+<button class="collapsible">鱸魚 & 乳酪 &#10062</button>
+<div class="content">
+BAD &#10062: 腹瀉
+</div>
+<button class="collapsible">鱈魚 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充鈣質的不足
+</div>
+<button class="collapsible">鱈魚 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防感冒、肌膚乾裂
+</div>
+<button class="collapsible">鱈魚 & 烤香腸 &#10062</button>
+<div class="content">
+BAD &#10062: 造成致癌的可能
+</div>
+<button class="collapsible">鱈魚 & 高鹽食物 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鉀的功效
+</div>
+<button class="collapsible">鯧魚 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進兒童成長發育
+</div>
+<button class="collapsible">鯧魚 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充不足營養素
+</div>
+<button class="collapsible">鯧魚 & 牛油 &#10062</button>
+<div class="content">
+BAD &#10062: 增加膽固醇含量
+</div>
+<button class="collapsible">鯧魚 & 溫水 &#10062</button>
+<div class="content">
+BAD &#10062: 使鮮味消失
+</div>
+<button class="collapsible">鮪魚 & 山藥 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防動脈硬化
+</div>
+<button class="collapsible">鮪魚 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 有益兒童的成長發育
+</div>
+<button class="collapsible">鮪魚 & 蘆筍 &#9989</button>
+<div class="content">
+GOOD &#9989: 達到美膚效果
+</div>
+<button class="collapsible">鮪魚 & 生小黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞蛋白質吸收
+</div>
+<button class="collapsible">鮪魚 & 葡萄 &#10062</button>
+<div class="content">
+BAD &#10062: 影響蛋白質吸收
+</div>
+<button class="collapsible">白帶魚 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 提昇記憶力、注意力
+</div>
+<button class="collapsible">白帶魚 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化骨骼
+</div>
+<button class="collapsible">白帶魚 & 牛油 &#10062</button>
+<div class="content">
+BAD &#10062: 膽固醇增高
+</div>
+<button class="collapsible">白帶魚 & 羊油 &#10062</button>
+<div class="content">
+BAD &#10062: 膽固醇增高
+</div>
+<button class="collapsible">白帶魚 & 牛奶 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞鎂的吸收
+</div>
+<button class="collapsible">鰻魚 & 枸杞 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防心血管疾病
+</div>
+<button class="collapsible">鰻魚 & 生蔬菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充維生素C
+</div>
+<button class="collapsible">鰻魚 & 橘子 &#10062</button>
+<div class="content">
+BAD &#10062: 影響蛋白質吸收
+</div>
+<button class="collapsible">鰻魚 & 牛肝 &#10062</button>
+<div class="content">
+BAD &#10062: 引發心血管疾病
+</div>
+<button class="collapsible">吳郭魚 & 蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 滋養強身、穩定精神
+</div>
+<button class="collapsible">吳郭魚 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 減緩更年期不適
+</div>
+<button class="collapsible">吳郭魚 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進生長、增強記憶
+</div>
+<button class="collapsible">吳郭魚 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞鈣質的吸收
+</div>
+<button class="collapsible">吳郭魚 & 葡萄 &#10062</button>
+<div class="content">
+BAD &#10062: 降低蛋白質吸收
+</div>
+<button class="collapsible">石斑 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 減緩更年期不適
+</div>
+<button class="collapsible">石斑 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化骨骼、有助發育
+</div>
+<button class="collapsible">石斑 & 木瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助蛋白質吸收
+</div>
+<button class="collapsible">石斑 & 柿子 &#10062</button>
+<div class="content">
+BAD &#10062: 降低蛋白質吸收
+</div>
+<button class="collapsible">鱔魚 & 蓮藕 &#9989</button>
+<div class="content">
+GOOD &#9989: 達到酸鹼平衡
+</div>
+<button class="collapsible">鱔魚 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 鈣質吸收加倍
+</div>
+<button class="collapsible">鱔魚 & 狗肉 &#10062</button>
+<div class="content">
+BAD &#10062: 引發熱性疾病
+</div>
+<button class="collapsible">鱔魚 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易導致腹瀉
+</div>
+<button class="collapsible">螃蟹 & 蘆筍 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化骨骼及牙齒
+</div>
+<button class="collapsible">螃蟹 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 恢復體力、防止老化
+</div>
+<button class="collapsible">螃蟹 & 青椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 營養均衡、幫助消化
+</div>
+<button class="collapsible">螃蟹 & 茶葉 &#10062</button>
+<div class="content">
+BAD &#10062: 腸蠕動變慢、便秘
+</div>
+<button class="collapsible">螃蟹 & 牡蠣 &#10062</button>
+<div class="content">
+BAD &#10062: 造成血膽固醇升高
+</div>
+<button class="collapsible">蝦 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防黑斑及皺紋
+</div>
+<button class="collapsible">蝦 & 麵粉料理 &#9989</button>
+<div class="content">
+GOOD &#9989: 消除疲勞、增強體力
+</div>
+<button class="collapsible">蝦 & 酪梨 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防心血管疾病
+</div>
+<button class="collapsible">蝦 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 提昇心臟、肝臟功能
+</div>
+<button class="collapsible">蝦 & 木瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助蛋白質吸收
+</div>
+<button class="collapsible">蝦 & 柿子 &#10062</button>
+<div class="content">
+BAD &#10062: 降低蛋白質吸收、刺激腸胃
+</div>
+<button class="collapsible">蝦 & 果汁 &#10062</button>
+<div class="content">
+BAD &#10062: 造成腹漲和腹痛
+</div>
+<button class="collapsible">牡蠣 & 菠菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 減緩更年期不適
+</div>
+<button class="collapsible">牡蠣 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化骨骼、助發育
+</div>
+<button class="collapsible">牡蠣 & 蠶豆 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鋅的吸收
+</div>
+<button class="collapsible">牡蠣 & 鹽 &#10062</button>
+<div class="content">
+BAD &#10062: 易攝取過量鈉
+</div>
+<button class="collapsible">蛤蜊 & 薑 &#9989</button>
+<div class="content">
+GOOD &#9989: 退火解熱、殺菌
+</div>
+<button class="collapsible">蛤蜊 & 菠菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 改善貧血、促進發育
+</div>
+<button class="collapsible">蛤蜊 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、增進視力
+</div>
+<button class="collapsible">蛤蜊 & 牡蠣 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞鐵的吸收
+</div>
+<button class="collapsible">魷魚 & 辣椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 均衡營養、幫助消化
+</div>
+<button class="collapsible">魷魚 & 玉米 &#9989</button>
+<div class="content">
+GOOD &#9989: 提昇維生素B6功效
+</div>
+<button class="collapsible">魷魚 & 茶 &#10062</button>
+<div class="content">
+BAD &#10062: 降低蛋白質吸收
+</div>
+<button class="collapsible">魷魚 & 番茄醬 &#10062</button>
+<div class="content">
+BAD &#10062: 加重腎臟負擔
+</div>
+<button class="collapsible">透柚 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 護眼、增進視力
+</div>
+<button class="collapsible">透柚 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防感冒、助消化
+</div>
+<button class="collapsible">透柚 & 酸性果汁 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞蛋白質吸收
+</div>
+<button class="collapsible">螺 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護眼睛、增進視力
+</div>
+<button class="collapsible">螺 & 奶油 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進鈣質吸收
+</div>
+<button class="collapsible">螺 & 橘子 &#10062</button>
+<div class="content">
+BAD &#10062: 影響胃腸消化
+</div>
+<button class="collapsible">螺 & 蛤蜊 &#10062</button>
+<div class="content">
+BAD &#10062: 刺激腸胃、腹瀉
+</div>
+<button class="collapsible">九孔 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 美化皮膚
+</div>
+<button class="collapsible">九孔 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進發育、減緩更年期不適
+</div>
+<button class="collapsible">九孔 & 橘子 &#10062</button>
+<div class="content">
+BAD &#10062: 易形成結石
+</div>
+<button class="collapsible">九孔 & 牡蠣 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鐵質的吸收
+</div>
+<button class="collapsible">海參 & 羊肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 強身健體、補充體力
+</div>
+<button class="collapsible">海參 & 木耳 &#9989</button>
+<div class="content">
+GOOD &#9989: 有益筋骨、排便
+</div>
+<button class="collapsible">海參 & 柿子 &#10062</button>
+<div class="content">
+BAD &#10062: 腹痛、噁心、嘔吐
+</div>
+<button class="collapsible">海帶 & 鯛魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防慢性病
+</div>
+<button class="collapsible">海帶 & 毛豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 改善便秘、降血壓
+</div>
+<button class="collapsible">海帶 & 茶 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鐵、鈣的吸收
+</div>
+<button class="collapsible">海帶 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易在體內形成結石
+</div>
+<button class="collapsible">紫菜 & 蜂蜜 &#9989</button>
+<div class="content">
+GOOD &#9989: 有益呼吸道
+</div>
+<button class="collapsible">紫菜 & 烏賊 &#9989</button>
+<div class="content">
+GOOD &#9989: 美容、強化體質
+</div>
+<button class="collapsible">紫菜 & 柿子 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">紫菜 & 深色葉菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易形成結石
+</div>
+<button class="collapsible">雞蛋 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 健美抗癌老
+</div>
+<button class="collapsible">雞蛋 & 蔬菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進營養均衡
+</div>
+<button class="collapsible">雞蛋 & 絲瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 解熱消毒、補血通乳
+</div>
+<button class="collapsible">雞蛋 & 大豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 蛋白營養加倍
+</div>
+<button class="collapsible">雞蛋 & 橘子 &#10062</button>
+<div class="content">
+BAD &#10062: 消化不良
+</div>
+<button class="collapsible">雞蛋 & 茶葉 &#10062</button>
+<div class="content">
+BAD &#10062: 影響營養素的吸收
+</div>
+<button class="collapsible">雞蛋 & 味精 &#10062</button>
+<div class="content">
+BAD &#10062: 影響雞蛋的原味
+</div>
+<button class="collapsible">鹹蛋 & 苦瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 提昇鈣質吸收
+</div>
+<button class="collapsible">鹹蛋 & 節瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 消暑、鈣質加倍
+</div>
+<button class="collapsible">鹹蛋 & 蔥 &#10062</button>
+<div class="content">
+BAD &#10062: 易造成草酸鈣結石
+</div>
+<button class="collapsible">鹹蛋 & 碳酸飲料 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">皮蛋 & 番茄 &#9989</button>
+<div class="content">
+GOOD &#9989: 消暑止渴、改善小便黃
+</div>
+<button class="collapsible">皮蛋 & 青椒 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進消化、養顏美容
+</div>
+<button class="collapsible">皮蛋 & 紅茶 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鐵質的吸收
+</div>
+<button class="collapsible">皮蛋 & 貝類 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鐵質的吸收
+</div>
+<button class="collapsible">冰牛奶 & 蜂蜜 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強免疫力
+</div>
+<button class="collapsible">牛奶 & 木瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 美容護膚
+</div>
+<button class="collapsible">牛奶 & 韭菜 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鈣質吸收
+</div>
+<button class="collapsible">牛奶 & 酸性果汁 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">乳酪 & 柑橘類 &#9989</button>
+<div class="content">
+GOOD &#9989: 有益鈣質吸收
+</div>
+<button class="collapsible">乳酪 & 鮭魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 強化骨骼及牙齒
+</div>
+<button class="collapsible">乳酪 & 深色葉菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易形成草酸性結石
+</div>
+<button class="collapsible">乳酪 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 口味功效皆不合
+</div>
+<button class="collapsible">優酪乳 & 綠茶粉 &#9989</button>
+<div class="content">
+GOOD &#9989: 保健效果加倍
+</div>
+<button class="collapsible">優酪乳 & 草莓 &#9989</button>
+<div class="content">
+GOOD &#9989: 美化膚質、瘦身
+</div>
+<button class="collapsible">優酪乳 & 香腸 &#10062</button>
+<div class="content">
+BAD &#10062: 易產生致癌物質
+</div>
+<button class="collapsible">優酪乳 & 火腿 &#10062</button>
+<div class="content">
+BAD &#10062: 易產生致癌物質
+</div>
+<button class="collapsible">優酪乳 & 深色葉菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易形成結石
+</div>
+<button class="collapsible">豆腐 & 魚 &#9989</button>
+<div class="content">
+GOOD &#9989: 提高20倍鈣的吸收量
+</div>
+<button class="collapsible">豆腐 & 雞蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 增進蛋白質的吸收
+</div>
+<button class="collapsible">豆腐 & 海帶 &#9989</button>
+<div class="content">
+GOOD &#9989: 維持甲狀腺功能
+</div>
+<button class="collapsible">豆腐 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易形成草酸性結石
+</div>
+<button class="collapsible">豆腐 & 碳酸飲料 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鈣的吸收
+</div>
+<button class="collapsible">黃豆 & 糙米 &#9989</button>
+<div class="content">
+GOOD &#9989: 營養均衡、功效加倍
+</div>
+<button class="collapsible">黃豆 & 雞蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 蛋白質營養加倍
+</div>
+<button class="collapsible">黃豆 & 優酪乳 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鈣質吸收
+</div>
+<button class="collapsible">黃豆 & 豬肉 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養素價值
+</div>
+<button class="collapsible">豆漿 & 酪梨 &#9989</button>
+<div class="content">
+GOOD &#9989: 維生素B群加倍
+</div>
+<button class="collapsible">豆漿 & 白米 &#9989</button>
+<div class="content">
+GOOD &#9989: 優質蛋白質加倍
+</div>
+<button class="collapsible">豆漿 & 生雞蛋 &#10062</button>
+<div class="content">
+BAD &#10062: 容易引發腸胃炎
+</div>
+<button class="collapsible">豆漿 & 紅糖 &#10062</button>
+<div class="content">
+BAD &#10062: 降低營養價值
+</div>
+<button class="collapsible">紅豆 & 百合 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充氣血、健康加分
+</div>
+<button class="collapsible">紅豆 & 紫米 &#9989</button>
+<div class="content">
+GOOD &#9989: 婦女補血聖品
+</div>
+<button class="collapsible">紅豆 & 茶 &#10062</button>
+<div class="content">
+BAD &#10062: 降低鐵質的吸收
+</div>
+<button class="collapsible">紅豆 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 降低溫補功效
+</div>
+<button class="collapsible">綠豆 & 薏仁 &#9989</button>
+<div class="content">
+GOOD &#9989: 維生素B1倍增
+</div>
+<button class="collapsible">綠豆 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 保健功效加分
+</div>
+<button class="collapsible">綠豆 & 魚 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1吸收
+</div>
+<button class="collapsible">綠豆 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 降低溫補功效
+</div>
+<button class="collapsible">花豆 & 地瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 維生素充足豐富
+</div>
+<button class="collapsible">花豆 & 紅豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進生長發育
+</div>
+<button class="collapsible">花豆 & 咖啡 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1的營養
+</div>
+<button class="collapsible">花豆 & 乳酪 &#10062</button>
+<div class="content">
+BAD &#10062: 造成鉀元素的流失
+</div>
+<button class="collapsible">蔥 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強體力、預防老年癡呆
+</div>
+<button class="collapsible">蔥 & 紅棗 &#9989</button>
+<div class="content">
+GOOD &#9989: 維生素C的營養加倍
+</div>
+<button class="collapsible">蔥 & 毛豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 安定神經、改善失眠
+</div>
+<button class="collapsible">蔥 & 豆腐 &#10062</button>
+<div class="content">
+BAD &#10062: 易形成草酸性結石
+</div>
+<button class="collapsible">蔥 & 蜂蜜 &#10062</button>
+<div class="content">
+BAD &#10062: 易造成腹瀉
+</div>
+<button class="collapsible">薑 & 醋 &#9989</button>
+<div class="content">
+GOOD &#9989: 減緩噁心、嘔吐症狀
+</div>
+<button class="collapsible">薑 & 皮蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 延緩老化、保持青春
+</div>
+<button class="collapsible">薑 & 蟹 &#9989</button>
+<div class="content">
+GOOD &#9989: 袪寒、殺菌、解毒
+</div>
+<button class="collapsible">薑 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 容易造成火氣大
+</div>
+<button class="collapsible">薑 & 兔肉 &#10062</button>
+<div class="content">
+BAD &#10062: 易導致腹瀉
+</div>
+<button class="collapsible">大蒜 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 防癌效果加倍
+</div>
+<button class="collapsible">大蒜 & 豬肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強體力、幫助腦部發育
+</div>
+<button class="collapsible">大蒜 & 小黃瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 瘦身養顏抗老化
+</div>
+<button class="collapsible">大蒜 & 芒果 &#10062</button>
+<div class="content">
+BAD &#10062: 對胃腸不適
+</div>
+<button class="collapsible">大蒜 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 易造成體內燥熱
+</div>
+<button class="collapsible">辣椒 & 烏賊 &#9989</button>
+<div class="content">
+GOOD &#9989: 降低血壓及膽固醇
+</div>
+<button class="collapsible">辣椒 & 綠葉蔬菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防癌症及動脈硬化
+</div>
+<button class="collapsible">辣椒 & 生胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C的營養
+</div>
+<button class="collapsible">辣椒 & 豬肝 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C的功效
+</div>
+<button class="collapsible">芥末油 & 西芹 &#9989</button>
+<div class="content">
+GOOD &#9989: 養顏美容、增加免疫系統
+</div>
+<button class="collapsible">芥末油 & 菠菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進食慾、改善貧血
+</div>
+<button class="collapsible">芥末 & 雞肉 &#10062</button>
+<div class="content">
+BAD &#10062: 火氣大
+</div>
+<button class="collapsible">香菜 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防更年期障礙
+</div>
+<button class="collapsible">香菜 & 豬瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 預防貧血、補充鐵質
+</div>
+<button class="collapsible">香菜 & 生黃瓜 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素C的營養
+</div>
+<button class="collapsible">香菜 & 生胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 營養價值降低
+</div>
+<button class="collapsible">九層塔 & 蛋 &#9989</button>
+<div class="content">
+GOOD &#9989: 改善經期不順
+</div>
+<button class="collapsible">九層塔 & 茄子 &#9989</button>
+<div class="content">
+GOOD &#9989: 抗老化
+</div>
+<button class="collapsible">九層塔 & 香菜 &#10062</button>
+<div class="content">
+BAD &#10062: 易造成黑色素沉
+</div>
+<button class="collapsible">九層塔 & 咖哩 &#10062</button>
+<div class="content">
+BAD &#10062: 易造成早產
+</div>
+<button class="collapsible">咖哩 & 馬鈴薯 &#9989</button>
+<div class="content">
+GOOD &#9989: 營養素均衡
+</div>
+<button class="collapsible">咖哩 & 洋蔥 &#9989</button>
+<div class="content">
+GOOD &#9989: 調節血壓、祛寒
+</div>
+<button class="collapsible">咖哩 & 胡蘿蔔 &#9989</button>
+<div class="content">
+GOOD &#9989: 維生素A營養加倍
+</div>
+<button class="collapsible">咖哩 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 容易火氣大、造成便秘
+</div>
+<button class="collapsible">黑胡椒 & 牛肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 增進食慾、祛寒補血
+</div>
+<button class="collapsible">胡椒 & 豬肝 &#9989</button>
+<div class="content">
+GOOD &#9989: 增強造血機能
+</div>
+<button class="collapsible">胡椒 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 引發腸胃道疾病
+</div>
+<button class="collapsible">胡椒 & 芥末 &#10062</button>
+<div class="content">
+BAD &#10062: 刺激眼睛和消化道
+</div>
+<button class="collapsible">花椒 & 豆腐 &#9989</button>
+<div class="content">
+GOOD &#9989: 解毒健胃、補充鈣質
+</div>
+<button class="collapsible">花椒 & 豬瘦肉 &#9989</button>
+<div class="content">
+GOOD &#9989: 去腥開胃、補充鐵質
+</div>
+<button class="collapsible">花椒 & 羊肉 &#10062</button>
+<div class="content">
+BAD &#10062: 火氣大、便秘
+</div>
+<button class="collapsible">醋 & 骨頭湯 &#9989</button>
+<div class="content">
+GOOD &#9989: 增加鈣質吸收
+</div>
+<button class="collapsible">醋 & 芝麻 &#9989</button>
+<div class="content">
+GOOD &#9989: 幫助鐵質鈣質吸收
+</div>
+<button class="collapsible">醋 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 造成胃發炎
+</div>
+<button class="collapsible">醋 & 胡蘿蔔 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞類胡蘿蔔素
+</div>
+<button class="collapsible">醋 & 綠色青菜 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞青菜的營養價值
+</div>
+<button class="collapsible">黑糖 & 紅豆 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充鐵質、預防貧血
+</div>
+<button class="collapsible">黑糖 & 龍眼乾 &#9989</button>
+<div class="content">
+GOOD &#9989: 減緩月經不適
+</div>
+<button class="collapsible">黑糖 & 生蚵 &#10062</button>
+<div class="content">
+BAD &#10062: 影響維生素B1的吸收
+</div>
+<button class="collapsible">黑糖 & 咖啡 &#10062</button>
+<div class="content">
+BAD &#10062: 破壞維生素B1的營養
+</div>
+<button class="collapsible">咖啡 & 巧克力 &#9989</button>
+<div class="content">
+GOOD &#9989: 心情愉快、撫慰憂慮
+</div>
+<button class="collapsible">咖啡 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 增加腦部傷害與心血管的負擔
+</div>
+<button class="collapsible">咖啡 & 菠菜 &#10062</button>
+<div class="content">
+BAD &#10062: 使鐵質的吸收降低
+</div>
+<button class="collapsible">茶 & 芭樂 &#9989</button>
+<div class="content">
+GOOD &#9989: 清除自由基
+</div>
+<button class="collapsible">茶 & 雞排 &#10062</button>
+<div class="content">
+BAD &#10062: 影響鐵質吸收
+</div>
+<button class="collapsible">茶 & 酒 &#10062</button>
+<div class="content">
+BAD &#10062: 快速酒醉、影響腎功能
+</div>
+<button class="collapsible">紅酒 & 牛排 &#9989</button>
+<div class="content">
+GOOD &#9989: 減少動脈硬化、去油膩
+</div>
+<button class="collapsible">紅酒 & 南瓜 &#9989</button>
+<div class="content">
+GOOD &#9989: 抗氧化
+</div>
+<button class="collapsible">紅酒 & 花椰菜 &#9989</button>
+<div class="content">
+GOOD &#9989: 保護肝臟
+</div>
+<button class="collapsible">紅酒 & 純巧克力 &#9989</button>
+<div class="content">
+GOOD &#9989: 促進新陳代謝
+</div>
+<button class="collapsible">紅酒 & 芥末醬 &#10062</button>
+<div class="content">
+BAD &#10062: 紅酒變無味
+</div>
+<button class="collapsible">啤酒 & 牛奶 &#9989</button>
+<div class="content">
+GOOD &#9989: 緩和酒精的吸收
+</div>
+<button class="collapsible">啤酒 & 煙燻臘肉 &#10062</button>
+<div class="content">
+BAD &#10062: 加重肝臟負擔
+</div>
+<button class="collapsible">啤酒 & 螃蟹 &#10062</button>
+<div class="content">
+BAD &#10062: 容易引起腹瀉
+</div>
+<button class="collapsible">可樂 檸檬 & 薑 &#9989</button>
+<div class="content">
+GOOD &#9989: 暖胃、驅風寒
+</div>
+<button class="collapsible">可樂 鹽 & 水 &#9989</button>
+<div class="content">
+GOOD &#9989: 補充電解質
+</div>
+<button class="collapsible">可樂 & 烤肉 &#10062</button>
+<div class="content">
+BAD &#10062: 提高致癌風險
+</div>
+<p class="footnote">
+v1.0.0 "Minimum Viable Product."
+<a href="/side_foodcompat/md/food_compat_changelog">Changelog</a></p>
+<p class="footnote">
+Copyright &copy; <script>document.write(/\d{4}/.exec(Date())[0])</script> Ke-Jun (Tom) Sung. All rights reserved.</p>
+<script src="/side_foodcompat/js/collapse_expand.js"></script>
+<script src="/side_foodcompat/js/filter_search.js"></script>
+</body>
+</html>
