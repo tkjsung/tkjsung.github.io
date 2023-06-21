@@ -8,6 +8,7 @@ import sys
 import time
 import pandas as pd
 
+website_ver = "1.0.1"
 food_zh = []
 food_compat_mark = []
 food_zh_reason = []
@@ -107,8 +108,8 @@ def generate_zh_website(write_filepath:str):
 
     # HTML Body: Footnote
     f.write('<p class="footnote">\n')
-    f.write('v1.0.0 "Minimum Viable Product."\n')
-    f.write('<a href="/side_foodcompat/md/food_compat_changelog">Changelog</a></p>\n')
+    f.write(f'v{website_ver} \n')
+    f.write('(<a href="/side_foodcompat/md/food_compat_changelog">Changelog</a>)</p>\n')
     f.write('<p class="footnote">\n')
     f.write('Copyright &copy; <script>document.write(/\d{4}/.exec(Date())[0])</script> Ke-Jun (Tom) Sung. All rights reserved.</p>\n')
 
@@ -130,16 +131,16 @@ def data_import():
         tmp_str = ''
         for i2, item2 in enumerate(tmp):
             if i2 == len(tmp)-1:
-                tmp_str += f'& {item2}'
+                tmp_str += f'{item2}'
             else:
-                tmp_str += f'{item2} '
+                tmp_str += f'{item2} & '
 
         if food_compat_mark[index] == "good":
             tmp_str += " &#9989"
-            food_zh_reason.append(f"GOOD &#9989: {df.reason[index]}")
+            food_zh_reason.append(f"GOOD &#x2705: {df.reason[index]}")
         else:
             tmp_str += " &#10062"
-            food_zh_reason.append(f"BAD &#10062: {df.reason[index]}")
+            food_zh_reason.append(f"BAD &#x274C: {df.reason[index]}")
 
         food_zh.append(tmp_str)
 

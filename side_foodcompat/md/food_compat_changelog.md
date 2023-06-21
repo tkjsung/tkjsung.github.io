@@ -8,8 +8,10 @@ title: Food Compatibility - Website Changelog
 | Version | Date Released | Description |
 | :---: | :---: | --- |
 | 1.0.0 | 2023-05-05 | Minimum Viable Product; First version released. |
+| 1.0.1 | 2023-06-21 | Fixed Top-Level Labeling ("&" now exists between every entry with 3+ items) |
 
-Last updated: May 5, 2023
+
+Last updated: June 21, 2023
 
 <br>
 
@@ -17,3 +19,4 @@ Last updated: May 5, 2023
 
 [Return to Home Page](/md_files/home)
 
+<!-- Note to self: To get multiline in table, use <br> -->
