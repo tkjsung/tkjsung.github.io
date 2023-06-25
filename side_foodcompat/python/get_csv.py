@@ -10,7 +10,7 @@ date_format:str
 
 # 1. Read Excel Document
 def read_excel(filename):
-    df = pd.read_excel(filename, sheet_name='FoodCompatibility', header=0, usecols="A:K", dtype=str)
+    df = pd.read_excel(filename, sheet_name='FoodCompatibility', header=0, usecols="A:H", dtype=str)
     return df
 
 # 2. Remove extra rows with N/A
