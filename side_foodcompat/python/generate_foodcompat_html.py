@@ -8,7 +8,6 @@ import sys
 import time
 import pandas as pd
 
-website_ver = "1.0.1"
 food_zh = []
 food_compat_mark = []
 food_zh_reason = []
@@ -92,12 +91,13 @@ def generate_zh_website(write_filepath:str):
     f.write('<body onload="page_loaded()">\n')
     f.write('<h1>食物相剋 / Food Compatibility</h1>\n')
     f.write('<p>Note: Currently only supports Chinese (Traditional) food items. English support to come in a future update.</p>\n')
-    f.write('<p><button class="collapseAll" id="collAll">Collapse All</button></p>\n')
+    f.write('<p><b>Disclaimer:</b> Information listed on this page should be used for reference only. The website author is not a medical professional and takes no responsibility for actions taken by website visitors. Please use the information provided at your discretion.</p>')
+    f.write('<p><button class="collapseAll" id="collAll">全部收縮</button></p>\n')
     f.write("<div>\n")
-    f.write('<input type="text" id="compat_searchbox" placeholder="Search for food items ..." title="Type in a food item" onkeypress="check_enter_key(event)">\n')
-    f.write('<input type="button" id="compat_searchbutton" value="Search" name="Search" onclick="compat_search()">\n')
+    f.write('<input type="text" id="compat_searchbox" placeholder="輸入食材名稱 ..." title="Type in a food item" onkeypress="check_enter_key(event)">\n')
+    f.write('<input type="button" id="compat_searchbutton" value="收尋" name="Search" onclick="compat_search()">\n')
     f.write('</div><br>\n')
-    f.write('<p id="text_results">Results:</p>')
+    f.write('<p id="text_results">結果:</p>')
 
     # HTDML Body: Food Compatibility Food Content
     for index in range(0, len(food_zh)):
@@ -108,8 +108,8 @@ def generate_zh_website(write_filepath:str):
 
     # HTML Body: Footnote
     f.write('<p class="footnote">\n')
-    f.write(f'v{website_ver} \n')
-    f.write('(<a href="/side_foodcompat/md/food_compat_changelog">Changelog</a>)</p>\n')
+    f.write(f'v{website_ver} {website_build_date}\n')
+    f.write('(<a href="/side_foodcompat/md/food_compat_changelog">Changelog</a>) (<a href="/md_files/side_foodcompat_website">About the website</a>)</p>\n')
     f.write('<p class="footnote">\n')
     f.write('Copyright &copy; <script>document.write(/\d{4}/.exec(Date())[0])</script> Ke-Jun (Tom) Sung. All rights reserved.</p>\n')
 
@@ -136,16 +136,19 @@ def data_import():
                 tmp_str += f'{item2} & '
 
         if food_compat_mark[index] == "good":
-            tmp_str += " &#9989"
+            tmp_str += " &#x2705"
             food_zh_reason.append(f"GOOD &#x2705: {df.reason[index]}")
         else:
-            tmp_str += " &#10062"
+            tmp_str += " &#x274C"
             food_zh_reason.append(f"BAD &#x274C: {df.reason[index]}")
 
         food_zh.append(tmp_str)
 
 
 if __name__ == '__main__':
+    website_ver = "1.1.0"
+    website_build_date = "(2023-06-24)"
+
     # Create new folder to place file into:
     cf = createNewFolder()
     # cf.folder_type = "html"
