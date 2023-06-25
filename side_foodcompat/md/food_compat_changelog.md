@@ -7,7 +7,8 @@ title: Food Compatibility - Website Changelog
 
 | Version | Date Released | Description |
 | :---: | :---: | --- |
-| 1.1.0 | 2023-06-24 | Added two sources |
+| 1.1.1 | 2023-06-24 | Fixed minor text translation error |
+| 1.1.0 | 2023-06-24 | Added two sources and more food combinations |
 | 1.0.1 | 2023-06-21 | Fixed Top-Level Labeling ("&" now exists between every entry with 3+ items) |
 | 1.0.0 | 2023-05-05 | Minimum Viable Product; First version released. |
 

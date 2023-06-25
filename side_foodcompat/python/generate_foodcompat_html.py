@@ -92,10 +92,10 @@ def generate_zh_website(write_filepath:str):
     f.write('<h1>食物相剋 / Food Compatibility</h1>\n')
     f.write('<p>Note: Currently only supports Chinese (Traditional) food items. English support to come in a future update.</p>\n')
     f.write('<p><b>Disclaimer:</b> Information listed on this page should be used for reference only. The website author is not a medical professional and takes no responsibility for actions taken by website visitors. Please use the information provided at your discretion.</p>')
-    f.write('<p><button class="collapseAll" id="collAll">全部收縮</button></p>\n')
+    f.write('<p><button class="collapseAll" id="collAll">全部摺疊</button></p>\n') # expand all is 全部展開 but probably won't be used
     f.write("<div>\n")
     f.write('<input type="text" id="compat_searchbox" placeholder="輸入食材名稱 ..." title="Type in a food item" onkeypress="check_enter_key(event)">\n')
-    f.write('<input type="button" id="compat_searchbutton" value="收尋" name="Search" onclick="compat_search()">\n')
+    f.write('<input type="button" id="compat_searchbutton" value="搜尋" name="Search" onclick="compat_search()">\n')
     f.write('</div><br>\n')
     f.write('<p id="text_results">結果:</p>')
 
@@ -145,8 +145,11 @@ def data_import():
         food_zh.append(tmp_str)
 
 
+# TODO: Need to add instructions on how to use the page
+# TODO: Need to "decorate" the page, e.g., different font, styles, etc. for text
+# TODO: Maybe add a button to clear the results? If it is technically possible
 if __name__ == '__main__':
-    website_ver = "1.1.0"
+    website_ver = "1.1.1"
     website_build_date = "(2023-06-24)"
 
     # Create new folder to place file into:
