@@ -1,586 +1,1338 @@
-entry_num,item_zh,item_en,compatibility,reason,pg_num,source
-1,麵包;核桃,bread;walnut,good,預防心臟病,57,吃對食物健康100分
-2,麵包;萵苣,bread;lettuce,good,促進吸收鐵質,57,吃對食物健康100分
-3,麵包;奶酥,bread;butter biscuit||soufflé,bad,熱量過高易發胖,57,吃對食物健康100分
-4,麵包;巧克力,bread;chocolate,bad,糖分含量過高,57,吃對食物健康100分
-5,麵條;牡蠣,noodle;oyster,good,預防感冒、促進發育,59,吃對食物健康100分
-6,麵條;芝麻,noodle;sesame seed,good,調節蛋白質代謝,59,吃對食物健康100分
-7,麵條;番茄,noodle;tomato,good,消除疲勞、提高免疫力,59,吃對食物健康100分
-8,麵條;鮮蛤蜊,noodle;fresh clam,bad,破壞維生素B1,59,吃對食物健康100分
-9,麵條;蘋果,noodle;apple,bad,噁心、腹痛,59,吃對食物健康100分
-10,腰果;大蒜,cashew;garlic,good,護膚、集中注意力,60,吃對食物健康100分
-11,腰果;蝦仁,cashew;shrimp,good,豐潤毛髮、減輕關節炎疼痛,60,吃對食物健康100分
-12,腰果;鮮蛤蜊,cashew;fresh clam,bad,破壞維生素B1,60,吃對食物健康100分
-13,腰果;酒,cashew;wine||liqueur,bad,容易形成脂肪肝,60,吃對食物健康100分
-14,杏仁;枇杷,almond;loquat,good,防癌、抗老,61,吃對食物健康100分
-15,杏仁;牛奶,almond;milk,good,提高免疫力,61,吃對食物健康100分
-16,杏仁;麥片,almond;oatmeal,bad,干擾鈣質吸收,61,吃對食物健康100分
-17,杏仁;醋,almond;vinegar,bad,營養價值流失,61,吃對食物健康100分
-18,薏仁;龍眼,job's tear||pearl barley;longan,good,改善皮膚乾燥與粗燥,62,吃對食物健康100分
-19,薏仁;紅豆,job's tear||pearl barley;azuki bean||adzuki bean,good,預防貧血、刺激食慾,62,吃對食物健康100分
-20,薏仁;海帶,job's tear||pearl barley;kelp,bad,靜脈曲張、瘀血,62,吃對食物健康100分
-21,燕麥;黃豆,oatmeal;soybean,good,幫助成長發育,63,吃對食物健康100分
-22,燕麥;香菇,oatmeal;mushroom,good,防癌、抗老,63,吃對食物健康100分
-23,燕麥;菠菜,oatmeal;spinach,bad,阻礙鈣質的攝取,63,吃對食物健康100分
-24,芝麻;蔥,sesame seed;scallion||green onion,good,護膚、集中注意力,64,吃對食物健康100分
-25,芝麻;檸檬,sesame seed;lemon,good,紅潤臉色、預防貧血,64,吃對食物健康100分
-26,芝麻;巧克力,sesame seed;chocolate,bad,影響吸收、消化,64,吃對食物健康100分
-27,芝麻;豬肉,sesame seed;pork,bad,影響蛋白質的消化,64,吃對食物健康100分
-28,蓮子;花生,lotus seed;peanut,good,幫助骨骼成長,65,吃對食物健康100分
-29,蓮子;白木耳,lotus seed;white fungus||white wood ear,good,強健骨骼、牙齒,65,吃對食物健康100分
-30,蓮子;麥片,lotus seed;oatmeal,bad,影響鈣質吸收,65,吃對食物健康100分
-31,蓮子;黃豆,lotus seed;soybean,bad,腹瀉、腹脹,65,吃對食物健康100分
-32,糙米;芝麻,brown rice;sesame seed,good,維持皮膚健康、預防動脈硬化,66,吃對食物健康100分
-33,糙米;南瓜,brown rice;pumpkin,good,預防貧血、疲勞,66,吃對食物健康100分
-34,糙米;羊肉,brown rice;lamb||mutton,bad,使蛋白質的消化困難,66,吃對食物健康100分
-35,糙米;牛肝,brown rice;beef liver,bad,阻礙對礦物質的攝取,66,吃對食物健康100分
-36,小米;黃豆,millet;soybean,good,保健眼睛與皮膚,67,吃對食物健康100分
-37,小米;胡蘿蔔,millet;carrot,good,延遲老化,67,吃對食物健康100分
-38,小米;醋,millet;vinegar,bad,營養價值流失,67,吃對食物健康100分
-39,小米;蛋,millet;egg,bad,引起腸胃病,67,吃對食物健康100分
-40,粳米;山藥,japonica rice;chinese yam||common yam,good,預防貧血、消除疲勞,69,吃對食物健康100分
-41,粳米;香菇,japonica rice;mushroom,good,對骨骼與牙齒有益,69,吃對食物健康100分
-42,粳米;青菜,japonica rice;vegetable,good,促進成長發育,69,吃對食物健康100分
-43,粳米;牛肉,japonica rice;beef,bad,不利消化,69,吃對食物健康100分
-44,粳米;豬肝,japonica rice;pork liver,bad,阻礙人體吸收鐵質,69,吃對食物健康100分
-45,糯米;蓮子,glutinous rice||sticky rice;lotus seed,good,幫助骨骼發育,71,吃對食物健康100分
-46,糯米;百合,glutinous rice||sticky rice;lily bulb||lily bud,good,改善氣色、消除疲勞,71,吃對食物健康100分
-47,黑糯米;葵瓜子,black glutinous rice||black sticky rice;sunflower seed,good,刺激食慾、幫助成長,71,吃對食物健康100分
-48,糯米;蘋果,glutinous rice||sticky rice;apple,bad,產生不易消化的物質,71,吃對食物健康100分
-49,糯米;生蛋白,glutinous rice||sticky rice;raw egg white,bad,降低營養價值,71,吃對食物健康100分
-50,花生;蝦仁,peanut;shrimp,good,強健骨骼、牙齒,73,吃對食物健康100分
-51,花生;魩仔魚,peanut;whitebait,good,強化對鈣質的吸收,73,吃對食物健康100分
-52,花生;瘦豬肉,peanut;lean pork,good,使皮膚恢復血色,73,吃對食物健康100分
-53,花生;粳米,peanut;japonica rice,bad,誘發腸胃疾病,73,吃對食物健康100分
-54,花生;牛油,peanut;beef tallow||beef lard,bad,容易消化不良,73,吃對食物健康100分
-55,栗子;柚子,chestnut;pomelo||grapefruit,good,預防感冒、幫助傷口癒合,74,吃對食物健康100分
-56,栗子;玉米,chestnut;corn,good,促進腸胃蠕動,74,吃對食物健康100分
-57,栗子;牛肉,chestnut;beef,bad,使維生素C氧化、失去營養價值,74,吃對食物健康100分
-58,栗子;黃豆,chestnut;soybean,bad,腹瀉、腹脹,74,吃對食物健康100分
-59,松子;牛肉,pine nut;beef,good,防止動脈硬化,75,吃對食物健康100分
-60,松子;芒果,pine nut;mango,good,防老、抗癌,75,吃對食物健康100分
-61,松子;黃豆,pine nut;soybean,bad,阻礙蛋白質吸收,75,吃對食物健康100分
-62,松子;酒,pine nut;wine||liqueur,bad,形成脂肪肝,75,吃對食物健康100分
-63,蕎麥;蛋,buckwheat||soba;egg,good,維持皮膚、神經系統健康,76,吃對食物健康100分
-64,蕎麥;蟹,buckwheat||soba;crab,good,維持骨骼、牙齒的健康,76,吃對食物健康100分
-65,蕎麥;海帶,buckwheat||soba;kelp,bad,易靜脈曲張、瘀血,76,吃對食物健康100分
-66,蕎麥;鮮蛤蜊,buckwheat||soba;fresh clam,bad,失去營養價值,76,吃對食物健康100分
-67,高麗菜;豬肉,cabbage;pork,good,恢復肌膚彈性、預防斑點,79,吃對食物健康100分
-68,高麗菜;竹筍,cabbage;bamboo shoot,good,促進血液循環,79,吃對食物健康100分
-69,高麗菜;美乃滋,cabbage;mayonnaise,good,護膚、防老、抗癌,79,吃對食物健康100分
-70,高麗菜;小黃瓜,cabbage;cucumber,bad,破壞維生素C,79,吃對食物健康100分
-71,高麗菜;蜂蜜,cabbage;honey,bad,營養價值降低,79,吃對食物健康100分
-72,大白菜;番茄,napa cabbage||chinese cabbage;tomato,good,預防感冒、舒緩情緒,82,吃對食物健康100分
-73,大白菜;乳酪,napa cabbage||chinese cabbage;cheese,good,預防骨骼疏鬆,82,吃對食物健康100分
-74,大白菜;美乃滋,napa cabbage||chinese cabbage;mayonnaise,good,護膚美顏、防癌抗老,82,吃對食物健康100分
-75,大白菜;瘦肉,napa cabbage||chinese cabbage;lean meat,good,美白肌膚、消除疲勞,82,吃對食物健康100分
-76,大白菜;蛋,napa cabbage||chinese cabbage;egg,bad,加速維生素C氧化,82,吃對食物健康100分
-77,大白菜;小黃瓜,napa cabbage||chinese cabbage;cucumber,bad,營養價值降低,82,吃對食物健康100分
-78,大白菜;豬肝,napa cabbage||chinese cabbage;pork liver,bad,維生素C被氧化,82,吃對食物健康100分
-79,青江菜;芥花油,bok choy;canola oil,good,護膚、抗癌、降膽固醇,83,吃對食物健康100分
-80,青江菜;芝麻油,bok choy;sesame seed oil,good,保護眼睛、防癌,83,吃對食物健康100分
-81,青江菜;竹筍,bok choy;bamboo shoot,bad,破壞維生素C,83,吃對食物健康100分
-82,青江菜;豆腐,bok choy;tofu,bad,影響人體吸收鈣質,83,吃對食物健康100分
-83,空心菜;蛋,water spinach;egg,good,護眼、防癌、抗老,85,吃對食物健康100分
-84,空心菜;橄欖油,water spinach;olive oil,good,防止老化,85,吃對食物健康100分
-85,空心菜;雞肉,water spinach;chicken,good,降低對膽固醇的吸收,85,吃對食物健康100分
-86,空心菜;乳酪,water spinach;cheese,bad,阻礙鈣質吸收,85,吃對食物健康100分
-87,空心菜;枸杞,water spinach;goji berry||wolfberry,bad,鉀含量過高,85,吃對食物健康100分
-88,地瓜葉;瘦肉,sweet potato leaf;lean meat,good,降低對膽固醇的吸收,86,吃對食物健康100分
-89,地瓜葉;大蒜,sweet potato leaf;garlic,good,消除疲勞、護膚,86,吃對食物健康100分
-90,地瓜葉;豬肝,sweet potato leaf;pork liver,bad,干擾人體吸收礦物質,86,吃對食物健康100分
-91,地瓜葉;鮮蛤蜊,sweet potato leaf;fresh clam,bad,破壞維生素B1,86,吃對食物健康100分
-92,芹菜;章魚,celery;octopus,good,強心肝、降膽固醇,87,吃對食物健康100分
-93,芹菜;橄欖油,celery;olive oil,good,護眼、抗癌,87,吃對食物健康100分
-94,芹菜;生蛤蜊,celery;raw clam,bad,破壞維生素B1,87,吃對食物健康100分
-95,芹菜;蜂蜜,celery;honey,bad,容易腹瀉,87,吃對食物健康100分
-96,菠菜;大蒜,spinach;garlic,good,消除疲勞,89,吃對食物健康100分
-97,菠菜;海帶,spinach;kelp,good,有益於骨骼牙齒,89,吃對食物健康100分
-98,菠菜;蛋,spinach;egg,good,維持鈣與磷的平衡,89,吃對食物健康100分
-99,菠菜;核桃,spinach;walnut,bad,易引起結石,89,吃對食物健康100分
-100,菠菜;乳酪,spinach;cheese,bad,影響鈣質吸收,89,吃對食物健康100分
-101,韭菜;葵花油,garlic chive||chinese leek||chinese chive;sunflower oil,good,預防癌症、心臟病,90,吃對食物健康100分
-102,韭菜;瘦肉,garlic chive||chinese leek||chinese chive;lean meat,good,消除疲勞、養顏美容,90,吃對食物健康100分
-103,韭菜;蜂蜜,garlic chive||chinese leek||chinese chive;honey,bad,引起腹瀉,90,吃對食物健康100分
-104,韭菜;醋,garlic chive||chinese leek||chinese chive;vinegar,bad,降低營養價值,90,吃對食物健康100分
-105,豆芽菜;青橄欖油,bean sprout;green olive oil,good,改善肌膚粗燥,91,吃對食物健康100分
-106,豆芽菜;瘦肉,bean sprout;lean meat,good,護膚、提高免疫力,91,吃對食物健康100分
-107,豆芽菜;蘋果,bean sprout;apple,bad,造成消化不良,91,吃對食物健康100分
-108,豆芽菜;低鈉鹽,bean sprout;low sodium salt,bad,鉀攝取過量,91,吃對食物健康100分
-109,紅蘿蔔;芝麻油,carrot;sesame seed oil,good,保護眼睛、預防感冒,93,吃對食物健康100分
-110,紅蘿蔔;青花魚; 鯖魚,carrot;atlantic mackerel,good,預防動脈硬化、痴呆症,93,吃對食物健康100分
-111,紅蘿蔔;乾香菇,carrot;dry mushroom||dried mushroom,good,保護眼睛、抗老,93,吃對食物健康100分
-112,紅蘿蔔;醋,carrot;vinegar,bad,破壞類胡蘿蔔素,93,吃對食物健康100分
-113,紅蘿蔔;玉米,carrot;corn,bad,降低營養價值,93,吃對食物健康100分
-114,白蘿蔔;高麗菜,white radish;cabbage,good,保健肌膚,95,吃對食物健康100分
-115,白蘿蔔;大豆油,white radish;soybean oil,good,幫助人體吸收鈣質,95,吃對食物健康100分
-116,白蘿蔔;蛤蜊,white radish;clam,good,強心、護肝,95,吃對食物健康100分
-117,白蘿蔔;胡蘿蔔,white radish;carrot,bad,破壞維生素C,95,吃對食物健康100分
-118,白蘿蔔;蜂蜜,white radish;honey,bad,易引起腹瀉,95,吃對食物健康100分
-119,山藥;豬肉,chinese yam||common yam;pork,good,肌膚光澤、消除疲勞,97,吃對食物健康100分
-120,山藥;鮑魚,chinese yam||common yam;abalone,good,加強人體對鈣的吸收,97,吃對食物健康100分
-121,山藥;食鹽,chinese yam||common yam;salt,good,維持體內酸鹼平衡,97,吃對食物健康100分
-122,山藥;胡蘿蔔,chinese yam||common yam;carrot,bad,破壞維生素C,97,吃對食物健康100分
-123,山藥;鳳梨,chinese yam||common yam;pineapple,bad,有礙腸胃健康,97,吃對食物健康100分
-124,地瓜;牛奶,sweet potato;milk,good,護肝、強心,98,吃對食物健康100分
-125,地瓜;乳酪,sweet potato;cheese,good,預防癌症、心臟病,98,吃對食物健康100分
-126,地瓜;蜂蜜,sweet potato;honey,bad,容易拉肚子,98,吃對食物健康100分
-127,地瓜;醋,sweet potato;vinegar,bad,對胃不利,98,吃對食物健康100分
-128,芋頭;洋蔥,taro;onion,good,養顏美容,99,吃對食物健康100分
-129,芋頭;鴨,taro;duck,good,預防貧血,99,吃對食物健康100分
-130,芋頭;生鮮蟹肉,taro;fresh raw crab,bad,降低營養價值,99,吃對食物健康100分
-131,芋頭;醋,taro;vinegar,bad,干擾澱粉分解,99,吃對食物健康100分
-132,馬鈴薯;蛋,potato;egg,good,光澤肌膚、消除疲勞,100,吃對食物健康100分
-133,馬鈴薯;豬肉,potato;pork,good,消除疲勞,100,吃對食物健康100分
-134,馬鈴薯;芋頭,potato;taro,bad,澱粉攝取過量,100,吃對食物健康100分
-135,馬鈴薯;食用醋,potato;vinegar,bad,干擾體內澱粉分解,100,吃對食物健康100分
-136,南瓜;蝦,pumpkin;shrimp,good,美膚、消除疲勞,101,吃對食物健康100分
-137,南瓜;糙米,pumpkin;brown rice,good,防治貧血,101,吃對食物健康100分
-138,南瓜;醋,pumpkin;vinegar,bad,影響澱粉分解消化,101,吃對食物健康100分
-139,南瓜;豬肝,pumpkin;pork liver,bad,影響人體吸收銅,101,吃對食物健康100分
-140,小黃瓜;千島醬,cucumber;thousand island dressing,good,護膚、防老、抗癌,102,吃對食物健康100分
-141,小黃瓜;魷魚,cucumber;squid,good,降低膽固醇、強化心肝功能,102,吃對食物健康100分
-142,小黃瓜;海帶,cucumber;kelp,bad,妨礙維生素C的吸收,102,吃對食物健康100分
-143,生小黃瓜;香菜,raw cucumber;parsley||coriander||cilantro,bad,降低營養價值,102,吃對食物健康100分
-144,大黃瓜;番茄,big cucumber;tomato,good,維持體內鹽分平衡,103,吃對食物健康100分
-145,大黃瓜;蘋果,big cucumber;apple,good,促進腸胃蠕動,103,吃對食物健康100分
-146,大黃瓜;蔥,big cucumber;scallion||green onion,bad,影響鈣質吸收,103,吃對食物健康100分
-147,大黃瓜;枸杞,big cucumber;goji berry||wolfberry,bad,鉀含量容易過高,103,吃對食物健康100分
-148,絲瓜;蛋,sponge gourd||loofah;egg,good,加速傷口癒合,105,吃對食物健康100分
-149,絲瓜;蝦,sponge gourd||loofah;shrimp,good,防治甲狀腺腫大,105,吃對食物健康100分
-150,絲瓜;香菜;芥花油,sponge gourd||loofah;parsley||coriander||cilantro;canola oil,good,防老、降低致癌率,105,吃對食物健康100分
-151,絲瓜;竹筍,sponge gourd||loofah;bamboo shoot,bad,破壞類胡蘿蔔素,105,吃對食物健康100分
-152,絲瓜;泥鰍,sponge gourd||loofah;mud loach||pond loach,bad,破壞維生素B1,105,吃對食物健康100分
-153,苦瓜;瘦肉,bitter melon||bitter gourd;lean meat,good,增強體力、促進發育,106,吃對食物健康100分
-154,苦瓜;蘆筍,bitter melon||bitter gourd;asparagus,good,使皮膚恢復血色,106,吃對食物健康100分
-155,苦瓜;低鈉鹽,bitter melon||bitter gourd;low sodium salt,bad,易腹脹、腹瀉,106,吃對食物健康100分
-156,苦瓜;蚵仔,bitter melon||bitter gourd;oyster,bad,降低營養價值,106,吃對食物健康100分
-157,冬瓜;蝦,wax gourd||winter melon;shrimp,good,幫助人體吸收鈣質,107,吃對食物健康100分
-158,冬瓜;鴨,wax gourd||winter melon;duck,good,預防貧血、促進食慾,107,吃對食物健康100分
-159,冬瓜;豬肝,wax gourd||winter melon;pork liver,bad,使維生素C氧化,107,吃對食物健康100分
-160,茄子;辣椒,eggplant;chili pepper,good,抗壓、美白肌膚,108,吃對食物健康100分
-161,茄子;乳酪,eggplant;cheese,good,加強人體對鈣質的吸收,108,吃對食物健康100分
-162,茄子;扁豆,eggplant;hyacinth bean||lentil,bad,影響人體吸收鈣質,108,吃對食物健康100分
-163,茄子;胡蘿蔔,eggplant;carrot,bad,降低營養價值,108,吃對食物健康100分
-164,茭白筍;瘦肉,water bamboo shoot||zizania shoot;lean meat,good,使皮膚恢復血色,109,吃對食物健康100分
-165,茭白筍;髮菜,water bamboo shoot||zizania shoot;fat choy||black moss,good,幫助人體吸收鈣質,109,吃對食物健康100分
-166,茭白筍;無鹽醬油,water bamboo shoot||zizania shoot;unsalted soy sauce,bad,鉀含量過高,109,吃對食物健康100分
-167,茭白筍;鮮蟹肉,water bamboo shoot||zizania shoot;fresh crab,bad,破壞維生素B1,109,吃對食物健康100分
-168,竹筍;蛋,bamboo shoot;egg,good,維持皮膚、消化系統健康,111,吃對食物健康100分
-169,竹筍;牡蠣,bamboo shoot;oyster,good,幫助傷口癒合、預防感冒,111,吃對食物健康100分
-170,竹筍;瘦肉,bamboo shoot;lean meat,good,使皮膚恢復血色,111,吃對食物健康100分
-171,竹筍;胡蘿蔔,bamboo shoot;carrot,bad,破壞類胡蘿蔔素,111,吃對食物健康100分
-172,竹筍;花枝羹,bamboo shoot;squid thick soup,bad,降低鈣質吸收,111,吃對食物健康100分
-173,蘆筍;蛋,asparagus;egg,good,使皮膚恢復血色,113,吃對食物健康100分
-174,蘆筍;蝦;海苔,asparagus;shrimp;seaweed,good,防治甲狀腺功能失調,113,吃對食物健康100分
-175,蘆筍;蟹肉,asparagus;crab,good,減輕關節炎疼痛,113,吃對食物健康100分
-176,蘆筍;甜椒,asparagus;sweet bell pepper,bad,降低營養價值,113,吃對食物健康100分
-177,蘆筍;香蕉,asparagus;banana,bad,刺激腸胃產生不適,113,吃對食物健康100分
-178,四季豆;乾香菇,green bean||string bean;dry mushroom||dried mushroom,good,保護眼睛、抗老,114,吃對食物健康100分
-179,四季豆;花椒粉,green bean||string bean;prickly ash powder||pricklyash powder,good,強化人體對鈣質的吸收,114,吃對食物健康100分
-180,四季豆;醋,green bean||string bean;vinegar,bad,破壞類胡蘿蔔素,114,吃對食物健康100分
-181,四季豆;小魚乾,green bean||string bean;dry clove fish||dry fish||anchovy||dried clove fish||dried fish||dried anchovy,bad,影響鈣質吸收,114,吃對食物健康100分
-182,豌豆;紅辣椒,green pea;red pepper,good,美白肌膚、防斑,115,吃對食物健康100分
-183,豌豆;糙米,green pea;brown rice,good,防老、抗癌,115,吃對食物健康100分
-184,豌豆;食用醋,green pea;vinegar,bad,引起消化不良,115,吃對食物健康100分
-185,豌豆;菠菜,green pea;spinach,bad,影響鈣質吸收,115,吃對食物健康100分
-186,青椒;雞肉,green bell pepper;chicken,good,護髮、護膚,117,吃對食物健康100分
-187,青椒;牛肉,green bell pepper;beef,good,消除疲勞、提高免疫力,117,吃對食物健康100分
-188,甜椒;花椰菜,sweet bell pepper;broccoli,good,護膚,117,吃對食物健康100分
-189,甜椒;葵瓜子,sweet bell pepper;sunflower seed,bad,妨礙維生素E的吸收,117,吃對食物健康100分
-190,甜椒;香菜,sweet bell pepper;parsley||coriander||cilantro,bad,使維生素C氧化,117,吃對食物健康100分
-191,洋蔥;豬肉,onion;pork,good,消除疲勞,119,吃對食物健康100分
-192,洋蔥;松子,onion;pine nut,good,抗癌防老、預防心臟病,119,吃對食物健康100分
-193,洋蔥;蛋,onion;egg,good,護膚、促進血液循環,119,吃對食物健康100分
-194,洋蔥;甜椒,onion;sweet bell pepper,bad,降低營養價值,119,吃對食物健康100分
-195,洋蔥;蘋果,onion;apple,bad,誘發甲狀腺腫大,119,吃對食物健康100分
-196,花椰菜;豬肉,broccoli;pork,good,美白肌膚、提高免疫力,121,吃對食物健康100分
-197,白花椰菜;蝦,cauliflower;shrimp,good,補充甲狀腺激素的不足,121,吃對食物健康100分
-198,花椰菜;糙米,broccoli;brown rice,good,護膚、防癌、抗老,121,吃對食物健康100分
-199,花椰菜;牛肝,broccoli;beef liver,bad,破壞維生素C,121,吃對食物健康100分
-200,花椰菜;豬肝,broccoli;pork liver,bad,降低礦物質的吸收率,121,吃對食物健康100分
-201,玉米;草莓,corn;strawberry,good,預防黑斑、雀斑,122,吃對食物健康100分
-202,玉米;馬鈴薯,corn;potato,bad,澱粉含量過高,122,吃對食物健康100分
-203,玉米;可樂,corn;cola,bad,干擾鈣質吸收,122,吃對食物健康100分
-204,木耳;蛋,black fungus (wood ear);egg,good,強健骨骼、牙齒,123,吃對食物健康100分
-205,木耳;蝦,black fungus (wood ear);shrimp,good,豐潤血色、毛髮,123,吃對食物健康100分
-206,木耳;甘藍菜,black fungus (wood ear);chinese kale,bad,誘發甲狀腺腫大,123,吃對食物健康100分
-207,木耳;鳳梨,black fungus (wood ear);pineapple,bad,消化不良、反胃,123,吃對食物健康100分
-208,香菇;荷蘭芹,mushroom;parsley,good,護眼、抗老、防癌,125,吃對食物健康100分
-209,香菇;鯛魚,mushroom;snapper||sea bream,good,消除疲勞,125,吃對食物健康100分
-210,香菇;瘦肉,mushroom;lean meat,good,維持皮膚、消化系統健康,125,吃對食物健康100分
-211,香菇;酒,mushroom;wine||liqueur,bad,減少維生素D的吸收,125,吃對食物健康100分
-212,香菇;紅蕃茄,mushroom;red tomato,bad,破壞類胡蘿蔔素,125,吃對食物健康100分
-213,金針菇;蔥,enoki mushroom||enokitake;scallion||green onion,good,有助於消除疲勞,126,吃對食物健康100分
-214,金針菇;番茄,enoki mushroom||enokitake;tomato,good,維持體內鹽分的平衡,126,吃對食物健康100分
-215,金針菇;生蛤蜊,enoki mushroom||enokitake;raw clam,bad,破壞維生素B1,126,吃對食物健康100分
-216,金針菇;羊肉,enoki mushroom||enokitake;lamb||mutton,bad,影響消化能力,126,吃對食物健康100分
-217,枇杷;豬肉,loquat;pork,good,幫助類胡蘿蔔素作用,128,吃對食物健康100分
-218,枇杷;蘋果,loquat;apple,good,防癌、抗老,128,吃對食物健康100分
-219,枇杷;牛奶,loquat;milk,bad,牛奶變性沈澱,128,吃對食物健康100分
-220,枇杷;酒,loquat;wine||liqueur,bad,可能產生毒性物質,128,吃對食物健康100分
-221,奇異果;松子,kiwi;pine nut,good,促進人體吸收鐵質,129,吃對食物健康100分
-222,奇異果;美乃滋,kiwi;mayonnaise,good,養顏美容,129,吃對食物健康100分
-223,奇異果;豬肉,kiwi;pork,bad,降低營養價值,129,吃對食物健康100分
-224,奇異果;蜂蜜,kiwi;honey,bad,易引起腹瀉,129,吃對食物健康100分
-225,鳳梨;洋菜,pineapple;agar,good,促進血液循環,130,吃對食物健康100分
-226,鳳梨;蛋,pineapple;egg,good,美白肌膚、消除疲勞,130,吃對食物健康100分
-227,鳳梨;蝦,pineapple;shrimp,bad,刺激胃、引起嘔吐,130,吃對食物健康100分
-228,鳳梨;香蕉,pineapple;banana,bad,鉀含量過高,130,吃對食物健康100分
-229,香蕉;乳酪,banana;cheese,good,防止骨質疏鬆,131,吃對食物健康100分
-230,香蕉;花生,banana;peanut,good,提高菸酸鹼含量,131,吃對食物健康100分
-231,香蕉;牛奶,banana;milk,bad,不利蛋白質吸收、引起消化不良,131,吃對食物健康100分
-232,番茄;蛋,tomato;egg,good,護膚、抗老、防癌,133,吃對食物健康100分
-233,番茄;豆腐,tomato;tofu,good,養顏美容、提高免疫力,133,吃對食物健康100分
-234,番茄;馬鈴薯,tomato;potato,good,促進血液循環,133,吃對食物健康100分
-235,番茄;胡蘿蔔,tomato;carrot,bad,破壞維生素C,133,吃對食物健康100分
-236,番茄;豬肝,tomato;pork liver,bad,使維生素C氧化,133,吃對食物健康100分
-237,桃子;蘋果,peach;apple,good,刺激腸蠕動、通便,134,吃對食物健康100分
-238,桃子;葡萄柚,peach;grapefruit,good,紅潤膚色、預防貧血,134,吃對食物健康100分
-239,桃子;火腿,peach;ham,bad,腹瀉、腹脹,134,吃對食物健康100分
-240,桃子;枸杞,peach;goji berry||wolfberry,bad,腹瀉、腹脹,134,吃對食物健康100分
-241,李子;食鹽,plum;salt,good,維持酸鹼平衡,135,吃對食物健康100分
-242,李子;堅果,plum;nut,good,促進兒童成長,135,吃對食物健康100分
-243,李子;醋,plum;vinegar,bad,營養成分流失,135,吃對食物健康100分
-244,李子;蜂蜜,plum;honey,bad,降低營養價值,135,吃對食物健康100分
-245,芒果;玉米;蝦仁,mango;corn;shrimp,good,維持甲狀腺功能正常,137,吃對食物健康100分
-246,芒果;牛奶,mango;milk,good,保護眼睛、防癌,137,吃對食物健康100分
-247,芒果;乳酪,mango;cheese,good,幫助鈣質吸收、抗壓,137,吃對食物健康100分
-248,芒果;牛肝,mango;beef liver,bad,失去營養價值,137,吃對食物健康100分
-249,芒果;胡蘿蔔,mango;carrot,bad,營養流失,137,吃對食物健康100分
-250,哈密瓜;芹菜,cantaloupe;celery,good,養顏美容,138,吃對食物健康100分
-251,哈密瓜;牛奶,cantaloupe;milk,good,預防癌症、心臟病,138,吃對食物健康100分
-252,哈密瓜;可樂,cantaloupe;cola,bad,鈣會被消耗掉,138,吃對食物健康100分
-253,哈密瓜;醋,cantaloupe;vinegar,bad,流失營養成分,138,吃對食物健康100分
-254,香瓜;白木耳,muskmelon;white fungus||white wood ear,good,增強體力、促進發育,139,吃對食物健康100分
-255,香瓜;豬肉,muskmelon;pork,bad,減低礦物質吸收,139,吃對食物健康100分
-256,香瓜;黃瓜,muskmelon;cucumber,bad,使營養流失,139,吃對食物健康100分
-257,櫻桃;哈密瓜,cherry;cantaloupe,good,預防貧血、增加體力,140,吃對食物健康100分
-258,櫻桃;食鹽,cherry;salt,good,維持酸鹼平衡,140,吃對食物健康100分
-259,櫻桃;堅果,cherry;nut,bad,容易靜脈曲張、瘀血,140,吃對食物健康100分
-260,櫻桃;蜂蜜,cherry;honey,bad,失去營養價值,140,吃對食物健康100分
-261,荔枝;榛果,lychee;hazelnut,good,可消除疲勞,141,吃對食物健康100分
-262,荔枝;燕麥,lychee;oatmeal,good,幫助醣類代謝,141,吃對食物健康100分
-263,荔枝;黃瓜,lychee;cucumber,bad,營養成分流失,141,吃對食物健康100分
-264,荔枝;豬肝,lychee;pork liver,bad,破壞維生素C,141,吃對食物健康100分
-265,西瓜;食鹽,watermelon;salt,good,平衡酸鹼度,142,吃對食物健康100分
-266,西瓜;胡蘿蔔,watermelon;carrot,good,維持皮膚健康,142,吃對食物健康100分
-267,西瓜;酒,watermelon;wine||liqueur,bad,破壞泛酸造成營養流失,142,吃對食物健康100分
-268,西瓜;蜂蜜,watermelon;honey,bad,加速維生素C氧化,142,吃對食物健康100分
-269,木瓜;牛奶,papaya;milk,good,有助於吸收蛋白質,143,吃對食物健康100分
-270,木瓜;豬肉,papaya;pork,good,有助於吸收蛋白質,143,吃對食物健康100分
-271,木瓜;南瓜,papaya;pumpkin,bad,降低營養價值,143,吃對食物健康100分
-272,木瓜;牛肝,papaya;beef liver,bad,失去營養價值,143,吃對食物健康100分
-273,芭樂;食鹽,guava;salt,good,維持人體酸鹼平衡,145,吃對食物健康100分
-274,芭樂;瘦豬肉,guava;lean pork,good,促進人體吸收鐵質,145,吃對食物健康100分
-275,芭樂;枇杷,guava;loquat,good,增加食慾、幫助消化,145,吃對食物健康100分
-276,芭樂;龍眼乾,guava;dry longan||dried longan,bad,肌肉無力、心律不整,145,吃對食物健康100分
-277,芭樂;鮭魚鬆,guava;fried salmon floss||fried salmon fiber,bad,腹痛、腹脹、腹瀉,145,吃對食物健康100分
-278,葡萄;芝麻,grape;sesame seed,good,增強抗氧化力,146,吃對食物健康100分
-279,葡萄;糯米,grape;glutinous rice||sticky rice,good,預防貧血、消除疲勞,146,吃對食物健康100分
-280,葡萄;蘿蔔,grape;radish,bad,抑制人體對碘的吸收力,146,吃對食物健康100分
-281,葡萄;蝦,grape;shrimp,bad,引起胃部不適,146,吃對食物健康100分
-282,梨子;芝麻,pear;sesame seed,good,調節蛋白質代謝,147,吃對食物健康100分
-283,梨子;食鹽,pear;salt,good,維持酸鹼平衡,147,吃對食物健康100分
-284,梨子;地瓜,pear;sweet potato,bad,使腸胃不適,147,吃對食物健康100分
-285,柿子;葡萄,persimmon;grape,good,有助於攝取維生素C,148,吃對食物健康100分
-286,柿子;乳酪,persimmon;cheese,good,有助於鈣的吸收,148,吃對食物健康100分
-287,柿子;螃蟹,persimmon;crab,bad,凝固成不易消化的物質,148,吃對食物健康100分
-288,柿子;紫菜,persimmon;nori,bad,妨礙鐵質的吸收,148,吃對食物健康100分
-289,楊桃;食鹽,carambola;salt,good,平衡人體酸鹼值,149,吃對食物健康100分
-290,楊桃;菠菜,carambola;spinach,good,養顏美容、抗老,149,吃對食物健康100分
-291,楊桃;黃豆,carambola;soybean,bad,導致消化不良,149,吃對食物健康100分
-292,楊桃;牛奶,carambola;milk,bad,影響鈣質吸收,149,吃對食物健康100分
-293,蘋果;鮑魚,apple;abalone,good,預防貧血、養顏美容,151,吃對食物健康100分
-294,蘋果;豬肉,apple;pork,good,消除疲勞,151,吃對食物健康100分
-295,蘋果;胡蘿蔔,apple;carrot,good,保健肌膚、增加抵抗力,151,吃對食物健康100分
-296,蘋果;洋蔥,apple;onion,bad,誘發甲狀腺腫,151,吃對食物健康100分
-297,蘋果;蜂蜜,apple;honey,bad,可能引起腹瀉,151,吃對食物健康100分
-298,橘子;核桃,mandarin orange||tangerine;walnut,good,臉色紅潤好氣色、增強體力,152,吃對食物健康100分
-299,橘子;柳丁,mandarin orange||tangerine;orange,good,增強免疫力、預防感冒,152,吃對食物健康100分
-300,橘子;白蘿蔔,mandarin orange||tangerine;white radish,bad,抑制對碘的吸收力,152,吃對食物健康100分
-301,橘子;牛奶,mandarin orange||tangerine;milk,bad,降低營養價值,152,吃對食物健康100分
-302,柳丁;美乃滋,orange;mayonnaise,good,護膚、防癌、抗老,153,吃對食物健康100分
-303,柳丁;奶油,orange;butter,good,減少膽固醇吸收,153,吃對食物健康100分
-304,柳丁;蝦,orange;shrimp,bad,生成不易消化物質,153,吃對食物健康100分
-305,柳丁;豬肉,orange;pork,bad,生成不利消化物質,153,吃對食物健康100分
-306,草莓;食鹽,strawberry;salt,good,維持人體酸鹼平衡,155,吃對食物健康100分
-307,草莓;美乃滋,strawberry;mayonnaise,good,促進血液循環,155,吃對食物健康100分
-308,草莓;榛果,strawberry;hazelnut,good,預防貧血、增強體力,155,吃對食物健康100分
-309,草莓;燕麥,strawberry;oatmeal,bad,降低營養價值,155,吃對食物健康100分
-310,草莓;地瓜,strawberry;sweet potato,bad,腸胃不適,155,吃對食物健康100分
-311,蓮霧;芝麻,wax apple||java apple;sesame seed,good,恢復血氣、消除疲勞,156,吃對食物健康100分
-312,蓮霧;優酪乳,wax apple||java apple;yogurt,good,補充鈣質,156,吃對食物健康100分
-313,蓮霧;胡蘿蔔,wax apple||java apple;carrot,bad,破壞維生素C,156,吃對食物健康100分
-314,蓮霧;蘋果,wax apple||java apple;apple,bad,產生不易消化物質,156,吃對食物健康100分
-315,豬肉;大蒜,pork;garlic,good,消除疲勞、提高注意力,160,吃對食物健康100分
-316,豬肉;青椒,pork;green bell pepper,good,強健脊椎、消除疲勞疼痛,160,吃對食物健康100分
-317,豬肉;紅椒,pork;red bell pepper,good,強健脊椎、消除疲勞疼痛,160,吃對食物健康100分
-318,豬肉;白菜,pork;napa cabbage||chinese cabbage,good,補充營養、幫助消化,160,吃對食物健康100分
-319,豬肉;蘿蔔,pork;radish,good,增強體力、幫助排泄,160,吃對食物健康100分
-320,豬肉;茶,pork;tea,bad,使腸蠕動減慢、吸收有害物質、容易便秘,160,吃對食物健康100分
-321,豬肚;白胡椒,pork belly;white pepper,good,治療胃寒，因受寒而虛寒性的胃、十二指腸潰瘍等,161,吃對食物健康100分
-322,豬肚;啤酒,pork belly;beer,bad,容易造成痛風,161,吃對食物健康100分
-323,豬腸;啤酒,pork intestine;beer,bad,容易造成痛風,161,吃對食物健康100分
-324,牛肚;啤酒,beef belly;beer,bad,容易造成痛風,161,吃對食物健康100分
-325,豬肝;深色葉菜,pork liver;dark leafy vegetable,good,預防貧血、促進生長,163,吃對食物健康100分
-326,豬肝;番茄,pork liver;tomato,good,預防貧血、增強體力,163,吃對食物健康100分
-327,豬肝;花椰菜,pork liver;broccoli,bad,影響維生素C和礦物質銅、鐵的吸收,163,吃對食物健康100分
-328,豬心;蘋果,pork heart;apple,good,消除疲勞、美麗肌膚,164,吃對食物健康100分
-329,豬心;金針菇,pork heart;enoki mushroom||enokitake,good,安眠好入睡,164,吃對食物健康100分
-330,豬心;花生,pork heart;peanut,bad,妨礙鋅的吸收,164,吃對食物健康100分
-331,豬心;茶葉,pork heart;tea leaf,bad,便秘、影響鐵的吸收,164,吃對食物健康100分
-332,豬血;柳橙汁,pork blood||pig blood curd;orange juice,good,幫助鐵質吸收,165,吃對食物健康100分
-333,豬血;豆腐;深色葉菜,pork blood||pig blood curd;tofu;dark leafy vegetable,good,預防貧血,165,吃對食物健康100分
-334,豬血;牛奶,pork blood||pig blood curd;milk,bad,抑制鐵的吸收,165,吃對食物健康100分
-335,豬血;咖啡,pork blood||pig blood curd;coffee,bad,抑制鐵的吸收,165,吃對食物健康100分
-336,豬腳;花生,pork shank||pork knuckle||ham hock||pork hock||pork foot;peanut,good,健胸豐乳,166,吃對食物健康100分
-337,豬皮;豬腳筋;紅棗,pork crackling||pork rind;pork tendon||pork hamstring;jujube||red date||chinese date,good,養血安神,166,吃對食物健康100分
-338,豬腳;黃豆,pork shank||pork knuckle||ham hock||pork hock||pork foot;soybean,bad,降低蛋白質和鈣的吸收,166,吃對食物健康100分
-339,火腿;芥花油,ham;canola oil,good,消除疲勞,167,吃對食物健康100分
-340,火腿;優酪乳,ham;yogurt,bad,增加致癌的危險,167,吃對食物健康100分
-341,火腿;香蕉,ham;banana,bad,增加體內致癌物,167,吃對食物健康100分
-342,香腸;青蔥,sausage;scallion||green onion,good,可抑制亞硝胺產生,168,吃對食物健康100分
-343,香腸;綠茶,sausage;green tea,good,降低亞硝酸鹽含量,168,吃對食物健康100分
-344,香腸;秋刀魚,sausage;pacific saury||mackerel pike,bad,容易在體內產生亞硝胺,168,吃對食物健康100分
-345,田雞;大蒜,frog||field chicken;garlic,good,提高免疫力,169,吃對食物健康100分
-346,田雞;檸檬,frog||field chicken;lemon,bad,容易造成消化不良,169,吃對食物健康100分
-347,田雞;菠菜,frog||field chicken;spinach,bad,降低鈣的吸收率,169,吃對食物健康100分
-348,羊肉;豆腐,lamb||mutton;tofu,good,降低膽固醇、預防上火,171,吃對食物健康100分
-349,羊肉;醋,lamb||mutton;vinegar,bad,可能造成腹瀉,171,吃對食物健康100分
-350,羊肉;西瓜,lamb||mutton;watermelon,bad,易使脾胃功能失調,171,吃對食物健康100分
-351,羊肉;茶,lamb||mutton;tea,bad,容易造成便秘,171,吃對食物健康100分
-352,牛肉;洋蔥,beef;onion,good,美膚、消除疲勞、健體提神,174,吃對食物健康100分
-353,牛肉;青椒,beef;green bell pepper,good,防止動脈硬化、消除疲勞,174,吃對食物健康100分
-354,牛肉;芥蘭菜,beef;chinese broccoli||chinese kale,good,預防貧血與頭痛、促進生長發育,174,吃對食物健康100分
-355,牛肉;豬肉,beef;pork,bad,容易消化不良,174,吃對食物健康100分
-356,牛肉;栗子,beef;chestnut,bad,容易造成腸胃不適,174,吃對食物健康100分
-357,牛肉;白酒,beef;white wine,bad,容易形成脂肪肝、上火,174,吃對食物健康100分
-358,烏骨雞;竹笙,silkie fowl;bamboo fungus,good,降低膽固醇的吸收,175,吃對食物健康100分
-359,烏骨雞;蘋果,silkie fowl;apple,good,除疲勞、肌膚健康,175,吃對食物健康100分
-360,烏骨雞;莧菜,silkie fowl;amaranth,bad,影響維生素C吸收,175,吃對食物健康100分
-361,烏骨雞;大豆,silkie fowl;soybean,bad,降低食物營養價值,175,吃對食物健康100分
-362,老母鴨;薑,duck;ginger root,good,溫暖身體、促進血液循環,177,吃對食物健康100分
-363,鴨肉;山藥,duck;chinese yam||common yam,good,消除油膩、健脾止渴、固腎益精,177,吃對食物健康100分
-364,鴨肉;胡桃,duck;walnut,bad,營養相互抵銷,177,吃對食物健康100分
-365,鴨肉;鯊肉,duck;shark,bad,水腫腹瀉、消化不良,177,吃對食物健康100分
-366,鵝肉;花椰菜,goose;broccoli,good,減少飲食中膽固醇的吸收,179,吃對食物健康100分
-367,鵝肉;紅蘿蔔,goose;carrot,good,預防癌症、心臟病、維持眼睛與皮膚健康,179,吃對食物健康100分
-368,煙燻鵝肉;啤酒,smoked goose||smoke goose;beer,bad,加重肝臟負擔,179,吃對食物健康100分
-369,雞肉;青蔥,chicken;scallion||green onion,good,維持健康髮膚、提神醒腦,182,吃對食物健康100分
-370,雞肉;青椒,chicken;green bell pepper,good,防止動脈硬化、保持肌膚健康,182,吃對食物健康100分
-371,雞肉;高麗菜,chicken;cabbage,good,預防貧血、促進發育,182,吃對食物健康100分
-372,雞肉;香菇,chicken;mushroom,good,預防中風及大腸癌,182,吃對食物健康100分
-373,雞肉;大蒜,chicken;garlic,bad,滯氣、造成身體不適,182,吃對食物健康100分
-374,雞肉;芥末,chicken;mustard||wasabi||horseradish,bad,容易上火、傷元氣,182,吃對食物健康100分
-375,鮭魚;洋蔥,salmon;onion,good,消除疲勞、養顏美容,185,吃對食物健康100分
-376,鮭魚;豆腐,salmon;tofu,good,增強腦功能、強化骨骼,185,吃對食物健康100分
-377,鮭魚;菠菜,salmon;spinach,good,均衡營養、提高免疫力,185,吃對食物健康100分
-378,鮭魚;柿子,salmon;persimmon,bad,不利蛋白質吸收,185,吃對食物健康100分
-379,鮭魚;生小黃瓜,salmon;raw cucumber,bad,破壞蛋白質吸收,185,吃對食物健康100分
-380,鱸魚;南瓜,sea bass||seabass||perch||pike||walleye;pumpkin,good,可預防感冒,187,吃對食物健康100分
-381,鱸魚;紅辣椒,sea bass||seabass||perch||pike||walleye;red pepper,good,保護眼睛,187,吃對食物健康100分
-382,鱸魚;海帶,sea bass||seabass||perch||pike||walleye;kelp,good,強化骨骼及牙齒,187,吃對食物健康100分
-383,鱸魚;蛤蜊,sea bass||seabass||perch||pike||walleye;clam,bad,破壞銅元素的吸收,187,吃對食物健康100分
-384,鱸魚;乳酪,sea bass||seabass||perch||pike||walleye;cheese,bad,腹瀉,187,吃對食物健康100分
-385,鱈魚;牛奶,cod;milk,good,補充鈣質的不足,188,吃對食物健康100分
-386,鱈魚;南瓜,cod;pumpkin,good,預防感冒、肌膚乾裂,188,吃對食物健康100分
-387,鱈魚;烤香腸,cod;grilled sausage,bad,造成致癌的可能,188,吃對食物健康100分
-388,鱈魚;高鹽食物,cod;salty food,bad,降低鉀的功效,188,吃對食物健康100分
-389,鯧魚;牛奶,pomfret;milk,good,促進兒童成長發育,189,吃對食物健康100分
-390,鯧魚;南瓜,pomfret;pumpkin,good,補充不足營養素,189,吃對食物健康100分
-391,鯧魚;牛油,pomfret;beef tallow||beef lard,bad,增加膽固醇含量,189,吃對食物健康100分
-392,鯧魚;溫水,pomfret;warm water,bad,使鮮味消失,189,吃對食物健康100分
-393,鮪魚;山藥,tuna;chinese yam||common yam,good,預防動脈硬化,191,吃對食物健康100分
-394,鮪魚;花椰菜,tuna;broccoli,good,有益兒童的成長發育,191,吃對食物健康100分
-395,鮪魚;蘆筍,tuna;asparagus,good,達到美膚效果,191,吃對食物健康100分
-396,鮪魚;生小黃瓜,tuna;raw cucumber,bad,破壞蛋白質吸收,191,吃對食物健康100分
-397,鮪魚;葡萄,tuna;grape,bad,影響蛋白質吸收,191,吃對食物健康100分
-398,白帶魚;胡蘿蔔,largehead hairtail;carrot,good,提昇記憶力、注意力,192,吃對食物健康100分
-399,白帶魚;芝麻,largehead hairtail;sesame seed,good,強化骨骼,192,吃對食物健康100分
-400,白帶魚;牛油,largehead hairtail;beef tallow||beef lard,bad,膽固醇增高,192,吃對食物健康100分
-401,白帶魚;羊油,largehead hairtail;mutton fat||mutton oil||lamb fat||lamb oil,bad,膽固醇增高,192,吃對食物健康100分
-402,白帶魚;牛奶,largehead hairtail;milk,bad,破壞鎂的吸收,192,吃對食物健康100分
-403,鰻魚;枸杞,eel;goji berry||wolfberry,good,預防心血管疾病,193,吃對食物健康100分
-404,鰻魚;生蔬菜,eel;raw vegetable,good,補充維生素C,193,吃對食物健康100分
-405,鰻魚;橘子,eel;mandarin orange||tangerine,bad,影響蛋白質吸收,193,吃對食物健康100分
-406,鰻魚;牛肝,eel;beef liver,bad,引發心血管疾病,193,吃對食物健康100分
-407,吳郭魚;蔥,tilapia;scallion||green onion,good,滋養強身、穩定精神,195,吃對食物健康100分
-408,吳郭魚;豆腐,tilapia;tofu,good,減緩更年期不適,195,吃對食物健康100分
-409,吳郭魚;番茄,tilapia;tomato,good,促進生長、增強記憶,195,吃對食物健康100分
-410,吳郭魚;菠菜,tilapia;spinach,bad,破壞鈣質的吸收,195,吃對食物健康100分
-411,吳郭魚;葡萄,tilapia;grape,bad,降低蛋白質吸收,195,吃對食物健康100分
-412,石斑;花椰菜,grouper;broccoli,good,減緩更年期不適,196,吃對食物健康100分
-413,石斑;牛奶,grouper;milk,good,強化骨骼、有助發育,196,吃對食物健康100分
-414,石斑;木瓜,grouper;papaya,good,幫助蛋白質吸收,196,吃對食物健康100分
-415,石斑;柿子,grouper;persimmon,bad,降低蛋白質吸收,196,吃對食物健康100分
-416,鱔魚;蓮藕,asian swamp eel;lotus root,good,達到酸鹼平衡,197,吃對食物健康100分
-417,鱔魚;豆腐,asian swamp eel;tofu,good,鈣質吸收加倍,197,吃對食物健康100分
-418,鱔魚;狗肉,asian swamp eel;dog,bad,引發熱性疾病,197,吃對食物健康100分
-419,鱔魚;菠菜,asian swamp eel;spinach,bad,易導致腹瀉,197,吃對食物健康100分
-420,螃蟹;蘆筍,crab;asparagus,good,強化骨骼及牙齒,199,吃對食物健康100分
-421,螃蟹;豆腐,crab;tofu,good,恢復體力、防止老化,199,吃對食物健康100分
-422,螃蟹;青椒,crab;green bell pepper,good,營養均衡、幫助消化,199,吃對食物健康100分
-423,螃蟹;茶葉,crab;tea leaf,bad,腸蠕動變慢、便秘,199,吃對食物健康100分
-424,螃蟹;牡蠣,crab;oyster,bad,造成血膽固醇升高,199,吃對食物健康100分
-425,蝦;南瓜,shrimp;pumpkin,good,預防黑斑及皺紋,202,吃對食物健康100分
-426,蝦;麵粉料理,shrimp;flour dish,good,消除疲勞、增強體力,202,吃對食物健康100分
-427,蝦;酪梨,shrimp;avocado,good,預防心血管疾病,202,吃對食物健康100分
-428,蝦;番茄,shrimp;tomato,good,提昇心臟、肝臟功能,202,吃對食物健康100分
-429,蝦;木瓜,shrimp;papaya,good,幫助蛋白質吸收,202,吃對食物健康100分
-430,蝦;柿子,shrimp;persimmon,bad,降低蛋白質吸收、刺激腸胃,202,吃對食物健康100分
-431,蝦;果汁,shrimp;juice,bad,造成腹漲和腹痛,202,吃對食物健康100分
-432,牡蠣;菠菜,oyster;spinach,good,減緩更年期不適,203,吃對食物健康100分
-433,牡蠣;牛奶,oyster;milk,good,強化骨骼、助發育,203,吃對食物健康100分
-434,牡蠣;蠶豆,oyster;broad bean,bad,降低鋅的吸收,203,吃對食物健康100分
-435,牡蠣;鹽,oyster;salt,bad,易攝取過量鈉,203,吃對食物健康100分
-436,蛤蜊;薑,clam;ginger root,good,退火解熱、殺菌,205,吃對食物健康100分
-437,蛤蜊;菠菜,clam;spinach,good,改善貧血、促進發育,205,吃對食物健康100分
-438,蛤蜊;胡蘿蔔,clam;carrot,good,保護眼睛、增進視力,205,吃對食物健康100分
-439,蛤蜊;牡蠣,clam;oyster,bad,破壞鐵的吸收,205,吃對食物健康100分
-440,魷魚;辣椒,squid;chili pepper,good,均衡營養、幫助消化,206,吃對食物健康100分
-441,魷魚;玉米,squid;corn,good,提昇維生素B6功效,206,吃對食物健康100分
-442,魷魚;茶,squid;tea,bad,降低蛋白質吸收,206,吃對食物健康100分
-443,魷魚;番茄醬,squid;ketchup,bad,加重腎臟負擔,206,吃對食物健康100分
-444,透柚;南瓜,pomelo;pumpkin,good,護眼、增進視力,207,吃對食物健康100分
-445,透柚;花椰菜,pomelo;broccoli,good,預防感冒、助消化,207,吃對食物健康100分
-446,透柚;酸性果汁,pomelo;acidic juice||sour juice,bad,破壞蛋白質吸收,207,吃對食物健康100分
-447,螺;胡蘿蔔,winkle fish;carrot,good,保護眼睛、增進視力,208,吃對食物健康100分
-448,螺;奶油,winkle fish;butter,good,促進鈣質吸收,208,吃對食物健康100分
-449,螺;橘子,winkle fish;mandarin orange||tangerine,bad,影響胃腸消化,208,吃對食物健康100分
-450,螺;蛤蜊,winkle fish;clam,bad,刺激腸胃、腹瀉,208,吃對食物健康100分
-451,九孔;花椰菜,variously coloured abalone;broccoli,good,美化皮膚,209,吃對食物健康100分
-452,九孔;牛奶,variously coloured abalone;milk,good,促進發育、減緩更年期不適,209,吃對食物健康100分
-453,九孔;橘子,variously coloured abalone;mandarin orange||tangerine,bad,易形成結石,209,吃對食物健康100分
-454,九孔;牡蠣,variously coloured abalone;oyster,bad,影響鐵質的吸收,209,吃對食物健康100分
-455,海參;羊肉,sea cucumber;lamb||mutton,good,強身健體、補充體力,210,吃對食物健康100分
-456,海參;木耳,sea cucumber;black fungus (wood ear),good,有益筋骨、排便,210,吃對食物健康100分
-457,海參;柿子,sea cucumber;persimmon,bad,腹痛、噁心、嘔吐,210,吃對食物健康100分
-458,海帶;鯛魚,kelp;snapper||sea bream,good,預防慢性病,211,吃對食物健康100分
-459,海帶;毛豆,kelp;edamame,good,改善便秘、降血壓,211,吃對食物健康100分
-460,海帶;茶,kelp;tea,bad,影響鐵、鈣的吸收,211,吃對食物健康100分
-461,海帶;菠菜,kelp;spinach,bad,易在體內形成結石,211,吃對食物健康100分
-462,紫菜;蜂蜜,nori;honey,good,有益呼吸道,212,吃對食物健康100分
-463,紫菜;烏賊,nori;cuttlefish||squid,good,美容、強化體質,212,吃對食物健康100分
-464,紫菜;柿子,nori;persimmon,bad,影響鈣質吸收,212,吃對食物健康100分
-465,紫菜;深色葉菜,nori;dark leafy vegetable,bad,易形成結石,212,吃對食物健康100分
-466,雞蛋;番茄,egg;tomato,good,健美抗癌老,216,吃對食物健康100分
-467,雞蛋;蔬菜,egg;vegetable,good,促進營養均衡,216,吃對食物健康100分
-468,雞蛋;絲瓜,egg;sponge gourd||loofah,good,解熱消毒、補血通乳,216,吃對食物健康100分
-469,雞蛋;大豆,egg;soybean,good,蛋白營養加倍,216,吃對食物健康100分
-470,雞蛋;橘子,egg;mandarin orange||tangerine,bad,消化不良,216,吃對食物健康100分
-471,雞蛋;茶葉,egg;tea leaf,bad,影響營養素的吸收,216,吃對食物健康100分
-472,雞蛋;味精,egg;MSG,bad,影響雞蛋的原味,216,吃對食物健康100分
-473,鹹蛋;苦瓜,salted egg;bitter melon||bitter gourd,good,提昇鈣質吸收,217,吃對食物健康100分
-474,鹹蛋;節瓜,salted egg;jointed wax gourd||zucchini,good,消暑、鈣質加倍,217,吃對食物健康100分
-475,鹹蛋;蔥,salted egg;scallion||green onion,bad,易造成草酸鈣結石,217,吃對食物健康100分
-476,鹹蛋;碳酸飲料,salted egg;carbonated drink||carbonate drink,bad,影響鈣質吸收,217,吃對食物健康100分
-477,皮蛋;番茄,century egg||preserved egg||preserve egg;tomato,good,消暑止渴、改善小便黃,218,吃對食物健康100分
-478,皮蛋;青椒,century egg||preserved egg||preserve egg;green bell pepper,good,促進消化、養顏美容,218,吃對食物健康100分
-479,皮蛋;紅茶,century egg||preserved egg||preserve egg;black tea,bad,影響鐵質的吸收,218,吃對食物健康100分
-480,皮蛋;貝類,century egg||preserved egg||preserve egg;shellfish,bad,影響鐵質的吸收,218,吃對食物健康100分
-481,冰牛奶;蜂蜜,cold milk;honey,good,增強免疫力,219,吃對食物健康100分
-482,牛奶;木瓜,milk;papaya,good,美容護膚,219,吃對食物健康100分
-483,牛奶;韭菜,milk;garlic chive||chinese leek||chinese chive,bad,降低鈣質吸收,219,吃對食物健康100分
-484,牛奶;酸性果汁,milk;acidic juice||sour juice,bad,降低營養價值,219,吃對食物健康100分
-485,乳酪;柑橘類,cheese;citrus,good,有益鈣質吸收,220,吃對食物健康100分
-486,乳酪;鮭魚,cheese;salmon,good,強化骨骼及牙齒,220,吃對食物健康100分
-487,乳酪;深色葉菜,cheese;dark leafy vegetable,bad,易形成草酸性結石,220,吃對食物健康100分
-488,乳酪;羊肉,cheese;lamb||mutton,bad,口味功效皆不合,220,吃對食物健康100分
-489,優酪乳;綠茶粉,yogurt;green tea powder,good,保健效果加倍,221,吃對食物健康100分
-490,優酪乳;草莓,yogurt;strawberry,good,美化膚質、瘦身,221,吃對食物健康100分
-491,優酪乳;香腸,yogurt;sausage,bad,易產生致癌物質,221,吃對食物健康100分
-492,優酪乳;火腿,yogurt;ham,bad,易產生致癌物質,221,吃對食物健康100分
-493,優酪乳;深色葉菜,yogurt;dark leafy vegetable,bad,易形成結石,221,吃對食物健康100分
-494,豆腐;魚,tofu;fish,good,提高20倍鈣的吸收量,223,吃對食物健康100分
-495,豆腐;雞蛋,tofu;egg,good,增進蛋白質的吸收,223,吃對食物健康100分
-496,豆腐;海帶,tofu;kelp,good,維持甲狀腺功能,223,吃對食物健康100分
-497,豆腐;菠菜,tofu;spinach,bad,易形成草酸性結石,223,吃對食物健康100分
-498,豆腐;碳酸飲料,tofu;carbonated drink||carbonate drink,bad,降低鈣的吸收,223,吃對食物健康100分
-499,黃豆;糙米,soybean;brown rice,good,營養均衡、功效加倍,224,吃對食物健康100分
-500,黃豆;雞蛋,soybean;egg,good,蛋白質營養加倍,224,吃對食物健康100分
-501,黃豆;優酪乳,soybean;yogurt,bad,影響鈣質吸收,224,吃對食物健康100分
-502,黃豆;豬肉,soybean;pork,bad,降低營養素價值,224,吃對食物健康100分
-503,豆漿;酪梨,soy milk||soymilk;avocado,good,維生素B群加倍,225,吃對食物健康100分
-504,豆漿;白米,soy milk||soymilk;white rice,good,優質蛋白質加倍,225,吃對食物健康100分
-505,豆漿;生雞蛋,soy milk||soymilk;raw egg,bad,容易引發腸胃炎,225,吃對食物健康100分
-506,豆漿;紅糖,soy milk||soymilk;brown sugar,bad,降低營養價值,225,吃對食物健康100分
-507,紅豆;百合,azuki bean||adzuki bean;lily bulb||lily bud,good,補充氣血、健康加分,226,吃對食物健康100分
-508,紅豆;紫米,azuki bean||adzuki bean;black rice,good,婦女補血聖品,226,吃對食物健康100分
-509,紅豆;茶,azuki bean||adzuki bean;tea,bad,降低鐵質的吸收,226,吃對食物健康100分
-510,紅豆;羊肉,azuki bean||adzuki bean;lamb||mutton,bad,降低溫補功效,226,吃對食物健康100分
-511,綠豆;薏仁,mung bean||green gram;job's tear||pearl barley,good,維生素B1倍增,227,吃對食物健康100分
-512,綠豆;南瓜,mung bean||green gram;pumpkin,good,保健功效加分,227,吃對食物健康100分
-513,綠豆;魚,mung bean||green gram;fish,bad,破壞維生素B1吸收,227,吃對食物健康100分
-514,綠豆;羊肉,mung bean||green gram;lamb||mutton,bad,降低溫補功效,227,吃對食物健康100分
-515,花豆;地瓜,runner bean||kidney bean||pinto bean;sweet potato,good,維生素充足豐富,228,吃對食物健康100分
-516,花豆;紅豆,runner bean||kidney bean||pinto bean;azuki bean||adzuki bean,good,促進生長發育,228,吃對食物健康100分
-517,花豆;咖啡,runner bean||kidney bean||pinto bean;coffee,bad,破壞維生素B1的營養,228,吃對食物健康100分
-518,花豆;乳酪,runner bean||kidney bean||pinto bean;cheese,bad,造成鉀元素的流失,228,吃對食物健康100分
-519,蔥;豬肉,scallion||green onion;pork,good,增強體力、預防老年癡呆,231,吃對食物健康100分
-520,蔥;紅棗,scallion||green onion;jujube||red date||chinese date,good,維生素C的營養加倍,231,吃對食物健康100分
-521,蔥;毛豆,scallion||green onion;edamame,good,安定神經、改善失眠,231,吃對食物健康100分
-522,蔥;豆腐,scallion||green onion;tofu,bad,易形成草酸性結石,231,吃對食物健康100分
-523,蔥;蜂蜜,scallion||green onion;honey,bad,易造成腹瀉,231,吃對食物健康100分
-524,薑;醋,ginger root;vinegar,good,減緩噁心、嘔吐症狀,233,吃對食物健康100分
-525,薑;皮蛋,ginger root;century egg||preserved egg||preserve egg,good,延緩老化、保持青春,233,吃對食物健康100分
-526,薑;蟹,ginger root;crab,good,袪寒、殺菌、解毒,233,吃對食物健康100分
-527,薑;酒,ginger root;wine||liqueur,bad,容易造成火氣大,233,吃對食物健康100分
-528,薑;兔肉,ginger root;rabbit,bad,易導致腹瀉,233,吃對食物健康100分
-529,大蒜;花椰菜,garlic;broccoli,good,防癌效果加倍,235,吃對食物健康100分
-530,大蒜;豬肉,garlic;pork,good,增強體力、幫助腦部發育,235,吃對食物健康100分
-531,大蒜;小黃瓜,garlic;cucumber,good,瘦身養顏抗老化,235,吃對食物健康100分
-532,大蒜;芒果,garlic;mango,bad,對胃腸不適,235,吃對食物健康100分
-533,大蒜;羊肉,garlic;lamb||mutton,bad,易造成體內燥熱,235,吃對食物健康100分
-534,辣椒;烏賊,chili pepper;cuttlefish||squid,good,降低血壓及膽固醇,236,吃對食物健康100分
-535,辣椒;綠葉蔬菜,chili pepper;green leafy vegetable,good,預防癌症及動脈硬化,236,吃對食物健康100分
-536,辣椒;生胡蘿蔔,chili pepper;raw carrot,bad,破壞維生素C的營養,236,吃對食物健康100分
-537,辣椒;豬肝,chili pepper;pork liver,bad,破壞維生素C的功效,236,吃對食物健康100分
-538,芥末油;西芹,mustard oil;celery,good,養顏美容、增加免疫系統,237,吃對食物健康100分
-539,芥末油;菠菜,mustard oil;spinach,good,促進食慾、改善貧血,237,吃對食物健康100分
-540,芥末;雞肉,mustard||wasabi||horseradish;chicken,bad,火氣大,237,吃對食物健康100分
-541,香菜;豆腐,parsley||coriander||cilantro;tofu,good,預防更年期障礙,238,吃對食物健康100分
-542,香菜;豬瘦肉,parsley||coriander||cilantro;lean pork,good,預防貧血、補充鐵質,238,吃對食物健康100分
-543,香菜;生黃瓜,parsley||coriander||cilantro;raw cucumber,bad,破壞維生素C的營養,238,吃對食物健康100分
-544,香菜;生胡蘿蔔,parsley||coriander||cilantro;raw carrot,bad,營養價值降低,238,吃對食物健康100分
-545,九層塔;蛋,basil;egg,good,改善經期不順,239,吃對食物健康100分
-546,九層塔;茄子,basil;eggplant,good,抗老化,239,吃對食物健康100分
-547,九層塔;香菜,basil;parsley||coriander||cilantro,bad,易造成黑色素沉,239,吃對食物健康100分
-548,九層塔;咖哩,basil;curry,bad,易造成早產,239,吃對食物健康100分
-549,咖哩;馬鈴薯,curry;potato,good,營養素均衡,241,吃對食物健康100分
-550,咖哩;洋蔥,curry;onion,good,調節血壓、祛寒,241,吃對食物健康100分
-551,咖哩;胡蘿蔔,curry;carrot,good,維生素A營養加倍,241,吃對食物健康100分
-552,咖哩;羊肉,curry;lamb||mutton,bad,容易火氣大、造成便秘,241,吃對食物健康100分
-553,黑胡椒;牛肉,black pepper;beef,good,增進食慾、祛寒補血,242,吃對食物健康100分
-554,胡椒;豬肝,pepper;pork liver,good,增強造血機能,242,吃對食物健康100分
-555,胡椒;酒,pepper;wine||liqueur,bad,引發腸胃道疾病,242,吃對食物健康100分
-556,胡椒;芥末,pepper;mustard||wasabi||horseradish,bad,刺激眼睛和消化道,242,吃對食物健康100分
-557,花椒;豆腐,bunge prickly ash||bunge pricklyash;tofu,good,解毒健胃、補充鈣質,243,吃對食物健康100分
-558,花椒;豬瘦肉,bunge prickly ash||bunge pricklyash;lean pork,good,去腥開胃、補充鐵質,243,吃對食物健康100分
-559,花椒;羊肉,bunge prickly ash||bunge pricklyash;lamb||mutton,bad,火氣大、便秘,243,吃對食物健康100分
-560,醋;骨頭湯,vinegar;bone broth,good,增加鈣質吸收,245,吃對食物健康100分
-561,醋;芝麻,vinegar;sesame seed,good,幫助鐵質鈣質吸收,245,吃對食物健康100分
-562,醋;酒,vinegar;wine||liqueur,bad,造成胃發炎,245,吃對食物健康100分
-563,醋;胡蘿蔔,vinegar;carrot,bad,破壞類胡蘿蔔素,245,吃對食物健康100分
-564,醋;綠色青菜,vinegar;green vegetable,bad,破壞青菜的營養價值,245,吃對食物健康100分
-565,黑糖;紅豆,brown sugar;azuki bean||adzuki bean,good,補充鐵質、預防貧血,246,吃對食物健康100分
-566,黑糖;龍眼乾,brown sugar;dry longan||dried longan,good,減緩月經不適,246,吃對食物健康100分
-567,黑糖;生蚵,brown sugar;raw clam,bad,影響維生素B1的吸收,246,吃對食物健康100分
-568,黑糖;咖啡,brown sugar;coffee,bad,破壞維生素B1的營養,246,吃對食物健康100分
-569,咖啡;巧克力,coffee;chocolate,good,心情愉快、撫慰憂慮,249,吃對食物健康100分
-570,咖啡;酒,coffee;wine||liqueur,bad,增加腦部傷害與心血管的負擔,249,吃對食物健康100分
-571,咖啡;菠菜,coffee;spinach,bad,使鐵質的吸收降低,249,吃對食物健康100分
-572,茶;芭樂,tea;guava,good,清除自由基,251,吃對食物健康100分
-573,茶;雞排,tea;chicken cutlet||chicken steak,bad,影響鐵質吸收,251,吃對食物健康100分
-574,茶;酒,tea;wine||liqueur,bad,快速酒醉、影響腎功能,251,吃對食物健康100分
-575,紅酒;牛排,red wine;steak,good,減少動脈硬化、去油膩,253,吃對食物健康100分
-576,紅酒;南瓜,red wine;pumpkin,good,抗氧化,253,吃對食物健康100分
-577,紅酒;花椰菜,red wine;broccoli,good,保護肝臟,253,吃對食物健康100分
-578,紅酒;純巧克力,red wine;raw chocolate,good,促進新陳代謝,253,吃對食物健康100分
-579,紅酒;芥末醬,red wine;mustard,bad,紅酒變無味,253,吃對食物健康100分
-580,啤酒;牛奶,beer;milk,good,緩和酒精的吸收,254,吃對食物健康100分
-581,啤酒;煙燻臘肉,beer;smoked bacon,bad,加重肝臟負擔,254,吃對食物健康100分
-582,啤酒;螃蟹,beer;crab,bad,容易引起腹瀉,254,吃對食物健康100分
-583,可樂;檸檬;薑,cola;lemon;ginger root,good,暖胃、驅風寒,255,吃對食物健康100分
-584,可樂;鹽;水,cola;salt;water,good,補充電解質,255,吃對食物健康100分
-585,可樂;烤肉,cola;barbeque (BBQ),bad,提高致癌風險,255,吃對食物健康100分
+entry_num,item_zh,item_en,compatibility,reason,pg_num,source,comments
+1,麵包;核桃,bread;walnut,good,預防心臟病,57,吃對食物健康100分,N/A
+2,麵包;萵苣,bread;lettuce,good,促進吸收鐵質,57,吃對食物健康100分,N/A
+3,麵包;奶酥,bread;butter biscuit||soufflé,bad,熱量過高易發胖,57,吃對食物健康100分,N/A
+4,麵包;巧克力,bread;chocolate,bad,糖分含量過高,57,吃對食物健康100分,N/A
+5,麵條;牡蠣,noodle;oyster,good,預防感冒、促進發育,59,吃對食物健康100分,N/A
+6,麵條;芝麻,noodle;sesame seed,good,調節蛋白質代謝,59,吃對食物健康100分,N/A
+7,麵條;番茄,noodle;tomato,good,消除疲勞、提高免疫力,59,吃對食物健康100分,N/A
+8,麵條;鮮蛤蜊,noodle;fresh clam,bad,破壞維生素B1,59,吃對食物健康100分,N/A
+9,麵條;蘋果,noodle;apple,bad,噁心、腹痛,59,吃對食物健康100分,N/A
+10,腰果;大蒜,cashew;garlic,good,護膚、集中注意力,60,吃對食物健康100分,N/A
+11,腰果;蝦仁,cashew;shrimp,good,豐潤毛髮、減輕關節炎疼痛,60,吃對食物健康100分,N/A
+12,腰果;鮮蛤蜊,cashew;fresh clam,bad,破壞維生素B1,60,吃對食物健康100分,N/A
+13,腰果;酒,cashew;wine||liqueur,bad,容易形成脂肪肝,60,吃對食物健康100分,N/A
+14,杏仁;枇杷,almond;loquat,good,防癌、抗老,61,吃對食物健康100分,N/A
+15,杏仁;牛奶,almond;milk,good,提高免疫力,61,吃對食物健康100分,N/A
+16,杏仁;麥片,almond;oatmeal,bad,干擾鈣質吸收,61,吃對食物健康100分,N/A
+17,杏仁;醋,almond;vinegar,bad,營養價值流失,61,吃對食物健康100分,N/A
+18,薏仁;龍眼,job's tear||pearl barley;longan,good,改善皮膚乾燥與粗燥,62,吃對食物健康100分,N/A
+19,薏仁;紅豆,job's tear||pearl barley;azuki bean||adzuki bean,good,預防貧血、刺激食慾,62,吃對食物健康100分,N/A
+20,薏仁;海帶,job's tear||pearl barley;kelp,bad,靜脈曲張、瘀血,62,吃對食物健康100分,N/A
+21,燕麥;黃豆,oatmeal;soybean||soy bean,good,幫助成長發育,63,吃對食物健康100分,N/A
+22,燕麥;香菇,oatmeal;mushroom,good,防癌、抗老,63,吃對食物健康100分,N/A
+23,燕麥;菠菜,oatmeal;spinach,bad,阻礙鈣質的攝取,63,吃對食物健康100分,N/A
+24,芝麻;蔥,sesame seed;scallion||green onion,good,護膚、集中注意力,64,吃對食物健康100分,N/A
+25,芝麻;檸檬,sesame seed;lemon,good,紅潤臉色、預防貧血,64,吃對食物健康100分,N/A
+26,芝麻;巧克力,sesame seed;chocolate,bad,影響吸收、消化,64,吃對食物健康100分,N/A
+27,芝麻;豬肉,sesame seed;pork,bad,影響蛋白質的消化,64,吃對食物健康100分,N/A
+28,蓮子;花生,lotus seed;peanut,good,幫助骨骼成長,65,吃對食物健康100分,N/A
+29,蓮子;白木耳,lotus seed;white fungus||white wood ear,good,強健骨骼、牙齒,65,吃對食物健康100分,N/A
+30,蓮子;麥片,lotus seed;oatmeal,bad,影響鈣質吸收,65,吃對食物健康100分,N/A
+31,蓮子;黃豆,lotus seed;soybean||soy bean,bad,腹瀉、腹脹,65,吃對食物健康100分,N/A
+32,糙米;芝麻,brown rice;sesame seed,good,維持皮膚健康、預防動脈硬化,66,吃對食物健康100分,N/A
+33,糙米;南瓜,brown rice;pumpkin,good,預防貧血、疲勞,66,吃對食物健康100分,N/A
+34,糙米;羊肉,brown rice;lamb||mutton,bad,使蛋白質的消化困難,66,吃對食物健康100分,N/A
+35,糙米;牛肝,brown rice;beef liver,bad,阻礙對礦物質的攝取,66,吃對食物健康100分,N/A
+36,小米;黃豆,millet;soybean||soy bean,good,保健眼睛與皮膚,67,吃對食物健康100分,N/A
+37,小米;胡蘿蔔,millet;carrot,good,延遲老化,67,吃對食物健康100分,N/A
+38,小米;醋,millet;vinegar,bad,營養價值流失,67,吃對食物健康100分,N/A
+39,小米;蛋,millet;egg,bad,引起腸胃病,67,吃對食物健康100分,N/A
+40,粳米;山藥,japonica rice;chinese yam||common yam,good,預防貧血、消除疲勞,69,吃對食物健康100分,N/A
+41,粳米;香菇,japonica rice;mushroom,good,對骨骼與牙齒有益,69,吃對食物健康100分,N/A
+42,粳米;青菜,japonica rice;vegetable,good,促進成長發育,69,吃對食物健康100分,N/A
+43,粳米;牛肉,japonica rice;beef,bad,不利消化,69,吃對食物健康100分,N/A
+44,粳米;豬肝,japonica rice;pork liver,bad,阻礙人體吸收鐵質,69,吃對食物健康100分,N/A
+45,糯米;蓮子,glutinous rice||sticky rice;lotus seed,good,幫助骨骼發育,71,吃對食物健康100分,N/A
+46,糯米;百合,glutinous rice||sticky rice;lily bulb||lily bud,good,改善氣色、消除疲勞,71,吃對食物健康100分,N/A
+47,黑糯米;葵瓜子,black glutinous rice||black sticky rice;sunflower seed,good,刺激食慾、幫助成長,71,吃對食物健康100分,N/A
+48,糯米;蘋果,glutinous rice||sticky rice;apple,bad,產生不易消化的物質,71,吃對食物健康100分,N/A
+49,糯米;生蛋白,glutinous rice||sticky rice;raw egg white,bad,降低營養價值,71,吃對食物健康100分,N/A
+50,花生;蝦仁,peanut;shrimp,good,強健骨骼、牙齒,73,吃對食物健康100分,N/A
+51,花生;魩仔魚,peanut;whitebait,good,強化對鈣質的吸收,73,吃對食物健康100分,N/A
+52,花生;瘦豬肉,peanut;lean pork,good,使皮膚恢復血色,73,吃對食物健康100分,N/A
+53,花生;粳米,peanut;japonica rice,bad,誘發腸胃疾病,73,吃對食物健康100分,N/A
+54,花生;牛油,peanut;beef tallow||beef lard,bad,容易消化不良,73,吃對食物健康100分,N/A
+55,栗子;柚子,chestnut;pomelo||grapefruit,good,預防感冒、幫助傷口癒合,74,吃對食物健康100分,N/A
+56,栗子;玉米,chestnut;corn,good,促進腸胃蠕動,74,吃對食物健康100分,N/A
+57,栗子;牛肉,chestnut;beef,bad,使維生素C氧化、失去營養價值,74,吃對食物健康100分,N/A
+58,栗子;黃豆,chestnut;soybean||soy bean,bad,腹瀉、腹脹,74,吃對食物健康100分,N/A
+59,松子;牛肉,pine nut;beef,good,防止動脈硬化,75,吃對食物健康100分,N/A
+60,松子;芒果,pine nut;mango,good,防老、抗癌,75,吃對食物健康100分,N/A
+61,松子;黃豆,pine nut;soybean||soy bean,bad,阻礙蛋白質吸收,75,吃對食物健康100分,N/A
+62,松子;酒,pine nut;wine||liqueur,bad,形成脂肪肝,75,吃對食物健康100分,N/A
+63,蕎麥;蛋,buckwheat||soba;egg,good,維持皮膚、神經系統健康,76,吃對食物健康100分,N/A
+64,蕎麥;蟹,buckwheat||soba;crab,good,維持骨骼、牙齒的健康,76,吃對食物健康100分,N/A
+65,蕎麥;海帶,buckwheat||soba;kelp,bad,易靜脈曲張、瘀血,76,吃對食物健康100分,N/A
+66,蕎麥;鮮蛤蜊,buckwheat||soba;fresh clam,bad,失去營養價值,76,吃對食物健康100分,N/A
+67,高麗菜;豬肉,cabbage;pork,good,恢復肌膚彈性、預防斑點,79,吃對食物健康100分,N/A
+68,高麗菜;竹筍,cabbage;bamboo shoot,good,促進血液循環,79,吃對食物健康100分,N/A
+69,高麗菜;美乃滋,cabbage;mayonnaise,good,護膚、防老、抗癌,79,吃對食物健康100分,N/A
+70,高麗菜;小黃瓜,cabbage;cucumber,bad,破壞維生素C,79,吃對食物健康100分,N/A
+71,高麗菜;蜂蜜,cabbage;honey,bad,營養價值降低,79,吃對食物健康100分,N/A
+72,大白菜;番茄,napa cabbage||chinese cabbage;tomato,good,預防感冒、舒緩情緒,82,吃對食物健康100分,N/A
+73,大白菜;乳酪,napa cabbage||chinese cabbage;cheese,good,預防骨骼疏鬆,82,吃對食物健康100分,N/A
+74,大白菜;美乃滋,napa cabbage||chinese cabbage;mayonnaise,good,護膚美顏、防癌抗老,82,吃對食物健康100分,N/A
+75,大白菜;瘦肉,napa cabbage||chinese cabbage;lean meat,good,美白肌膚、消除疲勞,82,吃對食物健康100分,N/A
+76,大白菜;蛋,napa cabbage||chinese cabbage;egg,bad,加速維生素C氧化,82,吃對食物健康100分,N/A
+77,大白菜;小黃瓜,napa cabbage||chinese cabbage;cucumber,bad,營養價值降低,82,吃對食物健康100分,N/A
+78,大白菜;豬肝,napa cabbage||chinese cabbage;pork liver,bad,維生素C被氧化,82,吃對食物健康100分,N/A
+79,青江菜;芥花油,bok choy;canola oil,good,護膚、抗癌、降膽固醇,83,吃對食物健康100分,N/A
+80,青江菜;芝麻油,bok choy;sesame seed oil,good,保護眼睛、防癌,83,吃對食物健康100分,N/A
+81,青江菜;竹筍,bok choy;bamboo shoot,bad,破壞維生素C,83,吃對食物健康100分,N/A
+82,青江菜;豆腐,bok choy;tofu,bad,影響人體吸收鈣質,83,吃對食物健康100分,N/A
+83,空心菜;蛋,water spinach;egg,good,護眼、防癌、抗老,85,吃對食物健康100分,N/A
+84,空心菜;橄欖油,water spinach;olive oil,good,防止老化,85,吃對食物健康100分,N/A
+85,空心菜;雞肉,water spinach;chicken,good,降低對膽固醇的吸收,85,吃對食物健康100分,N/A
+86,空心菜;乳酪,water spinach;cheese,bad,阻礙鈣質吸收,85,吃對食物健康100分,N/A
+87,空心菜;枸杞,water spinach;goji berry||wolfberry,bad,鉀含量過高,85,吃對食物健康100分,N/A
+88,地瓜葉;瘦肉,sweet potato leaf;lean meat,good,降低對膽固醇的吸收,86,吃對食物健康100分,N/A
+89,地瓜葉;大蒜,sweet potato leaf;garlic,good,消除疲勞、護膚,86,吃對食物健康100分,N/A
+90,地瓜葉;豬肝,sweet potato leaf;pork liver,bad,干擾人體吸收礦物質,86,吃對食物健康100分,N/A
+91,地瓜葉;鮮蛤蜊,sweet potato leaf;fresh clam,bad,破壞維生素B1,86,吃對食物健康100分,N/A
+92,芹菜;章魚,celery;octopus,good,強心肝、降膽固醇,87,吃對食物健康100分,N/A
+93,芹菜;橄欖油,celery;olive oil,good,護眼、抗癌,87,吃對食物健康100分,N/A
+94,芹菜;生蛤蜊,celery;raw clam,bad,破壞維生素B1,87,吃對食物健康100分,N/A
+95,芹菜;蜂蜜,celery;honey,bad,容易腹瀉,87,吃對食物健康100分,N/A
+96,菠菜;大蒜,spinach;garlic,good,消除疲勞,89,吃對食物健康100分,N/A
+97,菠菜;海帶,spinach;kelp,good,有益於骨骼牙齒,89,吃對食物健康100分,N/A
+98,菠菜;蛋,spinach;egg,good,維持鈣與磷的平衡,89,吃對食物健康100分,N/A
+99,菠菜;核桃,spinach;walnut,bad,易引起結石,89,吃對食物健康100分,N/A
+100,菠菜;乳酪,spinach;cheese,bad,影響鈣質吸收,89,吃對食物健康100分,N/A
+101,韭菜;葵花油,garlic chive||chinese leek||chinese chive;sunflower oil,good,預防癌症、心臟病,90,吃對食物健康100分,N/A
+102,韭菜;瘦肉,garlic chive||chinese leek||chinese chive;lean meat,good,消除疲勞、養顏美容,90,吃對食物健康100分,N/A
+103,韭菜;蜂蜜,garlic chive||chinese leek||chinese chive;honey,bad,引起腹瀉,90,吃對食物健康100分,N/A
+104,韭菜;醋,garlic chive||chinese leek||chinese chive;vinegar,bad,降低營養價值,90,吃對食物健康100分,N/A
+105,豆芽菜;青橄欖油,bean sprout;green olive oil,good,改善肌膚粗燥,91,吃對食物健康100分,N/A
+106,豆芽菜;瘦肉,bean sprout;lean meat,good,護膚、提高免疫力,91,吃對食物健康100分,N/A
+107,豆芽菜;蘋果,bean sprout;apple,bad,造成消化不良,91,吃對食物健康100分,N/A
+108,豆芽菜;低鈉鹽,bean sprout;low sodium salt,bad,鉀攝取過量,91,吃對食物健康100分,N/A
+109,紅蘿蔔;芝麻油,carrot;sesame seed oil,good,保護眼睛、預防感冒,93,吃對食物健康100分,N/A
+110,紅蘿蔔;青花魚; 鯖魚,carrot;atlantic mackerel,good,預防動脈硬化、痴呆症,93,吃對食物健康100分,N/A
+111,紅蘿蔔;乾香菇,carrot;dry mushroom||dried mushroom,good,保護眼睛、抗老,93,吃對食物健康100分,N/A
+112,紅蘿蔔;醋,carrot;vinegar,bad,破壞類胡蘿蔔素,93,吃對食物健康100分,N/A
+113,紅蘿蔔;玉米,carrot;corn,bad,降低營養價值,93,吃對食物健康100分,N/A
+114,白蘿蔔;高麗菜,white radish;cabbage,good,保健肌膚,95,吃對食物健康100分,N/A
+115,白蘿蔔;大豆油,white radish;soybean oil,good,幫助人體吸收鈣質,95,吃對食物健康100分,N/A
+116,白蘿蔔;蛤蜊,white radish;clam,good,強心、護肝,95,吃對食物健康100分,N/A
+117,白蘿蔔;胡蘿蔔,white radish;carrot,bad,破壞維生素C,95,吃對食物健康100分,N/A
+118,白蘿蔔;蜂蜜,white radish;honey,bad,易引起腹瀉,95,吃對食物健康100分,N/A
+119,山藥;豬肉,chinese yam||common yam;pork,good,肌膚光澤、消除疲勞,97,吃對食物健康100分,N/A
+120,山藥;鮑魚,chinese yam||common yam;abalone,good,加強人體對鈣的吸收,97,吃對食物健康100分,N/A
+121,山藥;食鹽,chinese yam||common yam;salt,good,維持體內酸鹼平衡,97,吃對食物健康100分,N/A
+122,山藥;胡蘿蔔,chinese yam||common yam;carrot,bad,破壞維生素C,97,吃對食物健康100分,N/A
+123,山藥;鳳梨,chinese yam||common yam;pineapple,bad,有礙腸胃健康,97,吃對食物健康100分,N/A
+124,地瓜;牛奶,sweet potato;milk,good,護肝、強心,98,吃對食物健康100分,N/A
+125,地瓜;乳酪,sweet potato;cheese,good,預防癌症、心臟病,98,吃對食物健康100分,N/A
+126,地瓜;蜂蜜,sweet potato;honey,bad,容易拉肚子,98,吃對食物健康100分,N/A
+127,地瓜;醋,sweet potato;vinegar,bad,對胃不利,98,吃對食物健康100分,N/A
+128,芋頭;洋蔥,taro;onion,good,養顏美容,99,吃對食物健康100分,N/A
+129,芋頭;鴨,taro;duck,good,預防貧血,99,吃對食物健康100分,N/A
+130,芋頭;生鮮蟹肉,taro;fresh raw crab,bad,降低營養價值,99,吃對食物健康100分,N/A
+131,芋頭;醋,taro;vinegar,bad,干擾澱粉分解,99,吃對食物健康100分,N/A
+132,馬鈴薯;蛋,potato;egg,good,光澤肌膚、消除疲勞,100,吃對食物健康100分,N/A
+133,馬鈴薯;豬肉,potato;pork,good,消除疲勞,100,吃對食物健康100分,N/A
+134,馬鈴薯;芋頭,potato;taro,bad,澱粉攝取過量,100,吃對食物健康100分,N/A
+135,馬鈴薯;食用醋,potato;vinegar,bad,干擾體內澱粉分解,100,吃對食物健康100分,N/A
+136,南瓜;蝦,pumpkin;shrimp,good,美膚、消除疲勞,101,吃對食物健康100分,N/A
+137,南瓜;糙米,pumpkin;brown rice,good,防治貧血,101,吃對食物健康100分,N/A
+138,南瓜;醋,pumpkin;vinegar,bad,影響澱粉分解消化,101,吃對食物健康100分,N/A
+139,南瓜;豬肝,pumpkin;pork liver,bad,影響人體吸收銅,101,吃對食物健康100分,N/A
+140,小黃瓜;千島醬,cucumber;thousand island dressing,good,護膚、防老、抗癌,102,吃對食物健康100分,N/A
+141,小黃瓜;魷魚,cucumber;squid,good,降低膽固醇、強化心肝功能,102,吃對食物健康100分,N/A
+142,小黃瓜;海帶,cucumber;kelp,bad,妨礙維生素C的吸收,102,吃對食物健康100分,N/A
+143,生小黃瓜;香菜,raw cucumber;parsley||coriander||cilantro,bad,降低營養價值,102,吃對食物健康100分,N/A
+144,大黃瓜;番茄,big cucumber;tomato,good,維持體內鹽分平衡,103,吃對食物健康100分,N/A
+145,大黃瓜;蘋果,big cucumber;apple,good,促進腸胃蠕動,103,吃對食物健康100分,N/A
+146,大黃瓜;蔥,big cucumber;scallion||green onion,bad,影響鈣質吸收,103,吃對食物健康100分,N/A
+147,大黃瓜;枸杞,big cucumber;goji berry||wolfberry,bad,鉀含量容易過高,103,吃對食物健康100分,N/A
+148,絲瓜;蛋,sponge gourd||loofah;egg,good,加速傷口癒合,105,吃對食物健康100分,N/A
+149,絲瓜;蝦,sponge gourd||loofah;shrimp,good,防治甲狀腺腫大,105,吃對食物健康100分,N/A
+150,絲瓜;香菜;芥花油,sponge gourd||loofah;parsley||coriander||cilantro;canola oil,good,防老、降低致癌率,105,吃對食物健康100分,N/A
+151,絲瓜;竹筍,sponge gourd||loofah;bamboo shoot,bad,破壞類胡蘿蔔素,105,吃對食物健康100分,N/A
+152,絲瓜;泥鰍,sponge gourd||loofah;mud loach||pond loach,bad,破壞維生素B1,105,吃對食物健康100分,N/A
+153,苦瓜;瘦肉,bitter melon||bitter gourd;lean meat,good,增強體力、促進發育,106,吃對食物健康100分,N/A
+154,苦瓜;蘆筍,bitter melon||bitter gourd;asparagus,good,使皮膚恢復血色,106,吃對食物健康100分,N/A
+155,苦瓜;低鈉鹽,bitter melon||bitter gourd;low sodium salt,bad,易腹脹、腹瀉,106,吃對食物健康100分,N/A
+156,苦瓜;蚵仔,bitter melon||bitter gourd;oyster,bad,降低營養價值,106,吃對食物健康100分,N/A
+157,冬瓜;蝦,wax gourd||winter melon;shrimp,good,幫助人體吸收鈣質,107,吃對食物健康100分,N/A
+158,冬瓜;鴨,wax gourd||winter melon;duck,good,預防貧血、促進食慾,107,吃對食物健康100分,N/A
+159,冬瓜;豬肝,wax gourd||winter melon;pork liver,bad,使維生素C氧化,107,吃對食物健康100分,N/A
+160,茄子;辣椒,eggplant;chili pepper,good,抗壓、美白肌膚,108,吃對食物健康100分,N/A
+161,茄子;乳酪,eggplant;cheese,good,加強人體對鈣質的吸收,108,吃對食物健康100分,N/A
+162,茄子;扁豆,eggplant;hyacinth bean||lentil,bad,影響人體吸收鈣質,108,吃對食物健康100分,N/A
+163,茄子;胡蘿蔔,eggplant;carrot,bad,降低營養價值,108,吃對食物健康100分,N/A
+164,茭白筍;瘦肉,water bamboo shoot||zizania shoot;lean meat,good,使皮膚恢復血色,109,吃對食物健康100分,N/A
+165,茭白筍;髮菜,water bamboo shoot||zizania shoot;fat choy||black moss,good,幫助人體吸收鈣質,109,吃對食物健康100分,N/A
+166,茭白筍;無鹽醬油,water bamboo shoot||zizania shoot;unsalted soy sauce,bad,鉀含量過高,109,吃對食物健康100分,N/A
+167,茭白筍;鮮蟹肉,water bamboo shoot||zizania shoot;fresh crab,bad,破壞維生素B1,109,吃對食物健康100分,N/A
+168,竹筍;蛋,bamboo shoot;egg,good,維持皮膚、消化系統健康,111,吃對食物健康100分,N/A
+169,竹筍;牡蠣,bamboo shoot;oyster,good,幫助傷口癒合、預防感冒,111,吃對食物健康100分,N/A
+170,竹筍;瘦肉,bamboo shoot;lean meat,good,使皮膚恢復血色,111,吃對食物健康100分,N/A
+171,竹筍;胡蘿蔔,bamboo shoot;carrot,bad,破壞類胡蘿蔔素,111,吃對食物健康100分,N/A
+172,竹筍;花枝羹,bamboo shoot;squid thick soup,bad,降低鈣質吸收,111,吃對食物健康100分,N/A
+173,蘆筍;蛋,asparagus;egg,good,使皮膚恢復血色,113,吃對食物健康100分,N/A
+174,蘆筍;蝦;海苔,asparagus;shrimp;seaweed,good,防治甲狀腺功能失調,113,吃對食物健康100分,N/A
+175,蘆筍;蟹肉,asparagus;crab,good,減輕關節炎疼痛,113,吃對食物健康100分,N/A
+176,蘆筍;甜椒,asparagus;sweet bell pepper,bad,降低營養價值,113,吃對食物健康100分,N/A
+177,蘆筍;香蕉,asparagus;banana,bad,刺激腸胃產生不適,113,吃對食物健康100分,N/A
+178,四季豆;乾香菇,green bean||string bean;dry mushroom||dried mushroom,good,保護眼睛、抗老,114,吃對食物健康100分,N/A
+179,四季豆;花椒粉,green bean||string bean;prickly ash powder||pricklyash powder,good,強化人體對鈣質的吸收,114,吃對食物健康100分,N/A
+180,四季豆;醋,green bean||string bean;vinegar,bad,破壞類胡蘿蔔素,114,吃對食物健康100分,N/A
+181,四季豆;小魚乾,green bean||string bean;dry clove fish||dry fish||anchovy||dried clove fish||dried fish||dried anchovy,bad,影響鈣質吸收,114,吃對食物健康100分,N/A
+182,豌豆;紅辣椒,green pea;red pepper,good,美白肌膚、防斑,115,吃對食物健康100分,N/A
+183,豌豆;糙米,green pea;brown rice,good,防老、抗癌,115,吃對食物健康100分,N/A
+184,豌豆;食用醋,green pea;vinegar,bad,引起消化不良,115,吃對食物健康100分,N/A
+185,豌豆;菠菜,green pea;spinach,bad,影響鈣質吸收,115,吃對食物健康100分,N/A
+186,青椒;雞肉,green bell pepper;chicken,good,護髮、護膚,117,吃對食物健康100分,N/A
+187,青椒;牛肉,green bell pepper;beef,good,消除疲勞、提高免疫力,117,吃對食物健康100分,N/A
+188,甜椒;花椰菜,sweet bell pepper;broccoli,good,護膚,117,吃對食物健康100分,N/A
+189,甜椒;葵瓜子,sweet bell pepper;sunflower seed,bad,妨礙維生素E的吸收,117,吃對食物健康100分,N/A
+190,甜椒;香菜,sweet bell pepper;parsley||coriander||cilantro,bad,使維生素C氧化,117,吃對食物健康100分,N/A
+191,洋蔥;豬肉,onion;pork,good,消除疲勞,119,吃對食物健康100分,N/A
+192,洋蔥;松子,onion;pine nut,good,抗癌防老、預防心臟病,119,吃對食物健康100分,N/A
+193,洋蔥;蛋,onion;egg,good,護膚、促進血液循環,119,吃對食物健康100分,N/A
+194,洋蔥;甜椒,onion;sweet bell pepper,bad,降低營養價值,119,吃對食物健康100分,N/A
+195,洋蔥;蘋果,onion;apple,bad,誘發甲狀腺腫大,119,吃對食物健康100分,N/A
+196,花椰菜;豬肉,broccoli;pork,good,美白肌膚、提高免疫力,121,吃對食物健康100分,N/A
+197,白花椰菜;蝦,cauliflower;shrimp,good,補充甲狀腺激素的不足,121,吃對食物健康100分,N/A
+198,花椰菜;糙米,broccoli;brown rice,good,護膚、防癌、抗老,121,吃對食物健康100分,N/A
+199,花椰菜;牛肝,broccoli;beef liver,bad,破壞維生素C,121,吃對食物健康100分,N/A
+200,花椰菜;豬肝,broccoli;pork liver,bad,降低礦物質的吸收率,121,吃對食物健康100分,N/A
+201,玉米;草莓,corn;strawberry,good,預防黑斑、雀斑,122,吃對食物健康100分,N/A
+202,玉米;馬鈴薯,corn;potato,bad,澱粉含量過高,122,吃對食物健康100分,N/A
+203,玉米;可樂,corn;cola,bad,干擾鈣質吸收,122,吃對食物健康100分,N/A
+204,木耳;蛋,black fungus (wood ear);egg,good,強健骨骼、牙齒,123,吃對食物健康100分,N/A
+205,木耳;蝦,black fungus (wood ear);shrimp,good,豐潤血色、毛髮,123,吃對食物健康100分,N/A
+206,木耳;甘藍菜,black fungus (wood ear);chinese kale,bad,誘發甲狀腺腫大,123,吃對食物健康100分,N/A
+207,木耳;鳳梨,black fungus (wood ear);pineapple,bad,消化不良、反胃,123,吃對食物健康100分,N/A
+208,香菇;荷蘭芹,mushroom;parsley,good,護眼、抗老、防癌,125,吃對食物健康100分,N/A
+209,香菇;鯛魚,mushroom;snapper||sea bream,good,消除疲勞,125,吃對食物健康100分,N/A
+210,香菇;瘦肉,mushroom;lean meat,good,維持皮膚、消化系統健康,125,吃對食物健康100分,N/A
+211,香菇;酒,mushroom;wine||liqueur,bad,減少維生素D的吸收,125,吃對食物健康100分,N/A
+212,香菇;紅蕃茄,mushroom;red tomato,bad,破壞類胡蘿蔔素,125,吃對食物健康100分,N/A
+213,金針菇;蔥,enoki mushroom||enokitake;scallion||green onion,good,有助於消除疲勞,126,吃對食物健康100分,N/A
+214,金針菇;番茄,enoki mushroom||enokitake;tomato,good,維持體內鹽分的平衡,126,吃對食物健康100分,N/A
+215,金針菇;生蛤蜊,enoki mushroom||enokitake;raw clam,bad,破壞維生素B1,126,吃對食物健康100分,N/A
+216,金針菇;羊肉,enoki mushroom||enokitake;lamb||mutton,bad,影響消化能力,126,吃對食物健康100分,N/A
+217,枇杷;豬肉,loquat;pork,good,幫助類胡蘿蔔素作用,128,吃對食物健康100分,N/A
+218,枇杷;蘋果,loquat;apple,good,防癌、抗老,128,吃對食物健康100分,N/A
+219,枇杷;牛奶,loquat;milk,bad,牛奶變性沈澱,128,吃對食物健康100分,N/A
+220,枇杷;酒,loquat;wine||liqueur,bad,可能產生毒性物質,128,吃對食物健康100分,N/A
+221,奇異果;松子,kiwi;pine nut,good,促進人體吸收鐵質,129,吃對食物健康100分,N/A
+222,奇異果;美乃滋,kiwi;mayonnaise,good,養顏美容,129,吃對食物健康100分,N/A
+223,奇異果;豬肉,kiwi;pork,bad,降低營養價值,129,吃對食物健康100分,N/A
+224,奇異果;蜂蜜,kiwi;honey,bad,易引起腹瀉,129,吃對食物健康100分,N/A
+225,鳳梨;洋菜,pineapple;agar,good,促進血液循環,130,吃對食物健康100分,N/A
+226,鳳梨;蛋,pineapple;egg,good,美白肌膚、消除疲勞,130,吃對食物健康100分,N/A
+227,鳳梨;蝦,pineapple;shrimp,bad,刺激胃、引起嘔吐,130,吃對食物健康100分,N/A
+228,鳳梨;香蕉,pineapple;banana,bad,鉀含量過高,130,吃對食物健康100分,N/A
+229,香蕉;乳酪,banana;cheese,good,防止骨質疏鬆,131,吃對食物健康100分,N/A
+230,香蕉;花生,banana;peanut,good,提高菸酸鹼含量,131,吃對食物健康100分,N/A
+231,香蕉;牛奶,banana;milk,bad,不利蛋白質吸收、引起消化不良,131,吃對食物健康100分,N/A
+232,番茄;蛋,tomato;egg,good,護膚、抗老、防癌,133,吃對食物健康100分,N/A
+233,番茄;豆腐,tomato;tofu,good,養顏美容、提高免疫力,133,吃對食物健康100分,N/A
+234,番茄;馬鈴薯,tomato;potato,good,促進血液循環,133,吃對食物健康100分,N/A
+235,番茄;胡蘿蔔,tomato;carrot,bad,破壞維生素C,133,吃對食物健康100分,N/A
+236,番茄;豬肝,tomato;pork liver,bad,使維生素C氧化,133,吃對食物健康100分,N/A
+237,桃子;蘋果,peach;apple,good,刺激腸蠕動、通便,134,吃對食物健康100分,N/A
+238,桃子;葡萄柚,peach;grapefruit,good,紅潤膚色、預防貧血,134,吃對食物健康100分,N/A
+239,桃子;火腿,peach;ham,bad,腹瀉、腹脹,134,吃對食物健康100分,N/A
+240,桃子;枸杞,peach;goji berry||wolfberry,bad,腹瀉、腹脹,134,吃對食物健康100分,N/A
+241,李子;食鹽,plum;salt,good,維持酸鹼平衡,135,吃對食物健康100分,N/A
+242,李子;堅果,plum;nut,good,促進兒童成長,135,吃對食物健康100分,N/A
+243,李子;醋,plum;vinegar,bad,營養成分流失,135,吃對食物健康100分,N/A
+244,李子;蜂蜜,plum;honey,bad,降低營養價值,135,吃對食物健康100分,N/A
+245,芒果;玉米;蝦仁,mango;corn;shrimp,good,維持甲狀腺功能正常,137,吃對食物健康100分,N/A
+246,芒果;牛奶,mango;milk,good,保護眼睛、防癌,137,吃對食物健康100分,N/A
+247,芒果;乳酪,mango;cheese,good,幫助鈣質吸收、抗壓,137,吃對食物健康100分,N/A
+248,芒果;牛肝,mango;beef liver,bad,失去營養價值,137,吃對食物健康100分,N/A
+249,芒果;胡蘿蔔,mango;carrot,bad,營養流失,137,吃對食物健康100分,N/A
+250,哈密瓜;芹菜,cantaloupe;celery,good,養顏美容,138,吃對食物健康100分,N/A
+251,哈密瓜;牛奶,cantaloupe;milk,good,預防癌症、心臟病,138,吃對食物健康100分,N/A
+252,哈密瓜;可樂,cantaloupe;cola,bad,鈣會被消耗掉,138,吃對食物健康100分,N/A
+253,哈密瓜;醋,cantaloupe;vinegar,bad,流失營養成分,138,吃對食物健康100分,N/A
+254,香瓜;白木耳,muskmelon;white fungus||white wood ear,good,增強體力、促進發育,139,吃對食物健康100分,N/A
+255,香瓜;豬肉,muskmelon;pork,bad,減低礦物質吸收,139,吃對食物健康100分,N/A
+256,香瓜;黃瓜,muskmelon;cucumber,bad,使營養流失,139,吃對食物健康100分,N/A
+257,櫻桃;哈密瓜,cherry;cantaloupe,good,預防貧血、增加體力,140,吃對食物健康100分,N/A
+258,櫻桃;食鹽,cherry;salt,good,維持酸鹼平衡,140,吃對食物健康100分,N/A
+259,櫻桃;堅果,cherry;nut,bad,容易靜脈曲張、瘀血,140,吃對食物健康100分,N/A
+260,櫻桃;蜂蜜,cherry;honey,bad,失去營養價值,140,吃對食物健康100分,N/A
+261,荔枝;榛果,lychee;hazelnut,good,可消除疲勞,141,吃對食物健康100分,N/A
+262,荔枝;燕麥,lychee;oatmeal,good,幫助醣類代謝,141,吃對食物健康100分,N/A
+263,荔枝;黃瓜,lychee;cucumber,bad,營養成分流失,141,吃對食物健康100分,N/A
+264,荔枝;豬肝,lychee;pork liver,bad,破壞維生素C,141,吃對食物健康100分,N/A
+265,西瓜;食鹽,watermelon;salt,good,平衡酸鹼度,142,吃對食物健康100分,N/A
+266,西瓜;胡蘿蔔,watermelon;carrot,good,維持皮膚健康,142,吃對食物健康100分,N/A
+267,西瓜;酒,watermelon;wine||liqueur,bad,破壞泛酸造成營養流失,142,吃對食物健康100分,N/A
+268,西瓜;蜂蜜,watermelon;honey,bad,加速維生素C氧化,142,吃對食物健康100分,N/A
+269,木瓜;牛奶,papaya;milk,good,有助於吸收蛋白質,143,吃對食物健康100分,N/A
+270,木瓜;豬肉,papaya;pork,good,有助於吸收蛋白質,143,吃對食物健康100分,N/A
+271,木瓜;南瓜,papaya;pumpkin,bad,降低營養價值,143,吃對食物健康100分,N/A
+272,木瓜;牛肝,papaya;beef liver,bad,失去營養價值,143,吃對食物健康100分,N/A
+273,芭樂;食鹽,guava;salt,good,維持人體酸鹼平衡,145,吃對食物健康100分,N/A
+274,芭樂;瘦豬肉,guava;lean pork,good,促進人體吸收鐵質,145,吃對食物健康100分,N/A
+275,芭樂;枇杷,guava;loquat,good,增加食慾、幫助消化,145,吃對食物健康100分,N/A
+276,芭樂;龍眼乾,guava;dry longan||dried longan,bad,肌肉無力、心律不整,145,吃對食物健康100分,N/A
+277,芭樂;鮭魚鬆,guava;fried salmon floss||fried salmon fiber,bad,腹痛、腹脹、腹瀉,145,吃對食物健康100分,N/A
+278,葡萄;芝麻,grape;sesame seed,good,增強抗氧化力,146,吃對食物健康100分,N/A
+279,葡萄;糯米,grape;glutinous rice||sticky rice,good,預防貧血、消除疲勞,146,吃對食物健康100分,N/A
+280,葡萄;蘿蔔,grape;radish,bad,抑制人體對碘的吸收力,146,吃對食物健康100分,N/A
+281,葡萄;蝦,grape;shrimp,bad,引起胃部不適,146,吃對食物健康100分,N/A
+282,梨子;芝麻,pear;sesame seed,good,調節蛋白質代謝,147,吃對食物健康100分,N/A
+283,梨子;食鹽,pear;salt,good,維持酸鹼平衡,147,吃對食物健康100分,N/A
+284,梨子;地瓜,pear;sweet potato,bad,使腸胃不適,147,吃對食物健康100分,N/A
+285,柿子;葡萄,persimmon;grape,good,有助於攝取維生素C,148,吃對食物健康100分,N/A
+286,柿子;乳酪,persimmon;cheese,good,有助於鈣的吸收,148,吃對食物健康100分,N/A
+287,柿子;螃蟹,persimmon;crab,bad,凝固成不易消化的物質,148,吃對食物健康100分,N/A
+288,柿子;紫菜,persimmon;nori,bad,妨礙鐵質的吸收,148,吃對食物健康100分,N/A
+289,楊桃;食鹽,carambola;salt,good,平衡人體酸鹼值,149,吃對食物健康100分,N/A
+290,楊桃;菠菜,carambola;spinach,good,養顏美容、抗老,149,吃對食物健康100分,N/A
+291,楊桃;黃豆,carambola;soybean||soy bean,bad,導致消化不良,149,吃對食物健康100分,N/A
+292,楊桃;牛奶,carambola;milk,bad,影響鈣質吸收,149,吃對食物健康100分,N/A
+293,蘋果;鮑魚,apple;abalone,good,預防貧血、養顏美容,151,吃對食物健康100分,N/A
+294,蘋果;豬肉,apple;pork,good,消除疲勞,151,吃對食物健康100分,N/A
+295,蘋果;胡蘿蔔,apple;carrot,good,保健肌膚、增加抵抗力,151,吃對食物健康100分,N/A
+296,蘋果;洋蔥,apple;onion,bad,誘發甲狀腺腫,151,吃對食物健康100分,N/A
+297,蘋果;蜂蜜,apple;honey,bad,可能引起腹瀉,151,吃對食物健康100分,N/A
+298,橘子;核桃,mandarin orange||tangerine;walnut,good,臉色紅潤好氣色、增強體力,152,吃對食物健康100分,N/A
+299,橘子;柳丁,mandarin orange||tangerine;orange,good,增強免疫力、預防感冒,152,吃對食物健康100分,N/A
+300,橘子;白蘿蔔,mandarin orange||tangerine;white radish,bad,抑制對碘的吸收力,152,吃對食物健康100分,N/A
+301,橘子;牛奶,mandarin orange||tangerine;milk,bad,降低營養價值,152,吃對食物健康100分,N/A
+302,柳丁;美乃滋,orange;mayonnaise,good,護膚、防癌、抗老,153,吃對食物健康100分,N/A
+303,柳丁;奶油,orange;butter,good,減少膽固醇吸收,153,吃對食物健康100分,N/A
+304,柳丁;蝦,orange;shrimp,bad,生成不易消化物質,153,吃對食物健康100分,N/A
+305,柳丁;豬肉,orange;pork,bad,生成不利消化物質,153,吃對食物健康100分,N/A
+306,草莓;食鹽,strawberry;salt,good,維持人體酸鹼平衡,155,吃對食物健康100分,N/A
+307,草莓;美乃滋,strawberry;mayonnaise,good,促進血液循環,155,吃對食物健康100分,N/A
+308,草莓;榛果,strawberry;hazelnut,good,預防貧血、增強體力,155,吃對食物健康100分,N/A
+309,草莓;燕麥,strawberry;oatmeal,bad,降低營養價值,155,吃對食物健康100分,N/A
+310,草莓;地瓜,strawberry;sweet potato,bad,腸胃不適,155,吃對食物健康100分,N/A
+311,蓮霧;芝麻,wax apple||java apple;sesame seed,good,恢復血氣、消除疲勞,156,吃對食物健康100分,N/A
+312,蓮霧;優酪乳,wax apple||java apple;yogurt,good,補充鈣質,156,吃對食物健康100分,N/A
+313,蓮霧;胡蘿蔔,wax apple||java apple;carrot,bad,破壞維生素C,156,吃對食物健康100分,N/A
+314,蓮霧;蘋果,wax apple||java apple;apple,bad,產生不易消化物質,156,吃對食物健康100分,N/A
+315,豬肉;大蒜,pork;garlic,good,消除疲勞、提高注意力,160,吃對食物健康100分,N/A
+316,豬肉;青椒,pork;green bell pepper,good,強健脊椎、消除疲勞疼痛,160,吃對食物健康100分,N/A
+317,豬肉;紅椒,pork;red bell pepper,good,強健脊椎、消除疲勞疼痛,160,吃對食物健康100分,N/A
+318,豬肉;白菜,pork;napa cabbage||chinese cabbage,good,補充營養、幫助消化,160,吃對食物健康100分,N/A
+319,豬肉;蘿蔔,pork;radish,good,增強體力、幫助排泄,160,吃對食物健康100分,N/A
+320,豬肉;茶,pork;tea,bad,使腸蠕動減慢、吸收有害物質、容易便秘,160,吃對食物健康100分,N/A
+321,豬肚;白胡椒,pork belly;white pepper,good,治療胃寒，因受寒而虛寒性的胃、十二指腸潰瘍等,161,吃對食物健康100分,N/A
+322,豬肚;啤酒,pork belly;beer,bad,容易造成痛風,161,吃對食物健康100分,N/A
+323,豬腸;啤酒,pork intestine;beer,bad,容易造成痛風,161,吃對食物健康100分,N/A
+324,牛肚;啤酒,beef belly;beer,bad,容易造成痛風,161,吃對食物健康100分,N/A
+325,豬肝;深色葉菜,pork liver;dark leafy vegetable,good,預防貧血、促進生長,163,吃對食物健康100分,N/A
+326,豬肝;番茄,pork liver;tomato,good,預防貧血、增強體力,163,吃對食物健康100分,N/A
+327,豬肝;花椰菜,pork liver;broccoli,bad,影響維生素C和礦物質銅、鐵的吸收,163,吃對食物健康100分,N/A
+328,豬心;蘋果,pork heart;apple,good,消除疲勞、美麗肌膚,164,吃對食物健康100分,N/A
+329,豬心;金針菇,pork heart;enoki mushroom||enokitake,good,安眠好入睡,164,吃對食物健康100分,N/A
+330,豬心;花生,pork heart;peanut,bad,妨礙鋅的吸收,164,吃對食物健康100分,N/A
+331,豬心;茶葉,pork heart;tea leaf,bad,便秘、影響鐵的吸收,164,吃對食物健康100分,N/A
+332,豬血;柳橙汁,pork blood||pig blood curd;orange juice,good,幫助鐵質吸收,165,吃對食物健康100分,N/A
+333,豬血;豆腐;深色葉菜,pork blood||pig blood curd;tofu;dark leafy vegetable,good,預防貧血,165,吃對食物健康100分,N/A
+334,豬血;牛奶,pork blood||pig blood curd;milk,bad,抑制鐵的吸收,165,吃對食物健康100分,N/A
+335,豬血;咖啡,pork blood||pig blood curd;coffee,bad,抑制鐵的吸收,165,吃對食物健康100分,N/A
+336,豬腳;花生,pork shank||pork knuckle||ham hock||pork hock||pork foot;peanut,good,健胸豐乳,166,吃對食物健康100分,N/A
+337,豬皮;豬腳筋;紅棗,pork crackling||pork rind;pork tendon||pork hamstring;jujube||red date||chinese date,good,養血安神,166,吃對食物健康100分,N/A
+338,豬腳;黃豆,pork shank||pork knuckle||ham hock||pork hock||pork foot;soybean||soy bean,bad,降低蛋白質和鈣的吸收,166,吃對食物健康100分,N/A
+339,火腿;芥花油,ham;canola oil,good,消除疲勞,167,吃對食物健康100分,N/A
+340,火腿;優酪乳,ham;yogurt,bad,增加致癌的危險,167,吃對食物健康100分,N/A
+341,火腿;香蕉,ham;banana,bad,增加體內致癌物,167,吃對食物健康100分,N/A
+342,香腸;青蔥,sausage;scallion||green onion,good,可抑制亞硝胺產生,168,吃對食物健康100分,N/A
+343,香腸;綠茶,sausage;green tea,good,降低亞硝酸鹽含量,168,吃對食物健康100分,N/A
+344,香腸;秋刀魚,sausage;pacific saury||mackerel pike,bad,容易在體內產生亞硝胺,168,吃對食物健康100分,N/A
+345,田雞;大蒜,frog||field chicken;garlic,good,提高免疫力,169,吃對食物健康100分,N/A
+346,田雞;檸檬,frog||field chicken;lemon,bad,容易造成消化不良,169,吃對食物健康100分,N/A
+347,田雞;菠菜,frog||field chicken;spinach,bad,降低鈣的吸收率,169,吃對食物健康100分,N/A
+348,羊肉;豆腐,lamb||mutton;tofu,good,降低膽固醇、預防上火,171,吃對食物健康100分,N/A
+349,羊肉;醋,lamb||mutton;vinegar,bad,可能造成腹瀉,171,吃對食物健康100分,N/A
+350,羊肉;西瓜,lamb||mutton;watermelon,bad,易使脾胃功能失調,171,吃對食物健康100分,N/A
+351,羊肉;茶,lamb||mutton;tea,bad,容易造成便秘,171,吃對食物健康100分,N/A
+352,牛肉;洋蔥,beef;onion,good,美膚、消除疲勞、健體提神,174,吃對食物健康100分,N/A
+353,牛肉;青椒,beef;green bell pepper,good,防止動脈硬化、消除疲勞,174,吃對食物健康100分,N/A
+354,牛肉;芥蘭菜,beef;chinese broccoli||chinese kale,good,預防貧血與頭痛、促進生長發育,174,吃對食物健康100分,N/A
+355,牛肉;豬肉,beef;pork,bad,容易消化不良,174,吃對食物健康100分,N/A
+356,牛肉;栗子,beef;chestnut,bad,容易造成腸胃不適,174,吃對食物健康100分,N/A
+357,牛肉;白酒,beef;white wine,bad,容易形成脂肪肝、上火,174,吃對食物健康100分,N/A
+358,烏骨雞;竹笙,silkie fowl;bamboo fungus,good,降低膽固醇的吸收,175,吃對食物健康100分,N/A
+359,烏骨雞;蘋果,silkie fowl;apple,good,除疲勞、肌膚健康,175,吃對食物健康100分,N/A
+360,烏骨雞;莧菜,silkie fowl;amaranth,bad,影響維生素C吸收,175,吃對食物健康100分,N/A
+361,烏骨雞;大豆,silkie fowl;soybean||soy bean,bad,降低食物營養價值,175,吃對食物健康100分,N/A
+362,老母鴨;薑,duck;ginger root,good,溫暖身體、促進血液循環,177,吃對食物健康100分,N/A
+363,鴨肉;山藥,duck;chinese yam||common yam,good,消除油膩、健脾止渴、固腎益精,177,吃對食物健康100分,N/A
+364,鴨肉;胡桃,duck;walnut,bad,營養相互抵銷,177,吃對食物健康100分,N/A
+365,鴨肉;鯊肉,duck;shark,bad,水腫腹瀉、消化不良,177,吃對食物健康100分,N/A
+366,鵝肉;花椰菜,goose;broccoli,good,減少飲食中膽固醇的吸收,179,吃對食物健康100分,N/A
+367,鵝肉;紅蘿蔔,goose;carrot,good,預防癌症、心臟病、維持眼睛與皮膚健康,179,吃對食物健康100分,N/A
+368,煙燻鵝肉;啤酒,smoked goose||smoke goose;beer,bad,加重肝臟負擔,179,吃對食物健康100分,N/A
+369,雞肉;青蔥,chicken;scallion||green onion,good,維持健康髮膚、提神醒腦,182,吃對食物健康100分,N/A
+370,雞肉;青椒,chicken;green bell pepper,good,防止動脈硬化、保持肌膚健康,182,吃對食物健康100分,N/A
+371,雞肉;高麗菜,chicken;cabbage,good,預防貧血、促進發育,182,吃對食物健康100分,N/A
+372,雞肉;香菇,chicken;mushroom,good,預防中風及大腸癌,182,吃對食物健康100分,N/A
+373,雞肉;大蒜,chicken;garlic,bad,滯氣、造成身體不適,182,吃對食物健康100分,N/A
+374,雞肉;芥末,chicken;mustard||wasabi||horseradish,bad,容易上火、傷元氣,182,吃對食物健康100分,N/A
+375,鮭魚;洋蔥,salmon;onion,good,消除疲勞、養顏美容,185,吃對食物健康100分,N/A
+376,鮭魚;豆腐,salmon;tofu,good,增強腦功能、強化骨骼,185,吃對食物健康100分,N/A
+377,鮭魚;菠菜,salmon;spinach,good,均衡營養、提高免疫力,185,吃對食物健康100分,N/A
+378,鮭魚;柿子,salmon;persimmon,bad,不利蛋白質吸收,185,吃對食物健康100分,N/A
+379,鮭魚;生小黃瓜,salmon;raw cucumber,bad,破壞蛋白質吸收,185,吃對食物健康100分,N/A
+380,鱸魚;南瓜,sea bass||seabass||perch||pike||walleye;pumpkin,good,可預防感冒,187,吃對食物健康100分,N/A
+381,鱸魚;紅辣椒,sea bass||seabass||perch||pike||walleye;red pepper,good,保護眼睛,187,吃對食物健康100分,N/A
+382,鱸魚;海帶,sea bass||seabass||perch||pike||walleye;kelp,good,強化骨骼及牙齒,187,吃對食物健康100分,N/A
+383,鱸魚;蛤蜊,sea bass||seabass||perch||pike||walleye;clam,bad,破壞銅元素的吸收,187,吃對食物健康100分,N/A
+384,鱸魚;乳酪,sea bass||seabass||perch||pike||walleye;cheese,bad,腹瀉,187,吃對食物健康100分,N/A
+385,鱈魚;牛奶,cod;milk,good,補充鈣質的不足,188,吃對食物健康100分,N/A
+386,鱈魚;南瓜,cod;pumpkin,good,預防感冒、肌膚乾裂,188,吃對食物健康100分,N/A
+387,鱈魚;烤香腸,cod;grilled sausage,bad,造成致癌的可能,188,吃對食物健康100分,N/A
+388,鱈魚;高鹽食物,cod;salty food,bad,降低鉀的功效,188,吃對食物健康100分,N/A
+389,鯧魚;牛奶,pomfret;milk,good,促進兒童成長發育,189,吃對食物健康100分,N/A
+390,鯧魚;南瓜,pomfret;pumpkin,good,補充不足營養素,189,吃對食物健康100分,N/A
+391,鯧魚;牛油,pomfret;beef tallow||beef lard,bad,增加膽固醇含量,189,吃對食物健康100分,N/A
+392,鯧魚;溫水,pomfret;warm water,bad,使鮮味消失,189,吃對食物健康100分,N/A
+393,鮪魚;山藥,tuna;chinese yam||common yam,good,預防動脈硬化,191,吃對食物健康100分,N/A
+394,鮪魚;花椰菜,tuna;broccoli,good,有益兒童的成長發育,191,吃對食物健康100分,N/A
+395,鮪魚;蘆筍,tuna;asparagus,good,達到美膚效果,191,吃對食物健康100分,N/A
+396,鮪魚;生小黃瓜,tuna;raw cucumber,bad,破壞蛋白質吸收,191,吃對食物健康100分,N/A
+397,鮪魚;葡萄,tuna;grape,bad,影響蛋白質吸收,191,吃對食物健康100分,N/A
+398,白帶魚;胡蘿蔔,largehead hairtail;carrot,good,提昇記憶力、注意力,192,吃對食物健康100分,N/A
+399,白帶魚;芝麻,largehead hairtail;sesame seed,good,強化骨骼,192,吃對食物健康100分,N/A
+400,白帶魚;牛油,largehead hairtail;beef tallow||beef lard,bad,膽固醇增高,192,吃對食物健康100分,N/A
+401,白帶魚;羊油,largehead hairtail;mutton fat||mutton oil||lamb fat||lamb oil,bad,膽固醇增高,192,吃對食物健康100分,N/A
+402,白帶魚;牛奶,largehead hairtail;milk,bad,破壞鎂的吸收,192,吃對食物健康100分,N/A
+403,鰻魚;枸杞,eel;goji berry||wolfberry,good,預防心血管疾病,193,吃對食物健康100分,N/A
+404,鰻魚;生蔬菜,eel;raw vegetable,good,補充維生素C,193,吃對食物健康100分,N/A
+405,鰻魚;橘子,eel;mandarin orange||tangerine,bad,影響蛋白質吸收,193,吃對食物健康100分,N/A
+406,鰻魚;牛肝,eel;beef liver,bad,引發心血管疾病,193,吃對食物健康100分,N/A
+407,吳郭魚;蔥,tilapia;scallion||green onion,good,滋養強身、穩定精神,195,吃對食物健康100分,N/A
+408,吳郭魚;豆腐,tilapia;tofu,good,減緩更年期不適,195,吃對食物健康100分,N/A
+409,吳郭魚;番茄,tilapia;tomato,good,促進生長、增強記憶,195,吃對食物健康100分,N/A
+410,吳郭魚;菠菜,tilapia;spinach,bad,破壞鈣質的吸收,195,吃對食物健康100分,N/A
+411,吳郭魚;葡萄,tilapia;grape,bad,降低蛋白質吸收,195,吃對食物健康100分,N/A
+412,石斑;花椰菜,grouper;broccoli,good,減緩更年期不適,196,吃對食物健康100分,N/A
+413,石斑;牛奶,grouper;milk,good,強化骨骼、有助發育,196,吃對食物健康100分,N/A
+414,石斑;木瓜,grouper;papaya,good,幫助蛋白質吸收,196,吃對食物健康100分,N/A
+415,石斑;柿子,grouper;persimmon,bad,降低蛋白質吸收,196,吃對食物健康100分,N/A
+416,鱔魚;蓮藕,asian swamp eel;lotus root,good,達到酸鹼平衡,197,吃對食物健康100分,N/A
+417,鱔魚;豆腐,asian swamp eel;tofu,good,鈣質吸收加倍,197,吃對食物健康100分,N/A
+418,鱔魚;狗肉,asian swamp eel;dog,bad,引發熱性疾病,197,吃對食物健康100分,N/A
+419,鱔魚;菠菜,asian swamp eel;spinach,bad,易導致腹瀉,197,吃對食物健康100分,N/A
+420,螃蟹;蘆筍,crab;asparagus,good,強化骨骼及牙齒,199,吃對食物健康100分,N/A
+421,螃蟹;豆腐,crab;tofu,good,恢復體力、防止老化,199,吃對食物健康100分,N/A
+422,螃蟹;青椒,crab;green bell pepper,good,營養均衡、幫助消化,199,吃對食物健康100分,N/A
+423,螃蟹;茶葉,crab;tea leaf,bad,腸蠕動變慢、便秘,199,吃對食物健康100分,N/A
+424,螃蟹;牡蠣,crab;oyster,bad,造成血膽固醇升高,199,吃對食物健康100分,N/A
+425,蝦;南瓜,shrimp;pumpkin,good,預防黑斑及皺紋,202,吃對食物健康100分,N/A
+426,蝦;麵粉料理,shrimp;flour dish,good,消除疲勞、增強體力,202,吃對食物健康100分,N/A
+427,蝦;酪梨,shrimp;avocado,good,預防心血管疾病,202,吃對食物健康100分,N/A
+428,蝦;番茄,shrimp;tomato,good,提昇心臟、肝臟功能,202,吃對食物健康100分,N/A
+429,蝦;木瓜,shrimp;papaya,good,幫助蛋白質吸收,202,吃對食物健康100分,N/A
+430,蝦;柿子,shrimp;persimmon,bad,降低蛋白質吸收、刺激腸胃,202,吃對食物健康100分,N/A
+431,蝦;果汁,shrimp;juice,bad,造成腹漲和腹痛,202,吃對食物健康100分,N/A
+432,牡蠣;菠菜,oyster;spinach,good,減緩更年期不適,203,吃對食物健康100分,N/A
+433,牡蠣;牛奶,oyster;milk,good,強化骨骼、助發育,203,吃對食物健康100分,N/A
+434,牡蠣;蠶豆,oyster;broad bean,bad,降低鋅的吸收,203,吃對食物健康100分,N/A
+435,牡蠣;鹽,oyster;salt,bad,易攝取過量鈉,203,吃對食物健康100分,N/A
+436,蛤蜊;薑,clam;ginger root,good,退火解熱、殺菌,205,吃對食物健康100分,N/A
+437,蛤蜊;菠菜,clam;spinach,good,改善貧血、促進發育,205,吃對食物健康100分,N/A
+438,蛤蜊;胡蘿蔔,clam;carrot,good,保護眼睛、增進視力,205,吃對食物健康100分,N/A
+439,蛤蜊;牡蠣,clam;oyster,bad,破壞鐵的吸收,205,吃對食物健康100分,N/A
+440,魷魚;辣椒,squid;chili pepper,good,均衡營養、幫助消化,206,吃對食物健康100分,N/A
+441,魷魚;玉米,squid;corn,good,提昇維生素B6功效,206,吃對食物健康100分,N/A
+442,魷魚;茶,squid;tea,bad,降低蛋白質吸收,206,吃對食物健康100分,N/A
+443,魷魚;番茄醬,squid;ketchup,bad,加重腎臟負擔,206,吃對食物健康100分,N/A
+444,透柚;南瓜,pomelo;pumpkin,good,護眼、增進視力,207,吃對食物健康100分,N/A
+445,透柚;花椰菜,pomelo;broccoli,good,預防感冒、助消化,207,吃對食物健康100分,N/A
+446,透柚;酸性果汁,pomelo;acidic juice||sour juice,bad,破壞蛋白質吸收,207,吃對食物健康100分,N/A
+447,螺;胡蘿蔔,winkle fish;carrot,good,保護眼睛、增進視力,208,吃對食物健康100分,N/A
+448,螺;奶油,winkle fish;butter,good,促進鈣質吸收,208,吃對食物健康100分,N/A
+449,螺;橘子,winkle fish;mandarin orange||tangerine,bad,影響胃腸消化,208,吃對食物健康100分,N/A
+450,螺;蛤蜊,winkle fish;clam,bad,刺激腸胃、腹瀉,208,吃對食物健康100分,N/A
+451,九孔;花椰菜,variously coloured abalone;broccoli,good,美化皮膚,209,吃對食物健康100分,N/A
+452,九孔;牛奶,variously coloured abalone;milk,good,促進發育、減緩更年期不適,209,吃對食物健康100分,N/A
+453,九孔;橘子,variously coloured abalone;mandarin orange||tangerine,bad,易形成結石,209,吃對食物健康100分,N/A
+454,九孔;牡蠣,variously coloured abalone;oyster,bad,影響鐵質的吸收,209,吃對食物健康100分,N/A
+455,海參;羊肉,sea cucumber;lamb||mutton,good,強身健體、補充體力,210,吃對食物健康100分,N/A
+456,海參;木耳,sea cucumber;black fungus (wood ear),good,有益筋骨、排便,210,吃對食物健康100分,N/A
+457,海參;柿子,sea cucumber;persimmon,bad,腹痛、噁心、嘔吐,210,吃對食物健康100分,N/A
+458,海帶;鯛魚,kelp;snapper||sea bream,good,預防慢性病,211,吃對食物健康100分,N/A
+459,海帶;毛豆,kelp;edamame,good,改善便秘、降血壓,211,吃對食物健康100分,N/A
+460,海帶;茶,kelp;tea,bad,影響鐵、鈣的吸收,211,吃對食物健康100分,N/A
+461,海帶;菠菜,kelp;spinach,bad,易在體內形成結石,211,吃對食物健康100分,N/A
+462,紫菜;蜂蜜,nori;honey,good,有益呼吸道,212,吃對食物健康100分,N/A
+463,紫菜;烏賊,nori;cuttlefish||squid,good,美容、強化體質,212,吃對食物健康100分,N/A
+464,紫菜;柿子,nori;persimmon,bad,影響鈣質吸收,212,吃對食物健康100分,N/A
+465,紫菜;深色葉菜,nori;dark leafy vegetable,bad,易形成結石,212,吃對食物健康100分,N/A
+466,雞蛋;番茄,egg;tomato,good,健美抗癌老,216,吃對食物健康100分,N/A
+467,雞蛋;蔬菜,egg;vegetable,good,促進營養均衡,216,吃對食物健康100分,N/A
+468,雞蛋;絲瓜,egg;sponge gourd||loofah,good,解熱消毒、補血通乳,216,吃對食物健康100分,N/A
+469,雞蛋;大豆,egg;soybean||soy bean,good,蛋白營養加倍,216,吃對食物健康100分,N/A
+470,雞蛋;橘子,egg;mandarin orange||tangerine,bad,消化不良,216,吃對食物健康100分,N/A
+471,雞蛋;茶葉,egg;tea leaf,bad,影響營養素的吸收,216,吃對食物健康100分,N/A
+472,雞蛋;味精,egg;MSG,bad,影響雞蛋的原味,216,吃對食物健康100分,N/A
+473,鹹蛋;苦瓜,salted egg;bitter melon||bitter gourd,good,提昇鈣質吸收,217,吃對食物健康100分,N/A
+474,鹹蛋;節瓜,salted egg;jointed wax gourd||zucchini,good,消暑、鈣質加倍,217,吃對食物健康100分,N/A
+475,鹹蛋;蔥,salted egg;scallion||green onion,bad,易造成草酸鈣結石,217,吃對食物健康100分,N/A
+476,鹹蛋;碳酸飲料,salted egg;carbonated drink||carbonate drink,bad,影響鈣質吸收,217,吃對食物健康100分,N/A
+477,皮蛋;番茄,century egg||preserved egg||preserve egg;tomato,good,消暑止渴、改善小便黃,218,吃對食物健康100分,N/A
+478,皮蛋;青椒,century egg||preserved egg||preserve egg;green bell pepper,good,促進消化、養顏美容,218,吃對食物健康100分,N/A
+479,皮蛋;紅茶,century egg||preserved egg||preserve egg;black tea,bad,影響鐵質的吸收,218,吃對食物健康100分,N/A
+480,皮蛋;貝類,century egg||preserved egg||preserve egg;shellfish,bad,影響鐵質的吸收,218,吃對食物健康100分,N/A
+481,冰牛奶;蜂蜜,cold milk;honey,good,增強免疫力,219,吃對食物健康100分,N/A
+482,牛奶;木瓜,milk;papaya,good,美容護膚,219,吃對食物健康100分,N/A
+483,牛奶;韭菜,milk;garlic chive||chinese leek||chinese chive,bad,降低鈣質吸收,219,吃對食物健康100分,N/A
+484,牛奶;酸性果汁,milk;acidic juice||sour juice,bad,降低營養價值,219,吃對食物健康100分,N/A
+485,乳酪;柑橘類,cheese;citrus,good,有益鈣質吸收,220,吃對食物健康100分,N/A
+486,乳酪;鮭魚,cheese;salmon,good,強化骨骼及牙齒,220,吃對食物健康100分,N/A
+487,乳酪;深色葉菜,cheese;dark leafy vegetable,bad,易形成草酸性結石,220,吃對食物健康100分,N/A
+488,乳酪;羊肉,cheese;lamb||mutton,bad,口味功效皆不合,220,吃對食物健康100分,N/A
+489,優酪乳;綠茶粉,yogurt;green tea powder,good,保健效果加倍,221,吃對食物健康100分,N/A
+490,優酪乳;草莓,yogurt;strawberry,good,美化膚質、瘦身,221,吃對食物健康100分,N/A
+491,優酪乳;香腸,yogurt;sausage,bad,易產生致癌物質,221,吃對食物健康100分,N/A
+492,優酪乳;火腿,yogurt;ham,bad,易產生致癌物質,221,吃對食物健康100分,N/A
+493,優酪乳;深色葉菜,yogurt;dark leafy vegetable,bad,易形成結石,221,吃對食物健康100分,N/A
+494,豆腐;魚,tofu;fish,good,提高20倍鈣的吸收量,223,吃對食物健康100分,N/A
+495,豆腐;雞蛋,tofu;egg,good,增進蛋白質的吸收,223,吃對食物健康100分,N/A
+496,豆腐;海帶,tofu;kelp,good,維持甲狀腺功能,223,吃對食物健康100分,N/A
+497,豆腐;菠菜,tofu;spinach,bad,易形成草酸性結石,223,吃對食物健康100分,N/A
+498,豆腐;碳酸飲料,tofu;carbonated drink||carbonate drink,bad,降低鈣的吸收,223,吃對食物健康100分,N/A
+499,黃豆;糙米,soybean||soy bean;brown rice,good,營養均衡、功效加倍,224,吃對食物健康100分,N/A
+500,黃豆;雞蛋,soybean||soy bean;egg,good,蛋白質營養加倍,224,吃對食物健康100分,N/A
+501,黃豆;優酪乳,soybean||soy bean;yogurt,bad,影響鈣質吸收,224,吃對食物健康100分,N/A
+502,黃豆;豬肉,soybean||soy bean;pork,bad,降低營養素價值,224,吃對食物健康100分,N/A
+503,豆漿;酪梨,soy milk||soymilk;avocado,good,維生素B群加倍,225,吃對食物健康100分,N/A
+504,豆漿;白米,soy milk||soymilk;white rice,good,優質蛋白質加倍,225,吃對食物健康100分,N/A
+505,豆漿;生雞蛋,soy milk||soymilk;raw egg,bad,容易引發腸胃炎,225,吃對食物健康100分,N/A
+506,豆漿;紅糖,soy milk||soymilk;brown sugar,bad,降低營養價值,225,吃對食物健康100分,N/A
+507,紅豆;百合,azuki bean||adzuki bean;lily bulb||lily bud,good,補充氣血、健康加分,226,吃對食物健康100分,N/A
+508,紅豆;紫米,azuki bean||adzuki bean;black rice,good,婦女補血聖品,226,吃對食物健康100分,N/A
+509,紅豆;茶,azuki bean||adzuki bean;tea,bad,降低鐵質的吸收,226,吃對食物健康100分,N/A
+510,紅豆;羊肉,azuki bean||adzuki bean;lamb||mutton,bad,降低溫補功效,226,吃對食物健康100分,N/A
+511,綠豆;薏仁,mung bean||green gram;job's tear||pearl barley,good,維生素B1倍增,227,吃對食物健康100分,N/A
+512,綠豆;南瓜,mung bean||green gram;pumpkin,good,保健功效加分,227,吃對食物健康100分,N/A
+513,綠豆;魚,mung bean||green gram;fish,bad,破壞維生素B1吸收,227,吃對食物健康100分,N/A
+514,綠豆;羊肉,mung bean||green gram;lamb||mutton,bad,降低溫補功效,227,吃對食物健康100分,N/A
+515,花豆;地瓜,runner bean||kidney bean||pinto bean;sweet potato,good,維生素充足豐富,228,吃對食物健康100分,N/A
+516,花豆;紅豆,runner bean||kidney bean||pinto bean;azuki bean||adzuki bean,good,促進生長發育,228,吃對食物健康100分,N/A
+517,花豆;咖啡,runner bean||kidney bean||pinto bean;coffee,bad,破壞維生素B1的營養,228,吃對食物健康100分,N/A
+518,花豆;乳酪,runner bean||kidney bean||pinto bean;cheese,bad,造成鉀元素的流失,228,吃對食物健康100分,N/A
+519,蔥;豬肉,scallion||green onion;pork,good,增強體力、預防老年癡呆,231,吃對食物健康100分,N/A
+520,蔥;紅棗,scallion||green onion;jujube||red date||chinese date,good,維生素C的營養加倍,231,吃對食物健康100分,N/A
+521,蔥;毛豆,scallion||green onion;edamame,good,安定神經、改善失眠,231,吃對食物健康100分,N/A
+522,蔥;豆腐,scallion||green onion;tofu,bad,易形成草酸性結石,231,吃對食物健康100分,N/A
+523,蔥;蜂蜜,scallion||green onion;honey,bad,易造成腹瀉,231,吃對食物健康100分,N/A
+524,薑;醋,ginger root;vinegar,good,減緩噁心、嘔吐症狀,233,吃對食物健康100分,N/A
+525,薑;皮蛋,ginger root;century egg||preserved egg||preserve egg,good,延緩老化、保持青春,233,吃對食物健康100分,N/A
+526,薑;蟹,ginger root;crab,good,袪寒、殺菌、解毒,233,吃對食物健康100分,N/A
+527,薑;酒,ginger root;wine||liqueur,bad,容易造成火氣大,233,吃對食物健康100分,N/A
+528,薑;兔肉,ginger root;rabbit,bad,易導致腹瀉,233,吃對食物健康100分,N/A
+529,大蒜;花椰菜,garlic;broccoli,good,防癌效果加倍,235,吃對食物健康100分,N/A
+530,大蒜;豬肉,garlic;pork,good,增強體力、幫助腦部發育,235,吃對食物健康100分,N/A
+531,大蒜;小黃瓜,garlic;cucumber,good,瘦身養顏抗老化,235,吃對食物健康100分,N/A
+532,大蒜;芒果,garlic;mango,bad,對胃腸不適,235,吃對食物健康100分,N/A
+533,大蒜;羊肉,garlic;lamb||mutton,bad,易造成體內燥熱,235,吃對食物健康100分,N/A
+534,辣椒;烏賊,chili pepper;cuttlefish||squid,good,降低血壓及膽固醇,236,吃對食物健康100分,N/A
+535,辣椒;綠葉蔬菜,chili pepper;green leafy vegetable,good,預防癌症及動脈硬化,236,吃對食物健康100分,N/A
+536,辣椒;生胡蘿蔔,chili pepper;raw carrot,bad,破壞維生素C的營養,236,吃對食物健康100分,N/A
+537,辣椒;豬肝,chili pepper;pork liver,bad,破壞維生素C的功效,236,吃對食物健康100分,N/A
+538,芥末油;西芹,mustard oil;celery,good,養顏美容、增加免疫系統,237,吃對食物健康100分,N/A
+539,芥末油;菠菜,mustard oil;spinach,good,促進食慾、改善貧血,237,吃對食物健康100分,N/A
+540,芥末;雞肉,mustard||wasabi||horseradish;chicken,bad,火氣大,237,吃對食物健康100分,N/A
+541,香菜;豆腐,parsley||coriander||cilantro;tofu,good,預防更年期障礙,238,吃對食物健康100分,N/A
+542,香菜;豬瘦肉,parsley||coriander||cilantro;lean pork,good,預防貧血、補充鐵質,238,吃對食物健康100分,N/A
+543,香菜;生黃瓜,parsley||coriander||cilantro;raw cucumber,bad,破壞維生素C的營養,238,吃對食物健康100分,N/A
+544,香菜;生胡蘿蔔,parsley||coriander||cilantro;raw carrot,bad,營養價值降低,238,吃對食物健康100分,N/A
+545,九層塔;蛋,basil;egg,good,改善經期不順,239,吃對食物健康100分,N/A
+546,九層塔;茄子,basil;eggplant,good,抗老化,239,吃對食物健康100分,N/A
+547,九層塔;香菜,basil;parsley||coriander||cilantro,bad,易造成黑色素沉,239,吃對食物健康100分,N/A
+548,九層塔;咖哩,basil;curry,bad,易造成早產,239,吃對食物健康100分,N/A
+549,咖哩;馬鈴薯,curry;potato,good,營養素均衡,241,吃對食物健康100分,N/A
+550,咖哩;洋蔥,curry;onion,good,調節血壓、祛寒,241,吃對食物健康100分,N/A
+551,咖哩;胡蘿蔔,curry;carrot,good,維生素A營養加倍,241,吃對食物健康100分,N/A
+552,咖哩;羊肉,curry;lamb||mutton,bad,容易火氣大、造成便秘,241,吃對食物健康100分,N/A
+553,黑胡椒;牛肉,black pepper;beef,good,增進食慾、祛寒補血,242,吃對食物健康100分,N/A
+554,胡椒;豬肝,pepper;pork liver,good,增強造血機能,242,吃對食物健康100分,N/A
+555,胡椒;酒,pepper;wine||liqueur,bad,引發腸胃道疾病,242,吃對食物健康100分,N/A
+556,胡椒;芥末,pepper;mustard||wasabi||horseradish,bad,刺激眼睛和消化道,242,吃對食物健康100分,N/A
+557,花椒;豆腐,bunge prickly ash||bunge pricklyash;tofu,good,解毒健胃、補充鈣質,243,吃對食物健康100分,N/A
+558,花椒;豬瘦肉,bunge prickly ash||bunge pricklyash;lean pork,good,去腥開胃、補充鐵質,243,吃對食物健康100分,N/A
+559,花椒;羊肉,bunge prickly ash||bunge pricklyash;lamb||mutton,bad,火氣大、便秘,243,吃對食物健康100分,N/A
+560,醋;骨頭湯,vinegar;bone broth,good,增加鈣質吸收,245,吃對食物健康100分,N/A
+561,醋;芝麻,vinegar;sesame seed,good,幫助鐵質鈣質吸收,245,吃對食物健康100分,N/A
+562,醋;酒,vinegar;wine||liqueur,bad,造成胃發炎,245,吃對食物健康100分,N/A
+563,醋;胡蘿蔔,vinegar;carrot,bad,破壞類胡蘿蔔素,245,吃對食物健康100分,N/A
+564,醋;綠色青菜,vinegar;green vegetable,bad,破壞青菜的營養價值,245,吃對食物健康100分,N/A
+565,黑糖;紅豆,brown sugar;azuki bean||adzuki bean,good,補充鐵質、預防貧血,246,吃對食物健康100分,N/A
+566,黑糖;龍眼乾,brown sugar;dry longan||dried longan,good,減緩月經不適,246,吃對食物健康100分,N/A
+567,黑糖;生蚵,brown sugar;raw clam,bad,影響維生素B1的吸收,246,吃對食物健康100分,N/A
+568,黑糖;咖啡,brown sugar;coffee,bad,破壞維生素B1的營養,246,吃對食物健康100分,N/A
+569,咖啡;巧克力,coffee;chocolate,good,心情愉快、撫慰憂慮,249,吃對食物健康100分,N/A
+570,咖啡;酒,coffee;wine||liqueur,bad,增加腦部傷害與心血管的負擔,249,吃對食物健康100分,N/A
+571,咖啡;菠菜,coffee;spinach,bad,使鐵質的吸收降低,249,吃對食物健康100分,N/A
+572,茶;芭樂,tea;guava,good,清除自由基,251,吃對食物健康100分,N/A
+573,茶;雞排,tea;chicken cutlet||chicken steak,bad,影響鐵質吸收,251,吃對食物健康100分,N/A
+574,茶;酒,tea;wine||liqueur,bad,快速酒醉、影響腎功能,251,吃對食物健康100分,N/A
+575,紅酒;牛排,red wine;steak,good,減少動脈硬化、去油膩,253,吃對食物健康100分,N/A
+576,紅酒;南瓜,red wine;pumpkin,good,抗氧化,253,吃對食物健康100分,N/A
+577,紅酒;花椰菜,red wine;broccoli,good,保護肝臟,253,吃對食物健康100分,N/A
+578,紅酒;純巧克力,red wine;raw chocolate,good,促進新陳代謝,253,吃對食物健康100分,N/A
+579,紅酒;芥末醬,red wine;mustard,bad,紅酒變無味,253,吃對食物健康100分,N/A
+580,啤酒;牛奶,beer;milk,good,緩和酒精的吸收,254,吃對食物健康100分,N/A
+581,啤酒;煙燻臘肉,beer;smoked bacon,bad,加重肝臟負擔,254,吃對食物健康100分,N/A
+582,啤酒;螃蟹,beer;crab,bad,容易引起腹瀉,254,吃對食物健康100分,N/A
+583,可樂;檸檬;薑,cola;lemon;ginger root,good,暖胃、驅風寒,255,吃對食物健康100分,N/A
+584,可樂;鹽;水,cola;salt;water,good,補充電解質,255,吃對食物健康100分,N/A
+585,可樂;烤肉,cola;barbeque||bbq,bad,提高致癌風險,255,吃對食物健康100分,N/A
+586,香腸;乳酸飲料,N/A,bad,產生致癌物，提高癌症罹患率,20,飲食宜忌速查輕圖典,N/A
+587,熱狗;香蕉,hot dog;banana,bad,產生致癌物，提高癌症罹患率,21,飲食宜忌速查輕圖典,N/A
+588,香腸;臘肉,N/A,bad,產生致癌物，提高癌症罹患率,22,飲食宜忌速查輕圖典,N/A
+589,肉類;濃茶,N/A,bad,阻礙蛋白質和鐵質的吸收,23,飲食宜忌速查輕圖典,N/A
+590,火腿;硬起司,ham;cheese,bad,產生致癌物，提高癌症罹患率,24,飲食宜忌速查輕圖典,N/A
+591,豬肝;韭菜,N/A,bad,不適合孕婦食，易造成流產或影響胎兒發育,25,飲食宜忌速查輕圖典,N/A
+592,豬肚;啤酒,N/A,bad,普林過高，容易引發痛風,26,飲食宜忌速查輕圖典,N/A
+593,豬肉;生醃蛤蜊,N/A,bad,阻礙維生素B1的吸收,27,飲食宜忌速查輕圖典,N/A
+594,羊肉;醋,lamb||mutton;vinegar,bad,阻礙蛋白質和吸收利用、易造成消化不良,28,飲食宜忌速查輕圖典,N/A
+595,菠菜;豆腐,spinach;tofu,bad,影響鈣質吸收、容易引起結石,29,飲食宜忌速查輕圖典,N/A
+596,竹筍;雞湯,bamboo shoot;chicken soup,bad,高普林，容易引起痛風,30,飲食宜忌速查輕圖典,N/A
+597,酒;胡蘿蔔,N/A,bad,影響肝臟代謝功能,31,飲食宜忌速查輕圖典,N/A
+598,香椿;雞蛋,N/A,bad,產生致癌物，提高罹患癌症的風險,32,飲食宜忌速查輕圖典,N/A
+599,醋;芋頭,N/A,bad,延長澱粉在胃中停留的時間，影響消化,33,飲食宜忌速查輕圖典,N/A
+600,蘆筍;干貝,asparagus;scallop,bad,皆為高普林食物，會提高引發通風的機率,34,飲食宜忌速查輕圖典,N/A
+601,空心菜;乳製品,N/A,bad,形成草酸鈣，易阻礙鈣質吸收或造成結石,35,飲食宜忌速查輕圖典,N/A
+602,紫甘藍;甜椒,N/A,bad,減低人類對維生素C的吸收利用,36,飲食宜忌速查輕圖典,N/A
+603,蘆薈;綠茶,N/A,bad,易造成孕婦流產，以及阻礙鐵質吸收,37,飲食宜忌速查輕圖典,N/A
+604,番茄;小黃瓜,tomato;cucumber,bad,降低維生素C的吸收利用,38,飲食宜忌速查輕圖典,N/A
+605,木耳;螺肉,N/A,bad,妨礙人體消化，對腸胃不好,39,飲食宜忌速查輕圖典,N/A
+606,苦瓜;豆鼓,N/A,bad,為高鈉的飲食，不適合高血壓患者食用,40,飲食宜忌速查輕圖典,N/A
+607,牛奶;韭菜,N/A,bad,形成草酸鈣，易阻礙鈣質吸收或造成結石,41,飲食宜忌速查輕圖典,N/A
+608,芹菜;魷魚,N/A,bad,產生致癌物，提高癌症罹患率,42,飲食宜忌速查輕圖典,N/A
+609,牛奶;草莓,milk;strawberry,bad,形成草酸鈣，易阻礙鈣質吸收,43,飲食宜忌速查輕圖典,N/A
+610,牛奶;奇異果,milk;kiwi,bad,容易產生凝結塊，也容易造成腹瀉,44,飲食宜忌速查輕圖典,N/A
+611,頻果;茶,apple;tea,bad,造成維生素流失，並降低人類對鐵質的吸收利用,45,飲食宜忌速查輕圖典,N/A
+612,橘子;蘿蔔,N/A,bad,會抑制人體對碘的吸收，影響甲狀腺功能,46,飲食宜忌速查輕圖典,N/A
+613,榴蓮;荔枝,N/A,bad,升糖指數過高，不適合血糖不穩者食用,47,飲食宜忌速查輕圖典,N/A
+614,奇異果;香蕉,kiwi;banana,bad,鉀含量過高，腎臟病患者不飲用；並有滑腸作用,48,飲食宜忌速查輕圖典,N/A
+615,楊桃;葡萄柚,N/A,bad,一起食用容易拉肚子；且含鉀量高，腎功能不佳者不宜食用,49,飲食宜忌速查輕圖典,N/A
+616,螃蟹;柿子,N/A,bad,易凝結成塊，不利於腸胃的吸收利用,50,飲食宜忌速查輕圖典,N/A
+617,秋刀魚;香腸,N/A,bad,產生致癌物，提高癌症罹患率,51,飲食宜忌速查輕圖典,N/A
+618,干貝;火腿,scallop;ham,bad,產生致癌物，提高癌症罹患率,52,飲食宜忌速查輕圖典,N/A
+619,酒;小魚乾,N/A,bad,高普林食物，不適合痛風患者食用,53,飲食宜忌速查輕圖典,N/A
+620,海帶;茶,kelp;tea,bad,會抑制人體對鐵質的吸收、利用,54,飲食宜忌速查輕圖典,DUP
+621,糙米;綠豆,brown rice;green bean,bad,易產生螯合物，不利於人體腸胃吸收,55,飲食宜忌速查輕圖典,N/A
+622,豆漿;生雞蛋,soy milk||soymilk;raw egg,bad,阻礙人體對各類生物素的吸收利用，並有感染沙門氏菌的危險,56,飲食宜忌速查輕圖典,DUP
+623,優酪乳;火腿,yogurt;ham,bad,易產生致癌物，提高癌症罹患率,57,飲食宜忌速查輕圖典,DUP
+624,蛋;茶葉,egg;tea leaf,bad,會影響人體對蛋白質及鐵質的吸收,58,飲食宜忌速查輕圖典,DUP
+625,牛奶;巧克力,milk;chocolate,bad,易產生草酸鈣，不利於人體對鈣質的吸收利用,59,飲食宜忌速查輕圖典,N/A
+626,花生;牡蠣,peanut;oyster,bad,減弱人體對維生素B1的吸收利用率,60,飲食宜忌速查輕圖典,N/A
+627,可樂;豆腐,cola;tofu,bad,易結合成草酸鈣，不利於人體吸收利用,61,飲食宜忌速查輕圖典,N/A
+628,乳酪;咖啡,N/A,bad,易結合成草酸鈣，不利於人體吸收利用,62,飲食宜忌速查輕圖典,N/A
+629,牛奶;紅豆,milk;red bean,bad,鐵、鈣會產生拮抗作用，降低鐵質的吸收利用率,63,飲食宜忌速查輕圖典,N/A
+630,紅豆;薏仁,N/A,bad,易結合成不利胃腸吸收的螯合物：且容易引發流產風險,64,飲食宜忌速查輕圖典,N/A
+631,蓮子;花生,N/A,bad,鉀含量過高，不適合腎功能不好者食用,65,飲食宜忌速查輕圖典,N/A
+632,紫米;茶,N/A,bad,阻礙人體對鐵質的吸收、利用,66,飲食宜忌速查輕圖典,N/A
+633,糙米;紫甘藍,N/A,bad,不利於人體對維生素B1的吸收利用,67,飲食宜忌速查輕圖典,N/A
+634,桑椹;韭菜,N/A,bad,容易消化不良，造成腹痛、下痢,68,飲食宜忌速查輕圖典,N/A
+635,蘿蔔;胡蘿蔔,N/A,bad,消減了白蘿蔔和胡蘿蔔原有的營食價值,69,飲食宜忌速查輕圖典,N/A
+636,紅棗;蔥,N/A,bad,容易導致脹氣使身體不適,71,飲食宜忌速查輕圖典,N/A
+637,醋;茯苓,N/A,bad,兩者同食，相互抵消藥性,75,飲食宜忌速查輕圖典,N/A
+638,烏梅;豬肉,N/A,bad,藥性相忌，一起食用容易拉肚子,77,飲食宜忌速查輕圖典,N/A
+639,蜂蜜;蔥,N/A,bad,蜂蜜和蔥容易發脹，同食易造成脹氣,81,飲食宜忌速查輕圖典,N/A
+640,山藥;鯽魚,N/A,bad,一起料理不利於人，會影響山藥營養素的吸收,83,飲食宜忌速查輕圖典,N/A
+641,豬肉;牛肉,pork;beef,bad,豬肉滋膩陰寒，而牛肉安中益氣，兩者有所抵觸，不宜同食,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+642,豬肉;豆類,N/A,bad,豬肉與豆類同食易引起脹氣和氣滯,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+643,豬肉;香菜,N/A,bad,香菜耗氣傷神，豬肉滋膩助濕熱，不宜配食,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+644,豬肉;魚頭,N/A,good,健脾止瀉、滋補保健,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+645,豬肉;白菜,N/A,good,滋陰潤燥,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+646,豬肉;竹筍,pork;bamboo shoot,good,清熱化痰、益氣止咳,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+647,豬肉;木耳,N/A,good,降低心血管疾病的發病率,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+648,豬肉;海帶,pork;kelp,good,祛濕、止癢,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+649,豬肉;白蘿蔔,pork;white radish,good,可收健脾潤膚、健胃消食、化痰順氣的效果,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+650,豬肉;茄子,pork;eggplant,good,增加血管彈性,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+651,豬肉;山楂,N/A,good,可以使用燉得酥爛，更利於消化吸收,90,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+652,牛肉;韭菜,N/A,bad,易引起氣血不順、發熱動火,92,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+653,牛肉;紅糖,N/A,bad,易引起脹氣,92,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+654,牛肉;紅蘿蔔,beef;carrot,good,活血明目、抗衰老。可預防貧血、活化大腦思緒,92,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+655,牛肉;芹菜,N/A,good,健脾、利尿、降壓,92,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+656,牛肉;蠶豆,N/A,good,健脾利濕、補虛強體，防治營養性水腫,92,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+657,牛肉;木耳,N/A,good,補脾胃、氣血雙補,92,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+658,羊肉;南瓜,lamb||mutton;pumpkin,bad,易引發黃疸和腳氣病,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+659,羊肉;茶,lamb||mutton;tea,bad,生成鞣酸蛋白質，易致便秘,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+660,羊肉;西瓜,lamb||mutton;watermelon,bad,一熱一寒，對腸胃不利,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+661,羊肉;醋,lamb||mutton;vinegar,bad,酸味的醋有收斂利用，不利體內陽氣生發，同吃會讓羊肉的溫補作用打折扣,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+662,羊肉;梨,N/A,bad,阻礙消化、易致腹脹,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+663,羊肉;白米,lamb||mutton;white rice,good,補虛損、益氣血,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+664,羊肉;山藥,N/A,good,補虛益氣、暖胃壯陽,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+665,羊肉;香菜,N/A,good,固腎壯陽、開胃健力,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+666,羊肉;杏仁,N/A,good,溫補肺氣、止咳,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+667,羊肉;雞蛋,lamb||mutton;egg,good,增強滋補功效，營養價值相乘更高,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+668,羊肉;白蘿蔔,lamb||mutton;white radish,good,補虛、清熱、消痰,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+669,羊肉;當歸,N/A,good,增強羊肉補虛養血的功效,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+670,羊肉;米酒,N/A,good,溫中散寒功效更強,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+671,羊肉;薑,lamb||mutton;ginger root,good,溫中散寒功效更強,94,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+672,雞肉;芹菜,N/A,bad,同食傷元氣。可能導致身體免疫力降低，因而引起多種疾病,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+673,雞肉;李子,N/A,bad,李子性熱、雞肉溫補，同食對健康不利，且會拉肚子，可能引起痢疾,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+674,雞肉;芥末,N/A,bad,芥末屬熱性，與溫補的雞同吃恐助火熱，有損健康,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+675,雞肉;鯉魚,N/A,bad,雞肉甘溫、鯉魚甘平。雞肉補中助陽，鯉魚下氣利水，兩者功能相背,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+676,雞肉;洋蔥,N/A,good,同食可活血降脂。可改善血液循環，有促進腸道蠕動、代謝作用,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+677,雞肉;冬瓜,N/A,good,補中益氣、消腫輕身,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+678,雞肉;栗子,N/A,good,雞肉造血療虛，栗子健脾，二者共煮營養價值更高,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+679,雞肉;花椰菜,chicken;brocoli,good,可增強肝臟解毒功能、提高免疫力、預防感冒,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+680,雞肉;木耳,N/A,good,補血和血、健美養顏,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+681,雞肉;紅豆,chicken;red bean,good,兩者同食，動物性蛋白質和植物性蛋白質相搭配，可提高蛋白質利用率，提高營養價值,96,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+682,烏骨雞;莧菜,N/A,bad,導致營養流失,98,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+683,烏骨雞;黃豆,N/A,bad,影響蛋白質、鐵、鋅的吸收,98,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+684,烏骨雞;紅豆,N/A,good,補血養顏、強身健體,98,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+685,烏骨雞;紅棗,N/A,good,補血養顏,98,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+686,烏骨雞;枸杞,N/A,good,補虛養身,98,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+687,烏骨雞;蓮子,N/A,good,補血養心,98,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+688,鴨肉;甲魚,N/A,bad,皆涼性，多食易腹瀉,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+689,鴨肉;大蒜,N/A,bad,易造成滯氣（腹內產生氣體）,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+690,鴨肉;山楂,N/A,bad,兩者均屬寒涼性，不宜同食,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+691,鴨肉;白米,duck;white rice,good,補益脾胃，利尿消腫,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+692,鴨肉;糯米,N/A,good,能養胃、補血、生津,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+693,鴨肉;海帶,N/A,good,能夠軟化血管、降血壓,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+694,鴨肉;竹筍,duck;bamboo shoot,good,改善燥氣，可改善痔瘡出血,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+695,鴨肉;蓮藕,N/A,good,有清熱解暑的功效,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+696,鴨肉;山藥,N/A,good,健脾養胃、固腎、滋陰補肺,99,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+697,鵝肉;魚鰾,N/A,good,補氣養陰、補腎益智,100,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+698,鵝肉;青花菜,N/A,good,降低人體對膽固醇的吸收,100,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+699,鵝肉;白蘿蔔,N/A,good,利肺氣，止咳化痰,100,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+700,鵝肉;竹笙,N/A,good,益氣補虛、養陰潤肺、生津止渴,100,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+701,鵪鶉蛋;紫菜,N/A,good,補腎養血、降血壓，適合肝腎陰虛型高血壓患者食用,101,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+702,鵪鶉蛋;木耳,N/A,good,營養更豐富，適合補虛,101,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+703,鵪鶉蛋;香菇,quail egg;mushroom,good,營養更豐富，適合補虛,101,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+704,鵪鶉蛋;紅棗,N/A,good,補腎、壯陽,101,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+705,鵪鶉蛋;黑棗,N/A,good,補腎、壯陽,101,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+706,鵪鶉蛋;牛奶,quail egg;milk,good,利於營養吸收,101,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+707,雞蛋;地瓜,N/A,bad,不易消化，加重腸胃負擔，易造成腹痛,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+708,雞蛋;茶,egg;tea,bad,刺激腸胃，不利於消化吸收,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+709,雞蛋;豆漿,egg;soymilk||soy milk,bad,抑制蛋白質消化吸收,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+710,雞蛋;牛肉,egg;beef,good,滋補營養，抗衰老,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+711,雞蛋;菠菜,egg;spinach,good,預防貧血,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+712,雞蛋;苦瓜,N/A,good,利於牙齒、骨骼和血管健康,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+713,雞蛋;百合,N/A,good,滋陰潤燥,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+714,雞蛋;羊肉,egg;lamb||mutton,good,提高滋補功效,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+715,雞蛋;韭菜,N/A,good,補腎、行氣、止痛,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+716,雞蛋;金針菇,N/A,good,健腦益智效果更強,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+717,雞蛋;白糖,N/A,good,滋陰清熱、護肝明目,102,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+718,豆腐;菠菜,tofu;spinach,bad,會生成不溶性的草酸鈣，影響鈣質吸收,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+719,豆腐;蔥,N/A,bad,蔥中含草酸，會生成草酸鈣，破壞了豆腐對人體的營養作用,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+720,豆腐;蜂蜜,tofu;honey,bad,容易發生腹瀉,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+721,豆腐;牛奶,tofu;milk,bad,降低營養價值,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+722,豆腐;豬肉,tofu;pork,good,提高營養價值,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+723,豆腐;蝦,tofu;shrimp,good,降壓降脂，促進消化吸收,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+724,豆腐;魚,tofu;fish,good,促進營養吸收並可提高營養價值,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+725,豆腐;海帶,N/A,good,可降低膽固醇，維持碘平衡,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+726,豆腐;白蘿蔔,tofu;white radish,good,提高營養價值，促進營養吸收,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+727,豆腐;香菇,tofu;mushroom,good,能抗癌及降壓降脂,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+728,豆腐;洋菇,N/A,good,能滋陰、益氣、化痰,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+729,豆腐;金針菇,N/A,good,強體、益智,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+730,豆腐;木耳,N/A,good,可以益氣養胃,104,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+731,動物肝臟;花菜,N/A,bad,降低營養素的吸收,106,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+732,動物肝臟;辣椒,N/A,bad,肝中的銅、鐵會合辣椒的維生素C發生反應，使營養素流失,106,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+733,動物肝臟;菠菜,N/A,good,補血，可防治貧血,106,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+734,動物肝臟;蔥,N/A,good,可促進營養吸收,106,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+735,動物肝臟;枸杞,N/A,good,滋補肝腎、明目益精,106,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+736,動物血;菠菜,N/A,good,養血護肝,107,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+737,動物血;蒜苗,N/A,good,補血養血、利腸通便,107,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+738,鯉魚;豬肉,N/A,bad,可能會食物中毒，不利健康,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+739,鯉魚;豬肝,N/A,bad,有刺激作用因而會影響消化,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+740,鯉魚;雞肉,N/A,bad,雞肉補中助陽而鯉魚下氣利水，性味不反但功能相背,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+741,鯉魚;山藥,N/A,bad,同吃可能引起腹痛、噁心、嘔吐等症狀,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+742,鯉魚;綠豆,N/A,bad,容易引起腹瀉,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+743,鯉魚;南瓜,N/A,bad,容易引起腹瀉,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+744,鯉魚;蜂蜜,N/A,bad,易中毒,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+745,鯉魚;白米,N/A,good,防治妊娠水腫和產後少乳,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+746,鯉魚;豆腐,N/A,good,提高營養素的吸收率,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+747,鯉魚;紅棗,N/A,good,滋補暖胃、強心補血,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+748,鯉魚;香菇,N/A,good,搭配食用營養互補，有利於營養的吸收,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+749,鯉魚;花生,N/A,good,搭配食用營養互補，有利於營養的吸收,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+750,鯉魚;紅豆,N/A,good,利水消腫，通乳,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+751,鯉魚;醋,N/A,good,利水消腫，促進營養吸收,108,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+752,草魚;豆腐,N/A,good,蛋白質互補，營養吸收更好,110,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+753,草魚;菊花,N/A,good,平肝明目,110,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+754,鯽魚;豬肝,N/A,bad,易導致肝瘀氣滯,111,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+755,鯽魚;芥菜,N/A,bad,易發生水腫,111,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+756,鯽魚;白蘿蔔,N/A,good,不僅味道鮮美，而且可袪病益壽,111,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+757,鯽魚;豆芽,N/A,good,利水消腫、通乳,111,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+758,鯽魚;豆腐,N/A,good,清心潤肺、健脾益胃，最適合秋燥季節食用,111,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+759,鯽魚;木瓜,N/A,good,清心潤肺,111,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+760,鱔魚;菠菜,N/A,bad,易致腹瀉,112,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+761,鱔魚;葡萄,N/A,bad,易形成難以消化物質，影響吸收,112,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+762,鱔魚;韭黃,N/A,good,溫補肝腎、明目提神,112,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+763,鱔魚;青椒,N/A,good,開胃、降糖,112,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+764,鱔魚;金針菇,N/A,good,健腦益智、安神,112,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+765,鱔魚;木瓜,N/A,good,補腎虛、強筋骨,112,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+766,鱸魚;蛤蜊,sea bass||seabass||perch||pike||walleye;clam,bad,可能造成鋅攝入過量，使銅鐵流失,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+767,鱸魚;乳酪,sea bass||seabass||perch||pike||walleye;cheese,bad,易引起消化不良，導致腹瀉,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+768,鱸魚;蘆筍,sea bass||seabass||perch||pike||walleye;asparagus,good,清熱袪濕、利尿消腫,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+769,鱸魚;薑,sea bass||seabass||perch||pike||walleye;ginger root,good,助消化，可治兒童消化不良,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+770,鱸魚;蔥,N/A,good,助消化，可治兒童消化不良,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+771,鱸魚;南瓜,sea bass||seabass||perch||pike||walleye;pumpkin,good,可預防感冒,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+772,鱸魚;陳皮,N/A,good,對脾虛泄瀉、慢性胃病有益,113,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+773,白帶魚;南瓜,N/A,bad,易致中毒,114,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+774,白帶魚;石榴,N/A,bad,易形成不易消化的物質，致腹痛噁心嘔吐,114,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+775,白帶魚;苦瓜,N/A,good,保肝、降脂,114,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+776,白帶魚;木瓜,N/A,good,養陰、補虛、通乳,114,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+777,魷魚;茶葉,squid;tea leaf,bad,影響人體對蛋白質的吸收,115,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+778,魷魚;番茄醬,squid;ketchup,bad,加重腎臟負擔,115,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+779,魷魚;啤酒,squid;beer,bad,可能引發痛風,115,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+780,魷魚;葡萄,squid;grape,bad,易引發嘔吐,115,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+781,魷魚;白蘿蔔,squid;white radish,good,具有醒酒、提神的作用,115,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+782,魷魚;青椒,N/A,good,營養均衡、幫助消化,115,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+783,蝦;黃豆,N/A,bad,易引起消化不良,116,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+784,蝦;柿子,shrimp;persimmon,bad,同食易產生結石,116,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+785,蝦;果汁,shrimp;juice,bad,同食易導致腹瀉,116,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+786,蝦;油菜,N/A,good,補益肝腎、清熱消腫,116,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+787,蝦;青花菜,N/A,good,補脾和胃、補腎固精,116,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+788,蝦;豆腐,shrimp;tofu,good,益氣生津、消腫,116,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+789,海帶;豬血,N/A,bad,兩者同食易導致便秘,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+790,海帶;柿子,kelp;persimmon,bad,易生成不溶物，引起胃腸道不適,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+791,海帶;白酒,kelp;white wine,bad,易導致消化不良,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+792,海帶;排骨,N/A,good,潤澤肌膚、祛濕止癢,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+793,海帶;冬瓜,N/A,good,可利尿、降脂、益氣,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+794,海帶;蝦,N/A,good,補鈣補碘，促進營養吸收,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+795,海帶;豆腐,N/A,good,補鈣補碘，促進營養吸收,117,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+796,甲魚;豬肉,N/A,bad,助寒，不利於健康,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+797,甲魚;雞蛋,N/A,bad,同食會導致蛋白質變性,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+798,甲魚;橘子,N/A,bad,影響蛋白質吸收,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+799,甲魚;柿餅,N/A,bad,柿子性涼且澀，易導致消化不良,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+800,甲魚;羊肉,N/A,good,滋陰養血、補腎壯陽,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+801,甲魚;鴿肉,N/A,good,滋陰補腎、益髓填精,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+802,甲魚;山藥,N/A,good,滋養肝腎、補益脾胃,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+803,甲魚;烏骨雞,N/A,good,促進營養吸收,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+804,甲魚;冬瓜,N/A,good,利濕、明目,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+805,甲魚;枸杞,N/A,good,補腎強精、延年益壽,118,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+806,菠菜;鱔魚,N/A,bad,二者性味功能大不相協，同食易導致腹瀉,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+807,菠菜;鈣豐富食物,spinach;food with copious calcium,bad,菠菜含大量草酸，會影響鈣質的吸收甚至引起結石,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+808,菠菜;蝦米,N/A,bad,菠菜含大量草酸，會影響鈣質的吸收甚至引起結石,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+809,菠菜;豆腐,spinach;tofu,bad,菠菜含大量草酸，會影響鈣質的吸收甚至引起結石,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+810,菠菜;海帶,spinach;kelp,bad,菠菜含大量草酸，會影響鈣質的吸收甚至引起結石,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP;DIFF
+811,菠菜;韭菜,N/A,bad,同食有滑腸作用。容易引起腹瀉,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+812,菠菜;黃瓜,N/A,bad,菠菜中的維生素C會被黃瓜中的分解酶破壞,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+813,菠菜;乳酪,spinach;cheese,bad,乳酪所含的化學成分可能會影響人體對菠菜營養的吸收,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+814,菠菜;牛奶,spinach;milk,bad,容易生成草酸鈣，不利吸收,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+815,菠菜;豬肝,N/A,good,豬肝富含造血原料，菠菜含較多的草酸和鐵，同食可防老年貧血,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+816,菠菜;雞蛋,spinach;egg,good,滋陰補血,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+817,菠菜;鴨血,N/A,good,鴨血生血、養肝，同食可補充多種維生素和微量元素，適合慢性肝病者,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+818,菠菜;紅蘿蔔,spinach;carrot,good,同食有明目護眼的作用,120,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+819,茼蒿;涼性水果,N/A,bad,可引起腸胃不適、腹瀉、腹痛現象,122,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+820,茼蒿;香菇,N/A,good,平補肝腎、寬中理氣,122,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+821,茼蒿;肉類,N/A,good,有助於人類對維生素A的吸收利用,122,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+822,茼蒿;蛋類,N/A,good,有助於人類對維生素A的吸收利用,122,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+823,茼蒿;豬肝,N/A,good,能收補益肝腎、補腦益智、強健身體之效,122,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+824,茼蒿;大蒜,N/A,good,開胃健脾、降壓補腦,122,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+825,油菜;紅蘿蔔,N/A,bad,紅蘿蔔中含有的維生素C分解酶，會破壞油菜中的維生素C,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+826,油菜;南瓜,N/A,bad,南瓜中含有的維生素C分解酶，會破壞油菜中的維生素C,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+827,油菜;竹筍,N/A,bad,竹筍中的活性物質會破壞油菜中的維生素C,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+828,油菜;香菇,N/A,good,可以抗衰老、潤膚,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+829,油菜;洋菇,N/A,good,可以抗衰老、潤膚,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+830,油菜;雞肉,N/A,good,兩者同食溫中益氣、強身健體、健脾活血,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+831,油菜;蝦仁,N/A,good,同食可促進鈣質吸收,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+832,油菜;豆腐,N/A,good,同食有止咳平喘作用,123,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+833,韭菜;牛肉,N/A,bad,同食易發熱動火，引起牙齦腫痛口瘡,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+834,韭菜;菠菜,N/A,bad,會有滑腸作用，易引起腹瀉,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+835,韭菜;牛奶,N/A,bad,影響鈣質的吸收,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+836,韭菜;蜂蜜,N/A,bad,韭菜富含膳食纖維，蜂蜜潤腸通便，同食易引起腹瀉,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+837,韭菜;白酒,N/A,bad,《本草綱目》記載：「韭不可與酒同食」。因二者均性溫熱，同食易上火,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+838,韭菜;肉類,N/A,good,殺菌、助消化，並能促進營養吸收,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+839,韭菜;蝦,N/A,good,補腎壯陽、益精,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+840,韭菜;鯽魚,N/A,good,潤腸止瀉,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+841,韭菜;豆芽,N/A,good,可加速體內脂肪的代謝，補虛通便減、減肥,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+842,韭菜;洋菇,N/A,good,有通便解毒的食療功效，還能提高人體免疫力,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+843,韭菜;雞蛋,N/A,good,同食能補益身體，尤利於胃病患者和腎病患者,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+844,韭菜;豆腐,N/A,good,同食能提高豆製品中蛋白質的利用率,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+845,韭菜;豆干,N/A,good,同食能提高豆製品中蛋白質的利用率,124,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+846,萵苣;豬肝,N/A,bad,破壞人體對維生素C的吸收,126,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+847,萵苣;醋,N/A,bad,醋會破壞萵苣的營養素,126,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+848,萵苣;大蒜,N/A,good,清熱、解毒，增強抗病毒能力,126,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+849,萵苣;豆腐,N/A,good,排毒養顏,126,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+850,空心菜;鴨掌,N/A,good,清熱解毒、利尿,127,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+851,空心菜;青椒,N/A,good,可降低血壓、止痛消炎,127,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+852,芹菜;蟹,N/A,bad,破壞維生素B1,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+853,芹菜;蜆,N/A,bad,破壞維生素B1,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+854,芹菜;蛤,N/A,bad,破壞維生素B1,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+855,芹菜;毛蚶,N/A,bad,破壞維生素B1,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+856,芹菜;甲魚,N/A,bad,同食易造成中毒,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+857,芹菜;雞肉,N/A,bad,同食易損傷元氣,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+858,芹菜;黃瓜,N/A,bad,芹菜中的維生素C會被分解破壞,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+859,芹菜;菊花,N/A,bad,同食易引起嘔吐,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+860,芹菜;西瓜,N/A,good,西瓜除水腫，芹菜舒緩焦慮，同食可降血壓,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+861,芹菜;百合,N/A,good,芹菜清胃祛風，百合潤肺清心，同食有安神的食療功效,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+862,芹菜;牛肉,N/A,good,健脾利尿、降壓,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+863,芹菜;蝦米,N/A,good,滋補潤腸,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+864,芹菜;番茄,N/A,good,健胃消食、降血壓,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+865,芹菜;核桃,N/A,good,明目養血、潤發,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+866,芹菜;花生,N/A,good,清肝降壓、潤肺止血,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+867,芹菜;醋,N/A,good,補腎固齒,128,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+868,莧菜;甲魚,N/A,bad,同食難以消化，易腹瀉,130,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+869,莧菜;鴨梨,N/A,bad,同食易發生嘔吐、腹瀉,130,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+870,莧菜;白米,N/A,good,熬粥食用可清熱止痢,130,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+871,莧菜;豬肝,N/A,good,防治貧血、增強免疫能力,130,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+872,莧菜;雞蛋,N/A,good,滋陰潤燥、清熱解毒,130,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+873,莧菜;大蒜,N/A,good,涼拌食用可開胃助食,130,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+874,高麗菜;豬肉,cabbage;pork,good,均含有豐富的菸鹹酸，有利於生長發育,131,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+875,高麗菜;蝦肉,N/A,good,同食，可提高人體免疫力,131,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+876,高麗菜;海帶,cabbage;kelp,good,同食，有利於補充碘,131,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+877,白菜;豬肝,N/A,bad,白菜維生素C含量豐富，豬肝含有較多的銅、鐵、鋅等金屬微量元素。維生素C遇到金屬離子，會加速氧化，金屬微量元素也會遭到破壞,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+878,白菜;黃瓜,N/A,bad,黃瓜含維生素C分解酶，會使白菜中的維生素C遭破壞,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+879,白菜;牛肉,N/A,good,白菜中的維生素C易與肉中的蛋白質結合，有助於合成膠原蛋白，能美白、消除疲勞,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+880,白菜;蝦仁,N/A,good,蝦仁含高蛋白和鈣，白菜的維生素C豐富，同食可預防便秘、牙齦出血和壞血症,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+881,白菜;鯉魚,N/A,good,提供豐富蛋白質、碳水化合物、維生素C，對水腫有輔助治療作用,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+882,白菜;排骨,N/A,good,清熱除煩，通利胃腸,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+883,白菜;白蘿蔔,N/A,good,解渴利尿、幫助消化,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+884,白菜;豆腐,N/A,good,二者均性涼，同食能去火,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+885,白菜;牛奶,N/A,good,補益虛損、清潤肺胃,132,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+886,花菜;豬肝,N/A,bad,降低人體對維生素C的吸收,134,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+887,花菜;黃瓜,N/A,bad,黃瓜中的維生素C分解酶會破壞花菜中的維生素C,134,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+888,花菜;蝦,N/A,good,營養更加豐富，適合兒童發育成長食用,134,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+889,花菜;香菇,N/A,good,通利腸胃、強筋壯骨、降血脂,134,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+890,地瓜;蟹,N/A,bad,容易引起腹痛、腹瀉,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+891,地瓜;雞蛋,N/A,bad,容易引起腹痛,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+892,地瓜;番茄,N/A,bad,容易形成結石,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+893,地瓜;香蕉,N/A,bad,易引發身體不適,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+894,地瓜;柿子,N/A,bad,容易導致胃結石,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+895,地瓜;豆漿,N/A,bad,會影響消化吸收,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+896,地瓜;排骨,N/A,good,提供充足的膳食纖維,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+897,地瓜;肉類,N/A,good,降脂減肥,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+898,地瓜;蓮子,N/A,good,潤腸通便、美容,135,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+899,紅蘿蔔;辣椒,N/A,bad,辣椒含豐富維生素C，會被紅蘿蔔中的維生素C分解酶破壞,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+900,紅蘿蔔;番茄,carrot;tomato,bad,番茄含豐富維生素C，會被紅蘿蔔中的維生素C分解酶破壞,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+901,紅蘿蔔;醋,carrot;vinegar,bad,會破壞維生素A,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+902,紅蘿蔔;白酒,carrot;white wine,bad,可能產生毒素，容易引發肺病,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+903,紅蘿蔔;牛肉,carrot;beef,good,益氣養血、健脾補胃,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+904,紅蘿蔔;羊肉,carrot;lamb,good,溫補脾胃、益腎助陽,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+905,紅蘿蔔;香菜,N/A,good,健脾補虛、去脂強身,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+906,紅蘿蔔;黃豆,carrot;soybean||soy bean,good,利於骨骼發育,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+907,紅蘿蔔;豬肝,N/A,good,養肝明目、補血,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+908,紅蘿蔔;菠菜,carrot;spinach,good,防膽固醇沉積,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+909,紅蘿蔔;豆芽,N/A,good,清熱袪濕,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+910,紅蘿蔔;白糖,N/A,good,健胃消食,136,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+911,馬鈴薯;石榴,N/A,bad,同食易腹瀉,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+912,馬鈴薯;香蕉,potato;banana,bad,同食易生雀斑,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+913,馬鈴薯;柿子,N/A,bad,難以消化，易形成胃結石,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+914,馬鈴薯;牛肉,potato;beef,good,能起到保護胃黏膜的作用,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+915,馬鈴薯;芹菜,N/A,good,健脾除濕，有助於降壓,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+916,馬鈴薯;扁豆,N/A,good,調理消化系統，消除胸悶脹滿，利腸胃,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+917,馬鈴薯;南瓜,potato;pumpkin,good,補氣益血、健脾強腎,138,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+918,山藥;油菜,N/A,bad,山藥補氣，油菜破氣,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+919,山藥;紅蘿蔔,N/A,bad,紅蘿蔔的分解酶會破壞山藥的維生素C，損失營養,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+920,山藥;鳳梨,N/A,bad,同食有礙腸胃健康,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+921,山藥;排骨,N/A,good,養胃，提供鈣質,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+922,山藥;羊肉,N/A,good,補血養顏,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+923,山藥;鴨肉,N/A,good,消除油膩，滋陰補肺,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+924,山藥;鰻魚,N/A,good,補中益氣、溫腎止瀉,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+925,山藥;芝麻,N/A,good,可以補鈣,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+926,山藥;蜂蜜,N/A,good,健脾補腎、抗衰老,139,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+927,白蘿蔔;紅蘿蔔,white radish;carrot,bad,會破壞維生素C,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+928,白蘿蔔;梨,N/A,bad,可能誘發甲狀腺腫大,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+929,白蘿蔔;人參,N/A,bad,使人參補氣效果降低,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+930,白蘿蔔;蜂蜜,white radish;honey,bad,易引起腹瀉,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+931,白蘿蔔;白米,white radish;white rice,good,止咳化痰、消食利膈,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+932,白蘿蔔;牛肉,white radish;beef,good,利五臟、補氣血,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+933,白蘿蔔;羊肉,white radish;lamb,good,溫中開胃，解油膩，營養互補,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+934,白蘿蔔;豬肉,white radish;pork,good,可順氣、消食、化痰,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+935,白蘿蔔;雞肉,white radish;chicken,good,益氣補血,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+936,白蘿蔔;蔥薑,N/A,good,可散寒、止咳、預防感冒,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+937,白蘿蔔;紫菜,N/A,good,清肺熱、止咳喘、化痰消腫,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+938,白蘿蔔;海帶,white radish;kelp,good,清肺熱、止咳喘、化痰消腫,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+939,白蘿蔔;金針菇,N/A,good,清肺化痰、健腦益智,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+940,白蘿蔔;豆腐,white radish;tofu,good,促進營養素吸收,140,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+941,洋蔥;海魚,N/A,bad,洋蔥會破壞海魚中的蛋白質，使之沉澱結石,142,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+942,洋蔥;蜂蜜,N/A,bad,同食易對眼睛造成傷害,142,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+943,洋蔥;排骨,N/A,good,降脂、殺菌、抗癌、抗衰老,142,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+944,洋蔥;牛肉,N/A,good,有益氣增力、降壓降脂，化痰的食療功效,142,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+945,洋蔥;豬瘦肉,N/A,good,可輔助降血脂、血糖,142,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+946,洋蔥;大蒜,N/A,good,有助於降低膽固醇，降低血壓，減少心臟病的發病率,142,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+947,蓮藕;豬肝,N/A,bad,蓮藕的膳食纖維會影響人體對豬肝中鐵等微量元素的吸收,143,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+948,蓮藕;鱔魚,N/A,good,保持體內酸鹼平衡,143,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+949,蓮藕;百合,N/A,good,除煩止渴、益心潤肺,143,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+950,蓮藕;白米,N/A,good,健脾開胃、益血,143,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+951,蓮藕;紅糖,N/A,good,健脾開胃、止瀉,143,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+952,蘆筍;鰻魚,N/A,good,養陰潤肺、祛濕化痰,144,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+953,蘆筍;冬瓜,N/A,good,清熱解毒、降壓降脂,144,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+954,蘆筍;百合,N/A,good,清熱除煩、安神,144,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+955,蘆筍;銀杏,N/A,good,強身健體、潤肺定喘,144,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+956,蘆筍;金針,N/A,good,除煩、養血止血,144,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+957,蘆筍;沙拉醬,N/A,good,增進食慾、促進消化,144,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+958,竹筍;羊肝,N/A,bad,破壞營養，可能產生有害物質,145,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+959,竹筍;豆腐,bamboo shoot;tofu,bad,破壞營養，易形成結石,145,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+960,竹筍;豬肉,bamboo shoot;pork,good,利尿降壓，明目,145,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+961,竹筍;雞肉,bamboo shoot;chicken,good,健胃消食、降壓,145,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+962,竹筍;鯽魚,N/A,good,利尿消腫、滋補腎臟,145,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+963,竹筍;香菇,bamboo shoot;mushroom,good,健胃益氣、補精填髓,145,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+964,茭白筍;豆腐,N/A,bad,易形成結石,146,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+965,茭白筍;蜂蜜,N/A,bad,易誘發痼疾,146,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+966,茭白筍;豬蹄,N/A,good,開胃發乳,146,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+967,茭白筍;芹菜,N/A,good,降血壓,146,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+968,茭白筍;辣椒,N/A,good,開胃和中，適用於食慾不振、口淡乏味等病症,146,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+969,茭白筍;雞蛋,N/A,good,開胃解酒，適用於食慾不佳、酒醉者食用,146,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+970,辣椒;紅蘿蔔,N/A,bad,辣椒中的維生素C含量豐富，而紅蘿蔔含維生素C分解酶，一起吃會影響人體對維生素C的吸收,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+971,辣椒;南瓜,N/A,bad,辣椒中的維生素C含量豐富，而南瓜含維生素C分解酶，一起吃會影響人體對維生素C的吸收,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+972,辣椒;黃瓜,N/A,bad,辣椒中的維生素C含量豐富，而黃瓜含維生素C分解酶，一起吃會影響人體對維生素C的吸收,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+973,辣椒;豬肝,N/A,good,補血效果更好,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+974,辣椒;苦瓜,N/A,good,健美，抗衰老,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+975,辣椒;蝦,N/A,good,開胃消食，增強免疫力,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+976,辣椒;豆乾,N/A,good,健腦益智，美容,147,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+977,番茄;豬肝,N/A,bad,豬肝能使番茄中的維生素C氧化去氧，使其失去功能,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+978,番茄;魚肉,N/A,bad,番茄的維生素C可能會對魚肉中的銅元素的析放產生抑制作用,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+979,番茄;河蝦,N/A,bad,可能容易生成三價砷，造成中毒,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+980,番茄;鹹魚,N/A,bad,鹹魚製品含亞硝酸鹽，加上番茄所含的胺類，可產生致癌物亞硝胺，容易致癌,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+981,番茄;黃瓜,tomato;cucumber,bad,黃瓜的維生素C分解酶，會使番茄中的維生素C遭到破壞,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,DUP
+982,番茄;紅蘿蔔,tomato;carrot,bad,紅蘿蔔的維生素C分解酶，會使番茄中的維生素C遭到破壞,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+983,番茄;馬鈴薯,tomato;potato,bad,馬鈴薯和番茄同食會產生沉澱，導致食慾不佳、消化不良,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+984,番茄;鯽魚,N/A,good,補中益氣、養肝補血、通乳,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+985,番茄;青花菜,N/A,good,涼血，增強抗病能力，防癌,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+986,番茄;豆腐,tomato;tofu,good,生津止渴、益氣和中,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+987,番茄;雞蛋,tomato;egg,good,營養、美容、抗衰老,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+988,番茄;芹菜,N/A,good,降壓、健胃消食,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+989,番茄;白糖,N/A,good,降血壓效果明顯,148,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+990,絲瓜;豬肉,N/A,good,療暑熱煩渴，對內痔、大便出血有食療效果,150,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+991,絲瓜;雞蛋,N/A,good,清熱解毒、滋陰潤躁、養血通乳,150,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+992,絲瓜;鰱魚,N/A,good,對產後乳少有食療效果,150,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+993,絲瓜;毛豆,N/A,good,清熱袪痰，防止便秘、口臭和周身骨痛,150,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+994,苦瓜;羊肉,N/A,bad,易致腹瀉,151,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+995,苦瓜;排骨,N/A,bad,可能影響人體對排骨中鈣質的吸收,151,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+996,苦瓜;瘦肉,N/A,good,提高人體對鐵元素的吸收率,151,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+997,苦瓜;雞蛋,N/A,good,同食有利於骨骼、牙齒及血管的健康,151,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+998,苦瓜;洋蔥,N/A,good,可提高人體免疫力,151,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+999,苦瓜;辣椒,N/A,good,具開胃、涼血功效,151,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1000,冬瓜;鯉魚,N/A,bad,容易使身體水分流失,152,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1001,冬瓜;補藥,N/A,bad,降低補藥的滋補效果,152,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1002,冬瓜;海帶,N/A,good,清熱利尿、降脂降壓,152,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1003,冬瓜;花菜,N/A,good,清熱解毒、減肥潤燥,152,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1004,冬瓜;蘆筍,N/A,good,降壓降脂、清熱解毒,152,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1005,冬瓜;洋菇,N/A,good,清熱利尿、補腎益氣,152,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1006,南瓜;蝦,pumpkin;shrimp,bad,二者一溫一涼，同食容易引起腹瀉,153,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1007,南瓜;蟹,pumpkin;crab,bad,二者一溫一涼，同食容易引起腹瀉,153,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1008,南瓜;維生素C豐富的食物,N/A,bad,南瓜含維生素C分解酶，不宜與富含維生素C的食物同食,153,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1009,南瓜;豬肉,pumpkin;pork,good,增加營養、降血糖,153,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1010,南瓜;豬肝,N/A,good,具有健脾、養肝、明目的食療功效,153,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1011,茄子;蟹,eggplant;crab,bad,二者均性寒，同食易引起腹瀉、損傷腸胃,154,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1012,茄子;墨魚,N/A,bad,二者同食可能形成新的有機化合物，導致中毒，繼而引起腹瀉,154,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1013,茄子;白米,eggplant;white rice,good,煮粥食用，對黃疸肝炎有輔助治療功用,154,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1014,茄子;大蒜,N/A,good,有清熱、活血、寬腸、通便等食療功效，適宜在夏季食用,154,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1015,茄子;苦瓜,N/A,good,苦瓜有解除疲勞、清新明目的作用。茄子可去痛活血、清熱消腫、解痛利尿，並可防止血管破裂、平血壓、止咳血，是心血管病人的理想蔬菜,154,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1016,小黃瓜;番茄等富含維生素C的食物,N/A,bad,小黃瓜中所含的維生素C分解酶會破壞維生素C,156,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1017,小黃瓜;花生,cucumber;peanut,bad,性寒食物與油脂相遇，會增加其滑利之性，兩者同食多食，易導致腹瀉,156,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1018,小黃瓜;大蒜,N/A,good,可抑制糖類轉變為脂肪、降低膽固醇，對減肥有益,156,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1019,小黃瓜;黑木耳,N/A,good,小黃瓜有減肥的功效，黑木耳有滋補強壯、補血的作用，可以平衡營養,156,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1020,豇豆;豬肉,cowpea;pork,good,營養豐富，對動脈硬化、高血壓、糖尿病、水腫、消化不良、便秘等有助益,157,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1021,豇豆;花菜,N/A,good,健脾補腎、潤肺爽喉,157,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1022,豇豆;雞肉,cowpea;chicken,good,同食可健脾補腎、益氣生津、填精補髓,157,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1023,豇豆;空心菜,N/A,good,健脾利濕，用於濕熱脾虛之帶下或小便不利的輔助治療,157,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1024,扁豆;魚乾,N/A,bad,影響鈣的吸收,158,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1025,扁豆;醋,N/A,bad,醋酸會破壞扁豆中的維生素,158,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1026,扁豆;白米,N/A,good,健脾止瀉,158,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1027,扁豆;香菇,N/A,good,護眼、防癌，抗衰老,158,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1028,豆芽;藥物,N/A,bad,服藥時勿食用綠豆芽，因為綠豆會降低藥效,159,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1029,豆芽;薑,N/A,good,可中和寒性，還可以增加湯的美味,159,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1030,豆芽;鴨肝,N/A,good,利濕、清熱，適合肝硬化腹水患者,159,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1031,豆芽;鯽魚,N/A,good,通乳，適用於產後乳汁不足,159,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1032,豆芽;豬血,N/A,good,改善失眠、煩躁,159,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1033,金針菇;豬肚,N/A,good,能改善食慾不振、腸胃不適症狀,160,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1034,金針菇;雞肉,N/A,good,益氣、補血,160,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1035,金針菇;蝦仁,N/A,good,抗癌、益智,160,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1036,金針菇;豆腐,N/A,good,防癌、抗癌,160,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1037,香菇;酒,mushroom;alcohol,bad,會影響維生素D的吸收,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1038,香菇;小米,N/A,good,大益胃氣、開胃助食,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1039,香菇;豬肉,mushroom;pork,good,營養均衡、強身健體,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1040,香菇;雞肉,mushroom;chicken,good,調養脾胃、滋補養顏,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1041,香菇;豆腐,mushroom;tofu,good,可以降壓、減肥,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1042,香菇;油菜,N/A,good,益智健腦、潤腸通便,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1043,香菇;洋菇,N/A,good,滋補強壯、消食化痰,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1044,香菇;萵筍,N/A,good,具有利尿通便、降血脂降血壓的功效,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1045,香菇;青花菜,N/A,good,可滋補元氣，改善身體容易疲倦,161,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1046,草菇;豬肉,N/A,good,補脾益氣，適用於慢性腎炎,162,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1047,草菇;番茄,N/A,good,清熱解暑、降壓,162,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1048,草菇;竹筍,N/A,good,防治癌症,162,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1049,草菇;油菜,N/A,good,營養更豐富,162,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1050,草菇;紅蘿蔔,N/A,good,營養豐富、養顏益壽,162,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1051,草菇;豆腐,N/A,good,健脾胃、降壓降脂,162,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1052,白木耳;蓮子;紅棗,N/A,good,白木耳、蓮子養陰，紅棗生血，搭配可益氣補血、健脾和胃,163,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1053,白木耳;百合,N/A,good,同食能安神活血，潤肺止咳、清肺生津,163,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1054,黑木耳;茶,N/A,bad,同食容易導致降低人體對鐵的吸收,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1055,黑木耳;田螺,N/A,bad,田螺 (螺肉) 屬寒性、木耳滑利，二者同食，會導致腹瀉等消化不良的症狀,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1056,黑木耳;豬肉,N/A,good,潤燥利腸、美容養顏,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1057,黑木耳;鯽魚,N/A,good,能溫中補虛、利尿、潤膚養顏和抗衰老,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1058,黑木耳;海帶,N/A,good,清熱解毒、益氣生津,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1059,黑木耳;雞蛋,N/A,good,滋陰潤燥，養心安神,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1060,黑木耳;黃瓜,N/A,good,營養平衡，滋補強身,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1061,黑木耳;豆腐,N/A,good,木耳及豆腐均為健康食品，同食降低膽固醇效果更好,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1062,黑木耳;蒜苔,N/A,good,滋陰潤肺、涼血止血,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1063,黑木耳;紅棗,N/A,good,調理氣血,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1064,黑木耳;山楂,N/A,good,可以輔助治療口腔潰瘡和痛經,164,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1065,梨;白蘿蔔,N/A,bad,易誘發甲狀腺腫大,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1066,梨;紅蘿蔔,N/A,bad,同吃會降低營養價值,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1067,梨;蟹,N/A,bad,易致腹瀉，傷腸胃,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1068,梨;熱開水,N/A,bad,易刺激腸胃而導致腹瀉,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1069,梨;羊肉,N/A,bad,梨所含消化酶會分解羊肉的酵素，易阻礙消化；二者性味一涼一熱，同食對胃腸也有損壞,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1070,梨;豬肺,N/A,good,清熱潤肺，助消化,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1071,梨;薑,N/A,good,清熱化痰、降逆止呃,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1072,梨;芝麻,N/A,good,調節蛋白質代謝,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1073,梨;白木耳,N/A,good,清熱、潤肺、止咳,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1074,梨;百合,N/A,good,潤肺止咳,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1075,梨;膨大海,N/A,good,滋潤咽喉、補充津液,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1076,梨;冰糖,N/A,good,潤肺、解毒,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1077,梨;蜂蜜,N/A,good,緩解咳嗽,166,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1078,蘋果;魷魚,N/A,bad,易導致腹痛、噁心、嘔吐等病症,168,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1079,蘋果;白蘿蔔,apple;white radish,bad,易誘發甲狀腺腫大,168,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1080,蘋果;魚肉,apple;fish,good,止瀉，且美味可口,168,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1081,蘋果;枸杞,N/A,good,和胃開脾、補心益氣,168,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1082,蘋果;牛奶,apple;milk,good,清涼解渴、生津除熱,168,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1083,香蕉;馬鈴薯,banana;potato,bad,易導致腹脹，不易消化,169,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1084,香蕉;地瓜,N/A,bad,易引發腹脹不適,169,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1085,香蕉;山藥,N/A,bad,同食容易導致腹脹,169,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1086,香蕉;燕麥,N/A,good,改善睡眠,169,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1087,香蕉;冰糖,N/A,good,潤腸通便、去火生津,169,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1088,香蕉;牛奶,banana;milk,good,提高人體對維生素B12的利用率,169,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1089,柑橘;豬肉,N/A,bad,影響消化，可能引發嘔吐,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1090,柑橘;蟹,N/A,bad,易導致氣滯腹脹,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1091,柑橘;牛奶,N/A,bad,容易引起腹脹、腹痛、腹瀉,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1092,柑橘;黃瓜,N/A,bad,黃瓜含維生素分解酶，柑橘富含維生素，同食降低營養價值,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1093,柑橘;白蘿蔔,N/A,bad,易誘發或導致甲狀腺腫大,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1094,柑橘;木耳,N/A,good,清熱解毒、通經止痛,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1095,柑橘;百合,N/A,good,潤肺生津,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1096,柑橘;白糖,N/A,good,理氣止痛,170,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1097,西瓜;羊肉,watermelon;lamb,bad,易引發腸胃不適,171,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1098,西瓜;蜂蜜,watermelon;honey,bad,會破壞維生素C，影響營養吸收,171,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1099,西瓜;白酒,watermelon;white wine,bad,易引發腸胃不適,171,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1100,西瓜;西谷米,N/A,good,健脾化痰,171,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1101,西瓜;薄荷,watermelon;mint,good,生津止咳、提神醒腦,171,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1102,西瓜;冰糖,N/A,good,涼血、助排泄,171,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1103,桃;甲魚,N/A,bad,容易導致腹痛、腹瀉,172,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1104,桃;白蘿蔔,peach;white radish,bad,易誘發甲狀腺腫大,172,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1105,桃;紅蘿蔔,peach;carrot,bad,兩者同時食用，會降低各自的營養價值,172,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1106,桃;酒,peach;alcohol,bad,會加重醉酒症狀，可能引發昏迷,172,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1107,桃;A菜心,N/A,good,利水消腫,172,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1108,桃;牛奶,peach;milk,good,清涼解渴、營養豐富,172,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1109,葡萄;海鮮,grape;sea food||seafood,bad,葡萄富含維生素C，與海鮮中的鈣質結合形成的物質會刺激胃腸道，引起腹痛、噁心、嘔吐等症狀,173,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1110,葡萄;白米,grape;white rice,good,美容養顏,173,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1111,葡萄;枸杞,N/A,good,可預防和治療感冒,173,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1112,葡萄;蜂蜜,grape;honey,good,預防感冒,173,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1113,奇異果;蝦,kiwi;shrimp,bad,奇異果的維生素C，與蝦蟹中的鈣質結合形成的物質會刺激腸胃，引起腹痛、噁心、嘔吐等症狀,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1114,奇異果;蟹,kiwi;crab,bad,奇異果的維生素C，與蝦蟹中的鈣質結合形成的物質會刺激腸胃，引起腹痛、噁心、嘔吐等症狀,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1115,奇異果;紅蘿蔔,kiwi;carrot,bad,紅蘿蔔所含的維生素分解酶，可能會破壞奇異果中含有的維生素C,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1116,奇異果;黃瓜,N/A,bad,黃瓜所含的維生素分解酶，可能會破壞奇異果中含有的維生素C,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1117,奇異果;牛奶,kiwi;milk,bad,影響消化吸收，可能會導致腹脹、腹痛、腹瀉,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1118,奇異果;止痛藥,N/A,bad,奇異果含豐富的維生素C，會降低止痛藥的療效,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1119,奇異果;薑,N/A,good,一起榨汁飲用，可清胃止嘔,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1120,奇異果;優酪乳,N/A,good,促進腸道健康,174,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1121,山楂;豬肝,N/A,bad,會發生氧化，破壞維生素C、礦物質,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1122,山楂;海產,N/A,bad,刺激腸胃，引發不適，易導致腹痛、噁心,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1123,山楂;黃瓜,N/A,bad,黃瓜所含的維生素分解酶會破壞山楂中的維生素C,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1124,山楂;南瓜,N/A,bad,南瓜所含的維生素分解酶會破壞山楂中的維生素C,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1125,山楂;白米,N/A,good,健胃消食、補血養顏,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1126,山楂;排骨,N/A,good,祛斑消瘀、補中益氣,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1127,山楂;紅糖,N/A,good,活血化瘀,175,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1128,稻米;蜂蜜,N/A,bad,同食容易導致胃痛,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1129,稻米;鹼,N/A,bad,會破壞維生素B1,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1130,稻米;小米,N/A,good,營養互補，搭配食用可提高營養價值,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1131,稻米;白蘿蔔,N/A,good,止咳消痰、消食、止渴消腫,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1132,稻米;山藥,N/A,good,健脾益胃，助消化,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1133,稻米;菠菜,N/A,good,潤燥養血,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1134,稻米;白木耳,N/A,good,滋陰潤肺，生津,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1135,稻米;紅蘿蔔,N/A,good,補中益氣，安五臟,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1136,稻米;栗子,N/A,good,健脾養胃，補腎、壯筋骨,176,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1137,糯米;雞肉,N/A,bad,不益消化，易引起身體不適,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1138,糯米;蘋果,N/A,bad,易導致噁心、嘔吐、腹痛,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1139,糯米;白木耳,N/A,good,滋陰潤肺，美容,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1140,糯米;紅棗,N/A,good,健脾益氣、緩解心悸失眠,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1141,糯米;蓮子,N/A,good,益氣和胃，強健骨骼牙齒,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1142,糯米;蓮藕,N/A,good,調和氣血、清熱生津,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1143,糯米;山藥,N/A,good,益肺補腎、斂汗止咳,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1144,糯米;蜂蜜,N/A,good,補中益氣、美容養顏,177,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1145,小米;蝦米,N/A,bad,易致人噁心嘔吐,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1146,小米;杏仁,N/A,bad,同時易使人嘔吐、泄瀉,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1147,小米;肉類,N/A,good,可提高蛋白質利用率,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1148,小米;黃豆,N/A,good,可提高蛋白質利用率,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1149,小米;雞肝,N/A,good,益氣補血,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1150,小米;白米,N/A,good,同食可提高營養價值,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1151,小米;紅糖,N/A,good,補益氣血，適宜產婦食用,178,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1152,黑米;紅豆,N/A,good,氣血雙補,179,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1153,黑米;黑豆,N/A,good,健腦益智、滋補肝腎,179,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1154,黑米;核桃仁,N/A,good,可補腦、固精、益智,179,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1155,黑米;蓮子,N/A,good,養心安神、健脾補腎,179,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1156,黑米;紅棗,N/A,good,滋補脾胃、烏髮養顏,179,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1157,黑米;紅糖,N/A,good,活血養血、補血養顏,179,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1158,薏仁;雞肉,N/A,good,溫中益氣、補虛強身,180,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1159,薏仁;山藥,N/A,good,清補脾肺、健脾開胃、美顏護膚,180,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1160,薏仁;冬瓜,N/A,good,清熱袪濕、緩和拘攣,180,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1161,薏仁;白木耳,N/A,good,利於脾胃虛弱者,180,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1162,薏仁;香菇,N/A,good,抗癌、保護肝臟,180,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1163,薏仁;百合,N/A,good,滋陰潤肺、清心安神,180,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1164,玉米;田螺,N/A,bad,可能引發身體不適,181,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1165,玉米;雞肉,corn;chicken,good,消除疲勞、降低膽固醇,181,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1166,玉米;雞蛋,corn;egg,good,預防感冒、避免眼睛乾澀,181,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1167,玉米;番茄,corn;tomato,good,開胃健脾、營養豐富,181,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1168,玉米;松子,N/A,good,可輔助治療脾肺氣虛、皮膚乾燥等,181,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1169,黃豆;豬血,N/A,bad,同吃易致消化不良,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1170,黃豆;蝦米,N/A,bad,同吃會影響鈣的吸收,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1171,黃豆;芹菜,N/A,bad,同吃會影響鐵的吸收,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1172,黃豆;菠菜,N/A,bad,同吃會影響鈣質吸收,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1173,黃豆;蜂蜜,soybean||soy bean;honey,bad,同食容易引起腹瀉,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1174,黃豆;牛奶,soybean||soy bean;milk,bad,同食會影響鈣的吸收,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1175,黃豆;排骨,N/A,good,提高蛋白質營養價值，補鐵,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1176,黃豆;牛蹄筋,N/A,good,美容、強筋健骨,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1177,黃豆;海帶,soybean||soy bean;kelp,good,益氣養血、清熱解毒,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1178,黃豆;茄子,soybean||soy bean;eggplant,good,益氣養血、保護血管,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1179,黃豆;雪裡紅,N/A,good,提高人體對鈣的吸收率,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1180,黃豆;穀類,N/A,good,促進蛋白質消化吸收,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1181,黃豆;南瓜,soybean||soy bean;pumpkin,good,保護眼睛、預防感染,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1182,黃豆;松子,N/A,good,增強抗衰老能力、抗癌、改善便秘,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1183,黃豆;花生,soybean||soy bean;peanut,good,健脾生血、豐胸通乳,182,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1184,黑豆;海帶,N/A,good,活血、利水、祛風、解毒,184,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1185,黑豆;穀類,N/A,good,營養互補，提高營養價值,184,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1186,黑豆;紅棗,N/A,good,增強補血補腎功效,184,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1187,黑豆;紅糖,N/A,good,活血行經,184,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1188,紅豆;豬肉,N/A,bad,易引起脹氣,185,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1189,紅豆;鯉魚,N/A,good,消水腫，但正常人不可多食,185,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1190,紅豆;烏骨雞,N/A,good,滋陰養血、利水消腫,185,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1191,紅豆;山藥,N/A,good,清熱袪濕、健脾止瀉,185,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1192,紅豆;紅棗,N/A,good,同食可緩解冬季皮膚乾燥發癢，補血,185,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1193,綠豆;番茄,N/A,bad,二者均性涼，同吃易傷身體,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1194,綠豆;藥物,N/A,bad,綠豆解藥，會降低藥物的療效,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1195,綠豆;白米,N/A,good,清熱解毒、增強食慾,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1196,綠豆;小米,N/A,good,清熱解毒、增強食慾,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1197,綠豆;南瓜,N/A,good,清熱解毒、補中益氣,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1198,綠豆;燕麥,N/A,good,清熱消腫、潤腸通便、控制血糖,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1199,綠豆;木耳,N/A,good,清熱涼血、潤肺生津,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1200,綠豆;豬肝,N/A,good,幫助排便、降低血中膽固醇,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1201,綠豆;冬瓜,N/A,good,清熱解毒、消暑止渴、利水消腫的功效更佳,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1202,綠豆;百合,N/A,good,養心除煩、健脾益胃、解毒消腫,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1203,綠豆;海帶,N/A,good,清熱解毒、涼血養陰、降血壓。常吃可治療感善粉刺,186,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1204,蠶豆;田螺,N/A,bad,可能引發腸絞痛，還會影響鋅的吸收,188,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1205,蠶豆;牛肉,N/A,good,健脾利濕、補虛強體,188,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1206,蠶豆;蝦仁,N/A,good,增強記憶、益智健腦,188,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1207,蠶豆;鯽魚,N/A,good,健脾和胃、利水消腫,188,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1208,蠶豆;韭菜,N/A,good,幫助消化、消除腹脹,188,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1209,燕麥;菠菜,N/A,bad,影響人體對鈣的吸收,189,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1210,燕麥;小米,N/A,good,減肥，有益心血管疾病,189,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1211,燕麥;南瓜,N/A,good,益肝和胃、潤腸通便、降糖降脂,189,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1212,燕麥;黃豆,N/A,good,有預防貧血的食療功效,189,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1213,燕麥;牛奶,N/A,good,動植物蛋白互補，利於吸收,189,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1214,蕎麥;豬肉,N/A,bad,同食易產生粉刺,190,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1215,蕎麥;豬肝,N/A,bad,影響消化，易誘發痼疾,190,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1216,蕎麥;白米,N/A,good,白飯裡加入蕎麥食用，可補充B群與鐵質,190,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1217,蕎麥;香菇,N/A,good,消脂除膩、幫助消化，美白防衰老,190,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1218,蕎麥;蜂蜜,N/A,good,引氣下降、潤肺止咳,190,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1219,蕎麥;白糖,N/A,good,健脾消積、解毒斂瘡,190,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1220,黑芝麻;黃瓜,N/A,bad,易導致腹瀉,191,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1221,黑芝麻;巧克力,N/A,bad,影響營養素消化吸收,191,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1222,黑芝麻;海帶,N/A,good,抗衰老,191,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1223,黑芝麻;核桃仁,N/A,good,可改善睡眠品質,191,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1224,黑芝麻;桂圓肉,N/A,good,補血、養顏、抗衰老,191,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1225,芝麻;檸檬,N/A,good,美容養顏,191,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1226,枸杞;紅參,N/A,bad,容易上火,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1227,枸杞;綠茶,N/A,bad,綠茶所含鞣酸會吸附枸杞中的微量元素，生成人體難以吸收的物質,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1228,枸杞;羊肝,N/A,good,益精補腎、養肝明目、防治眼病,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1229,枸杞;豬肉,N/A,good,清熱潤燥、潤膚美容,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1230,枸杞;雞肉,N/A,good,清熱潤燥、潤膚美容,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1231,枸杞;竹筍,N/A,good,清肝降火,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1232,枸杞;蓮子,N/A,good,養心益腎、安神,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1233,枸杞;甲魚,N/A,good,補腎強精、延年益壽,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1234,枸杞;羊肉,N/A,good,溫陽壯腰、補腎強筋,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1235,枸杞;紅棗,N/A,good,養血安神、健脾益氣,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1236,枸杞;葡萄,N/A,good,補血效果更強,198,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1237,百合;雞蛋,N/A,good,滋陰潤燥、清心安神,202,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1238,百合;西芹,N/A,good,潤肺防燥，增強食慾,202,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1239,百合;蜂蜜,N/A,good,能增強潤肺止咳作用,202,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1240,蓮子;糯米,N/A,good,補脾益胃、利濕,203,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1241,蓮子;山藥,N/A,good,健脾益氣、緩解心悸失眠,203,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1242,蓮子;白木耳,N/A,good,清香可口、除勞潤肌,203,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1243,紅棗;蝦,N/A,bad,易致過敏或中毒,204,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1244,紅棗;黃瓜,N/A,bad,黃瓜含維生素C分解酶會破壞紅棗的維生素C,204,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1245,紅棗;洋蔥,N/A,bad,易導致脾胃不和，造成身體不適,204,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1246,紅棗;羊肉,N/A,good,益腎健脾、活血化瘀,204,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1247,紅棗;百合,N/A,good,潤肺止咳、健脾養胃,204,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1248,紅棗;桂圓肉,N/A,good,補氣血、益脾胃,204,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1249,綠茶;豬肉,green tea;pork,bad,易引起便秘,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1250,綠茶;羊肉,green tea;lamb||mutton,bad,易引起便秘,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1251,綠茶;雞蛋,green tea;egg,bad,刺激胃，不利於消化吸收,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1252,綠茶;黑木耳,N/A,bad,影響人體對鐵的吸收,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1253,綠茶;枸杞,N/A,bad,可能會生成人體難以吸收的物質,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1254,綠茶;黃豆,green tea;soybean||soy bean,bad,易造成身體不適,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1255,綠茶;白酒,green tea;white wine,bad,易加重心臟負擔,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1256,綠茶;甜杏仁,N/A,good,清熱潤肺、解毒祛痰、抗癌,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1257,綠茶;蜂蜜,green tea;honey,good,清熱潤肺、解毒祛痰、抗癌,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1258,綠茶;牛奶,green tea;milk,good,解油膩、助消化、利尿解毒,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1259,綠茶;薏仁,N/A,good,健脾補肺、清心益氣、清熱解毒,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1260,綠茶;薄荷,N/A,good,有生津止渴、提神醒腦、鎮靜安神的功效，對消除疲勞、緩解壓力很有好處,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1261,綠茶;西瓜,green tea;watermelon,good,生津止渴、鎮定情緒,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1262,綠茶;白米,green tea;white rice,good,消積化痰、除煩止渴,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1263,綠茶;菊花,N/A,good,平肝明目、散風熱,206,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1264,蜂蜜;韭菜,N/A,bad,容易引起腹瀉,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1265,蜂蜜;A菜心,N/A,bad,容易引起腹瀉,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1266,蜂蜜;豆腐,honey;tofu,bad,容易引起腹瀉,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1267,蜂蜜;蔥,N/A,bad,易導致胸悶,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1268,蜂蜜;豆漿,honey;soy milk||soymilk,bad,不利於人體吸收蛋白質,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1269,蜂蜜;山藥,N/A,good,補中益氣、提神醒腦,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1270,蜂蜜;梨,N/A,good,清熱化痰、止咳,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1271,蜂蜜;牛奶,honey;milk,good,清涼消火、生津潤喉、幫助睡眠,208,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1272,紅酒;豬肝,N/A,bad,不利於人體對鐵的吸收,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1273,紅酒;黑木耳,N/A,bad,不利於人體對鐵的吸收,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1274,紅酒;醋,red wine;vinegar,bad,影響口感,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1275,紅酒;紅茶,red wine;black tea,bad,刺激心臟，加重心臟負擔,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1276,紅酒;海鮮,N/A,bad,營養損失、口感不佳,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1277,紅酒;牛肉,red wine;beef,good,消食解膩,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1278,紅酒;巧克力,red wine;chocolate,good,促進新陳代謝，及時散發熱量,209,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1279,牛奶;菠菜,milk;spinach,bad,易形成草酸鈣，不利於吸收,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1280,牛奶;橘子,milk;orange,bad,富含維生素C的食物和牛奶同食，會影響牛奶的消化與吸收。也忌與酸性果汁同食，因牛奶內含多量酪蛋白，遇到酸性果汁後常結成較大的凝塊而影響消化吸收，會引起腹脹、噁心、嘔吐,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1281,牛奶;檸檬,milk;lemon,bad,富含維生素C的食物和牛奶同食，會影響牛奶的消化與吸收。也忌與酸性果汁同食，因牛奶內含多量酪蛋白，遇到酸性果汁後常結成較大的凝塊而影響消化吸收，會引起腹脹、噁心、嘔吐,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1282,牛奶;白米,milk;white rice,good,補氣、健脾胃,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1283,牛奶;薑,milk;ginger root,good,有散寒、和胃、止嘔的功效,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1284,牛奶;洋蔥,N/A,good,有散寒、和胃、止嘔的功效,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1285,牛奶;燕麥,N/A,good,更利於蛋白質消化吸收，營養互補,210,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1286,優酪乳;黃豆,N/A,bad,易引發腸胃不適,211,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1287,優酪乳;藥物,N/A,bad,降低藥效,211,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1288,優酪乳;番茄,N/A,good,涼血平肝、補虛降脂,211,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1289,優酪乳;水果,N/A,good,營養均衡，促進腸道健康,211,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1290,蔥;豆腐,N/A,bad,易影響人體對鈣的吸收,212,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1291,蔥;蜂蜜,N/A,bad,容易導致腹瀉,212,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1292,蔥;糯米,N/A,good,益氣養血、開竅醒神、回陽救逆，可用於治療產後血虛氣脫所致的昏厥,212,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1293,蔥;紅棗,N/A,good,和胃安神，可輔助治療神經衰弱所致的失眠、體虛乏力、食慾不振、消化不良等症,212,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1294,蔥;羊肉,N/A,good,殺菌防癌、補陽強身,212,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1295,蔥;洋菇,N/A,good,清熱殺菌、降血脂,212,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1296,薑;水產品,N/A,good,去腥、殺菌、溫補,213,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1297,薑;醋,ginger root;vinegar,good,減緩噁心、嘔吐促進食慾、幫助消化,213,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1298,大蒜;羊肉,N/A,bad,助火，易損傷胃黏膜,214,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1299,大蒜;芒果,N/A,bad,可能導致腸胃不適,214,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1300,大蒜;蜂蜜,N/A,bad,容易導致腹瀉,214,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1301,大蒜;瘦肉,N/A,good,促進血液循環，消除身體疲勞、增強體質,214,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1302,大蒜;醋,N/A,good,增強殺菌功效，對治療痢疾、腸炎效果更好,214,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1303,花椒;羊肉,N/A,bad,花椒辛辣溫熱，羊肉也是溫熱食物，搭配過量易引起上火，也易造成便秘,215,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1304,花椒;豬瘦肉,N/A,good,有助於改善缺鐵性貧血,215,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1305,花椒;白米,N/A,good,可輔助治療牙痛,215,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1306,花椒;豆腐,N/A,good,幫助排除體內廢物，促進生長發育,215,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1307,花椒;胡椒,N/A,good,可輔助治療痛經,215,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1308,乾辣椒;牛肝,N/A,bad,牛肝富含銅、鐵，易使辣椒中的維生素C氧化，降低營養價值,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1309,乾辣椒;中藥,N/A,bad,生病服藥期間吃辣椒會加重症狀，且會影響藥效,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1310,乾辣椒;黃瓜,N/A,bad,黃瓜中的維生素C分解酶會破壞辣椒中的維生素C,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1311,乾辣椒;涼血藥,N/A,bad,辣椒熱量高，會造成抵消藥效,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1312,乾辣椒;肉,N/A,good,開胃消食,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1313,乾辣椒;蝦,N/A,good,開胃消食、壯陽，增強人體免疫力,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1314,乾辣椒;苦瓜,N/A,good,增加食慾、抗衰老,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1315,乾辣椒;鱔魚,N/A,good,去除腥味、降血糖,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1316,乾辣椒;白菜,N/A,good,促進腸胃蠕動、助消化,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1317,乾辣椒;豆腐,N/A,good,健腦益智,216,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1318,桂皮;蔥,N/A,bad,易生邪火,218,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1319,桂皮;菊花,N/A,bad,屬性相反，會降低療效,218,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1320,桂皮;肉類,N/A,good,增香、溫中健胃,218,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1321,桂皮;雞肝,N/A,good,可改善小兒遺尿,218,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1322,桂皮;紅糖,N/A,good,散寒止痛，可治痛經,218,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1323,芥末;雞肉,N/A,bad,助陽生火、傷身體,219,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1324,芥末;甲魚,N/A,bad,易生瘡,219,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1325,芥末;酒,N/A,bad,易上火,219,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1326,芥末;海鮮,N/A,good,芥末能解魚蟹之毒，與海鮮搭配還能美容養顏,219,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1327,芥末;芹菜,N/A,good,一同食用可增強免疫力,219,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1328,芥末;菠菜,N/A,good,改善貧血,219,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1329,醬油;鯉魚,N/A,bad,味道不好，也容易引發口瘡,220,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1330,醋;羊肉,vinegar;lamb||mutton,bad,容易生火動血,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1331,醋;綠色葉菜,N/A,bad,葉綠素在酸性條件下加熱會降低營養成分,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1332,醋;紅蘿蔔,vinegar;carrot,bad,酸性環境會破壞β-胡蘿蔔素,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1333,醋;牛奶,vinegar;milk,bad,醋酸易使牛奶發生凝集和沉澱，不易被人體消化吸收,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1334,醋;鯉魚,N/A,good,利濕的功效更強,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1335,醋;皮蛋,N/A,good,可中和皮蛋中的鹼性成分,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1336,醋;馬鈴薯,vinegar;potato,good,有助消化和營養成分的吸收利用,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
+1337,醋;蓮藕,N/A,good,清除腸道污物，防止便秘,221,圖解《本草綱目》飲食禁忌vs.黃金搭配,N/A
